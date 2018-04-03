@@ -335,7 +335,7 @@
       <word id="11" form="κἀμέ" lemma="ἐγώ" postag="p-s---fa-" head="9" relation="OBJ" cite="urn:cts:greekLit:tlg0011.tlg002:32"/>
       <word id="12" form="," lemma="," postag="u--------" head="9" relation="AuxY" cite=""/>
       <word id="13" form="κηρύξαντ̓" lemma="κηρύσσω" postag="v-sapama-" head="26" relation="OBJ_CO" cite="urn:cts:greekLit:tlg0011.tlg002:32"/>
-      <word id="14" form="ἔχειν" lemma="ἔχω" postag="v--pna---" head="13" relation="AuxK" cite="urn:cts:greekLit:tlg0011.tlg002:32"/>
+      <word id="14" form="ἔχειν" lemma="ἔχω" postag="v--pna---" head="13" relation="ADV" cite="urn:cts:greekLit:tlg0011.tlg002:32"/>
       <word id="15" form="," lemma="," postag="u--------" head="26" relation="AuxX" cite=""/>
       <word id="16" form="καὶ" lemma="καί" postag="c--------" head="26" relation="AuxY" cite="urn:cts:greekLit:tlg0011.tlg002:33"/>
       <word id="17" form="δεῦρο" lemma="δεῦρο" postag="d--------" head="18" relation="OBJ" cite="urn:cts:greekLit:tlg0011.tlg002:33"/>
