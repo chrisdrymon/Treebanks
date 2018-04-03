@@ -251,14 +251,14 @@
       <word id="5" form="τὼ" lemma="ὁ" postag="l-d---ma-" head="6" relation="ATR" cite="urn:cts:greekLit:tlg0011.tlg002:21"/>
       <word id="6" form="κασιγνήτω" lemma="κασίγνητος" postag="n-d---ma-" head="17" relation="OBJ" cite="urn:cts:greekLit:tlg0011.tlg002:21"/>
       <word id="7" form="Κρέων" lemma="Κρέων" postag="n-s---mn-" head="13" relation="SBJ" cite="urn:cts:greekLit:tlg0011.tlg002:21"/>
-      <word id="8" form="τὸν" lemma="ὁ" postag="p-s---ma-" head="10" relation="OBJ" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
+      <word id="8" form="τὸν" lemma="ὁ" postag="p-s---ma-" head="10" relation="OBJ_CO" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
       <word id="9" form="μὲν" lemma="μέν" postag="g--------" head="13" relation="AuxY" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
-      <word id="10" form="προτίσας" lemma="προτίω" postag="v-sapamn-" head="13" relation="PRED_CO" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
+      <word id="10" form="προτίσας" lemma="προτίω" postag="v-sapamn-" head="13" relation="OCOMP" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
       <word id="11" form="," lemma="," postag="u--------" head="13" relation="AuxX" cite=""/>
-      <word id="12" form="τὸν" lemma="ὁ" postag="p-s---ma-" head="14" relation="OBJ" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
+      <word id="12" form="τὸν" lemma="ὁ" postag="p-s---ma-" head="14" relation="OBJ_CO" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
       <word id="13" form="δ̓" lemma="δέ" postag="g--------" head="0" relation="COORD" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
-      <word id="14" form="ἀτιμάσας" lemma="ἀτιμάζω" postag="v-sapamn-" head="13" relation="PRED_CO" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
-      <word id="15" form="ἔχει" lemma="ἔχω" postag="v3spia---" head="13" relation="AuxK" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
+      <word id="14" form="ἀτιμάσας" lemma="ἀτιμάζω" postag="v-sapamn-" head="13" relation="OCOMP" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
+      <word id="15" form="ἔχει" lemma="ἔχω" postag="v3spia---" head="13" relation="PRED" cite="urn:cts:greekLit:tlg0011.tlg002:22"/>
       <word id="16" form=";" lemma=";" postag="u--------" head="0" relation="AuxK" cite=""/>
       <word id="17" insertion_id="0016e" form="[0]" artificial="elliptic" head="13" relation="PRED_CO"/>
     </sentence>
