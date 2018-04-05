@@ -9749,13 +9749,13 @@
       <word form="τῷ" head="8916" id="8915" lemma="ὁ" postag="l-s---md-" relation="ATR" />
       <word form="θεῷ" head="8914" id="8916" lemma="θεός" postag="n-s---md-" presentation-after="," relation="ADV" />
       <word form="ἐπιγράψαντες" head="8911" id="8917" lemma="ἐπιγράφω" postag="v-papamn-" relation="ADV" />
-      <word form="ἐλεγεῖον" head="9609" id="8918" lemma="ἐλεγεῖον" postag="n-s---na-" relation="OBJ_AP" />
+      <word form="ἐλεγεῖον" head="9603" id="8918" lemma="ἐλεγεῖον" postag="n-s---na-" relation="OBJ_AP" />
       <word form="τόδε" head="8918" id="8919" lemma="ὅδε" postag="a-s---na-" presentation-after="," relation="ATR" />
       <word form="Ἑλλάδος" head="8922" id="8920" lemma="Ἑλλάς" postag="n-s---fg-" relation="ATR" />
       <word form="εὐρυχόρου" head="8920" id="8921" lemma="εὐρύχορος" postag="a-s---fg-" relation="ATR" />
       <word form="σωτῆρες" head="8924" id="8922" lemma="σωτήρ" postag="n-p---mn-" relation="SBJ" />
       <word form="τόνδ̓" head="8924" id="8923" lemma="ὅδε" postag="p-s---ma-" relation="OBJ" />
-      <word form="ἀνέθηκαν" head="9609" id="8924" lemma="ἀνατίθημι" postag="v3paia---" presentation-after="," relation="OBJ_AP" />
+      <word form="ἀνέθηκαν" head="9603" id="8924" lemma="ἀνατίθημι" postag="v3paia---" presentation-after="," relation="OBJ_AP" />
       <word form="δουλοσύνης" head="8927" id="8925" lemma="δουλόσύνη" postag="n-s---fg-" relation="ADV" />
       <word form="στυγερᾶς" head="8925" id="8926" lemma="στυγερός" postag="a-s---fg-" relation="ATR" />
       <word form="ῥυσάμενοι" head="8924" id="8927" lemma="ῥύομαι" postag="v-papmmn-" relation="ADV" />
@@ -9773,12 +9773,12 @@
       <word form="κοινῇ" head="8939" id="8937" lemma="κοινῇ" postag="d--------" relation="ADV" />
       <word form="μὲν" head="8951" id="8938" lemma="μέν" postag="d--------" relation="AuxY" />
       <word form="ἅπασι" head="8965" id="8939" lemma="ἅπας" postag="a-p---md-" relation="ADV" />
-      <word form="τόδε" head="9633" id="8940" lemma="ὅδε" postag="p-s---na-" presentation-after="," relation="OBJ_AP" />
+      <word form="τόδε" head="9627" id="8940" lemma="ὅδε" postag="p-s---na-" presentation-after="," relation="OBJ_AP" />
       <word form="μυριάσιν" head="8945" id="8941" lemma="μυριάς" postag="n-p---fd-" relation="OBJ" />
       <word form="ποτὲ" head="8945" id="8942" lemma="ποτέ" postag="d--------" relation="ADV" />
       <word form="τῇδε" head="8945" id="8943" lemma="τῇδε" postag="d--------" relation="ADV" />
       <word form="διηκοσίαις" head="8941" id="8944" lemma="διακόσιοι" postag="a-p---fd-" relation="ATR" />
-      <word form="ἐμάχοντο" head="9633" id="8945" lemma="μάχομαι" postag="v3piie---" relation="OBJ_AP" />
+      <word form="ἐμάχοντο" head="9627" id="8945" lemma="μάχομαι" postag="v3piie---" relation="OBJ_AP" />
       <word form="ἐκ" head="8948" id="8946" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word form="Πελοποννήσου" head="8946" id="8947" lemma="Πελοπόννησος" postag="n-s---fg-" relation="ATR" />
       <word form="χιλιάδες" head="8945" id="8948" lemma="χιλιάς" postag="n-p---fn-" relation="SBJ" />
@@ -9786,10 +9786,10 @@
       <word form="ἰδίᾳ" head="8952" id="8950" lemma="ἴδιος" postag="a-s---fd-" relation="ADV" />
       <word form="δὲ" head="8967" id="8951" lemma="δέ" postag="c--------" relation="COORD" />
       <word form="αὐτοῖς" head="8966" id="8952" lemma="αὐτός" postag="p-p---md-" relation="ADV" />
-      <word form="τόδε" head="9645" id="8953" lemma="ὅδε" postag="p-s---na-" presentation-after="," relation="OBJ_AP" />
+      <word form="τόδε" head="9639" id="8953" lemma="ὅδε" postag="p-s---na-" presentation-after="," relation="OBJ_AP" />
       <word form="ὦ" head="8955" id="8954" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word form="ξεῖν̓" head="8956" id="8955" lemma="ξένος" postag="n-s---mv-" presentation-after="," relation="ExD" />
-      <word form="ἄγγειλον" head="9645" id="8956" lemma="ἀγγέλλω" postag="v2sama---" relation="OBJ_AP" />
+      <word form="ἄγγειλον" head="9639" id="8956" lemma="ἀγγέλλω" postag="v2sama---" relation="OBJ_AP" />
       <word form="Λακεδαιμονίοις" head="8956" id="8957" lemma="Λακεδαιμόνιος" postag="n-p---md-" relation="OBJ" />
       <word form="ὅτι" head="8956" id="8958" lemma="ὅτι" postag="c--------" relation="AuxC" />
       <word form="τῇδε" head="8960" id="8959" lemma="τῇδε" postag="d--------" relation="ADV" />

@@ -1067,14 +1067,14 @@
       <word form="ἱκόμην" gloss="come" head="890" id="888" lemma="ἱκνέομαι" postag="v1saim---" relation="PRED_CO" sg="ind stt" />
       <word form="ἀλαλημένη" gloss="wander" head="888" id="889" lemma="ἀλάλημαι" postag="v-sppefn-" presentation-after="," relation="ADV" sg="adj crc mnn" />
       <word form="οὐδέ" gloss="and" head="0" id="890" lemma="οὐδέ" postag="c--------" relation="COORD" sg="" />
-      <word form="τι" gloss="anything" head="933" id="891" lemma="τις" postag="p-s---na-" relation="OBJ_AP" sg="sbs acc dpd aff" />
+      <word form="τι" gloss="anything" head="932" id="891" lemma="τις" postag="p-s---na-" relation="OBJ_AP" sg="sbs acc dpd aff" />
       <word form="οἶδα" gloss="know" head="890" id="892" lemma="οἶδα" postag="v1sria---" presentation-after="," relation="PRED_CO" sg="ind stt" />
       <word form="ἥ" gloss="where" head="897" id="893" lemma="ἥ" postag="d--------" relation="ADV" sg="plc lct cnc" />
       <word form="τις" gloss="this" head="896" id="894" lemma="τις" postag="p-s---fn-" relation="ATR" sg="adj" />
       <word form="δὴ" head="897" id="895" lemma="δή" postag="d--------" relation="AuxZ" sg="prt" />
       <word form="γαῖ̓" gloss="country" head="897" id="896" lemma="γαῖα" postag="n-s---fn-" relation="SBJ" sg="nmn dpd" />
       <word form="ἐστι" gloss="be" head="898" id="897" lemma="εἰμί" postag="v3spia---" relation="OBJ_AP_CO" sg="dpn adj_cls sbs ind acc dpd aff" />
-      <word form="καὶ" gloss="and" head="933" id="898" lemma="καί" postag="c--------" relation="COORD" sg="" />
+      <word form="καὶ" gloss="and" head="932" id="898" lemma="καί" postag="c--------" relation="COORD" sg="" />
       <word form="οἵ" gloss="the" head="900" id="899" lemma="ὁ" postag="l-p---mn-" relation="ATR" sg="" />
       <word form="τινες" gloss="someone" head="901" id="900" lemma="τις" postag="p-p---mn-" relation="SBJ" sg="sbs nmn dpd" />
       <word form="ἐγγεγάασιν" gloss="be.born" head="898" id="901" lemma="ἐγγίγνομαι" postag="v3pria---" presentation-after="." relation="OBJ_AP_CO" sg="dpn adj_cls sbs ind acc dpd aff" />
@@ -3398,7 +3398,7 @@
       <word form="ἰοχέαιρα" gloss="shooter.of.arrows" head="2918" id="2919" lemma="ἰοχέαιρα" postag="n-s---fn-" presentation-after="," relation="ATR" sg="nmn dpd" />
       <word form="παίζομεν" gloss="play" head="2921" id="2920" lemma="παίζω" postag="v1piia---" relation="PRED_CO" sg="ind stt" />
       <word form="ἠδ̓" gloss="and" head="0" id="2921" lemma="ἠδη" postag="c--------" relation="COORD" sg="" />
-      <word form="ἄνθεα" gloss="flower" head="3297" id="2922" lemma="ἄνθος" postag="n-p---na-" relation="OBJ_AP" sg="acc dpd aff" />
+      <word form="ἄνθεα" gloss="flower" head="3296" id="2922" lemma="ἄνθος" postag="n-p---na-" relation="OBJ_AP" sg="acc dpd aff" />
       <word form="δρέπομεν" gloss="take" head="2921" id="2923" lemma="δρέπω" postag="v1piia---" relation="PRED_CO" sg="ind stt" />
       <word form="χείρεσσ̓" gloss="hand" head="2923" id="2924" lemma="χείρ" postag="n-p---fd-" relation="ADV" sg="dtv dpd ins prp ins_mns" />
       <word form="ἐρόεντα" gloss="lovely" head="2922" id="2925" lemma="ἐρόεις" postag="a-p---na-" presentation-after="," relation="ATR" sg="prp" />
@@ -3414,11 +3414,11 @@
       <word form="ῥοδέας" gloss="rose" head="2942" id="2935" lemma="ῥοδῆ" postag="n-p---fa-" relation="OBJ_AP_CO" sg="acc dpd aff" />
       <word form="κάλυκας" gloss="bud" head="2935" id="2936" lemma="κάλυξ" postag="n-p---fa-" relation="ATR" sg="acc dpd aff" />
       <word form="καὶ" gloss="and" head="2942" id="2937" lemma="καί" postag="c--------" relation="AuxY" sg="" />
-      <word form="λείρια" gloss="lily" head="3302" id="2938" lemma="λείριον" postag="n-p---na-" presentation-after="," relation="OBJ_AP_CO" sg="acc dpd aff" />
+      <word form="λείρια" gloss="lily" head="3301" id="2938" lemma="λείριον" postag="n-p---na-" presentation-after="," relation="OBJ_AP_CO" sg="acc dpd aff" />
       <word form="θαῦμα" gloss="amazing" head="2940" id="2939" lemma="θαῦμα" postag="n-s---nn-" relation="SBJ" sg="nmn dpd" />
-      <word form="ἰδέσθαι" gloss="see" head="3302" id="2940" lemma="εἶδον" postag="v--anm---" presentation-after="," relation="OBJ_AP_CO" sg="dpd art acc dpd aff" />
+      <word form="ἰδέσθαι" gloss="see" head="3301" id="2940" lemma="εἶδον" postag="v--anm---" presentation-after="," relation="OBJ_AP_CO" sg="dpd art acc dpd aff" />
       <word form="νάρκισσόν" gloss="narcissus" head="2942" id="2941" lemma="νάρκισσος" postag="n-s---ma-" relation="OBJ_AP_CO" sg="acc dpd aff" />
-      <word form="θ̓" gloss="and" head="3297" id="2942" lemma="τε" postag="c--------" presentation-after="," relation="COORD" sg="" />
+      <word form="θ̓" gloss="and" head="3296" id="2942" lemma="τε" postag="c--------" presentation-after="," relation="COORD" sg="" />
       <word form="ὃν" gloss="who" head="2944" id="2943" lemma="ὅς" postag="p-s---ma-" relation="OBJ" sg="sbs acc dpd aff" />
       <word form="ἔφυσ̓" gloss="cause.to.be" head="2941" id="2944" lemma="φυω" postag="v3saia---" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
       <word form="ὥς" gloss="as" head="2944" id="2945" lemma="ὡς" postag="c--------" relation="AuxC" sg="" />
