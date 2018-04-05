@@ -6043,8 +6043,7 @@
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.658" form="ζόφου" head="4595" id="4596" lemma="ζόφος" postag="n-s---mg-" relation="OBJ_CO" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.658" form="ἠερόεντος" head="4596" id="4597" lemma="ἠερόεις" postag="a-s---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="ἄψορρον" head="4605" id="4598" lemma="ἄψορρος" postag="a-s---na-" relation="ADV" />
-      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="δ̓" head="4605" id="4599" lemma="δέ" postag="g--------" relation="COORD" />
-      <word cite="" form="?" head="4593" id="4600" lemma="?" postag="u--------" relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="δ̓" head="4605" id="4599" lemma="δέ" postag="g--------" presentation-after="?" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="ἐξαῦτις" head="4605" id="4601" lemma="ἐξαῦτις" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="ἀμειλίκτων" head="4604" id="4602" lemma="ἀμείλικτος" postag="a-p---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.659" form="ὑπὸ" head="4599" id="4603" lemma="ὑπό" postag="r--------" relation="AuxP" />

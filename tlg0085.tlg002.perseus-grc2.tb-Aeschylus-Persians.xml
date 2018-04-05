@@ -4271,8 +4271,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg002:673" form="ὦ" head="3420" id="3419" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:673" form="πολύκλαυτε" head="3436" id="3420" lemma="πολύκλαυστος" postag="a-s---mv-" relation="ExD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:673" form="φίλοισι" head="3420" id="3421" lemma="φίλος" postag="a-p---md-" relation="ADV" />
-      <word cite="urn:cts:greekLit:tlg0085.tlg002:673" form="θανών" head="3420" id="3422" lemma="θνήσκω" postag="v-sapamn-" presentation-after="," relation="ATR" />
-      <word cite="" form="?" head="0" id="3423" lemma="?" postag="u--------" relation="UNDEFINED" />
+      <word cite="urn:cts:greekLit:tlg0085.tlg002:673" form="θανών" head="3420" id="3422" lemma="θνήσκω" postag="v-sapamn-" presentation-after="?" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:675" form="τί" head="3436" id="3424" lemma="τίς" postag="p-s---na-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:675" form="τάδε" head="3434" id="3425" lemma="ὅδε" postag="p-p---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:675" form="δυνάτα" head="3427" id="3426" lemma="δυνάτης" postag="n-s---mv-" relation="AuxY" />

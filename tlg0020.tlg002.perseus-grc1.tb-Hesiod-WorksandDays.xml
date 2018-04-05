@@ -2810,8 +2810,7 @@
       <word form="ταῦτα" head="1937" id="1936" lemma="οὗτος" postag="a-p---na-" relation="OBJ" />
       <word form="φυλασσόμενοι" head="1939" id="1937" lemma="φυλάσσω" postag="v-pppemn-" presentation-after="," relation="ADV" />
       <word form="βασιλῆς" head="1939" id="1938" lemma="βασιλεύς" postag="n-p---mv-" presentation-after="," relation="ExD" />
-      <word form="ἰθύνετε" head="1944" id="1939" lemma="ἰθύνω" postag="v2ppma---" relation="PRED_CO" />
-      <word form="?" head="0" id="1940" lemma="?" postag="u--------" relation="AuxK" />
+      <word form="ἰθύνετε" head="1944" id="1939" lemma="ἰθύνω" postag="v2ppma---" presentation-after="?" relation="PRED_CO" />
       <word form="δίκας" head="1939" id="1941" lemma="δίκη" postag="n-p---fa-" relation="OBJ" />
       <word form="δωροφάγοι" head="1939" id="1942" lemma="δωροφάγος" postag="a-p---mv-" presentation-after="," relation="ExD" />
       <word form="σκολιέων" head="1945" id="1943" lemma="σκολιός" postag="a-p---fg-" relation="ATR" />

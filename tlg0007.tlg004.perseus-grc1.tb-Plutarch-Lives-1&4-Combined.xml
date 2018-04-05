@@ -15113,8 +15113,7 @@
       <word form="τοῖς" head="13770" id="13771" lemma="ὁ" postag="l-p---nd-" relation="ADV" />
       <word form="μάλιστα" head="13766" id="13772" lemma="μάλιστα" postag="d--------" relation="ADV" />
       <word form="τοῦ" head="13774" id="13773" lemma="ὁ" postag="l-s---mg-" relation="ATR" />
-      <word form="Ἀλκιβιάδου" head="13769" id="13774" lemma="Ἀλκιβιάδης" postag="n-s---mg-" relation="ATR" />
-      <word form=")" head="13766" id="13775" lemma=")" postag="u--------" relation="AuxG" />
+      <word form="Ἀλκιβιάδου" head="13769" id="13774" lemma="Ἀλκιβιάδης" postag="n-s---mg-" presentation-after=")" relation="ATR" />
       <word form="παροξύνοντος" head="13762" id="13776" lemma="παροξύνω" postag="v-sppamg-" presentation-after="," relation="ADV_CO" />
       <word form="ἐν" head="13780" id="13777" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word form="ἀρχῇ" head="13777" id="13778" lemma="ἀρχή" postag="n-s---fd-" relation="ADV" />

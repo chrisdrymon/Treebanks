@@ -412,8 +412,7 @@
       <word form="ἔτι" gloss="still" head="301" id="302" lemma="ἔτι" postag="d--------" ref="" relation="ADV" sg="tmp sml_lct" />
       <word form="ἀτελεῖς" gloss="incomplete" head="301" id="303" lemma="ἀτελής" postag="a-p---mn-" ref="" relation="PNOM" sg="prp" />
       <word form="οἱ" gloss="the" head="305" id="304" lemma="ὁ" postag="l-p---mn-" ref="" relation="ATR" sg="" />
-      <word form="πτηνοί" gloss="winged" head="301" id="305" lemma="πτηνός" postag="a-p---mn-" ref="" relation="SBJ" sg="sbs nmn dpd" />
-      <word form=")" head="299" id="306" lemma=")" postag="u--------" ref="" relation="AuxG" sg="" />
+      <word form="πτηνοί" gloss="winged" head="301" id="305" lemma="πτηνός" postag="a-p---mn-" presentation-after=")" ref="" relation="SBJ" sg="sbs nmn dpd" />
       <word form="ἐπὶ" gloss="upon" head="310" id="307" lemma="ἐπί" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="τὴν" gloss="the" head="309" id="308" lemma="ὁ" postag="l-s---fa-" ref="" relation="ATR" sg="" />
       <word form="γῆν" gloss="ground" head="307" id="309" lemma="γῆ" postag="n-s---fa-" ref="" relation="OBJ" sg="acc dpd drc cnc" />
@@ -559,8 +558,7 @@
       <word form="θεοῦ" gloss="god" head="434" id="433" lemma="θεός" postag="n-s---mg-" ref="" relation="OBJ" sg="gnt dpd prp pss_bln" />
       <word form="ἱερὸς" gloss="holy" head="430" id="434" lemma="ἱερός" postag="a-s---mn-" ref="" relation="PNOM" sg="prp" />
       <word form="ὁ" gloss="the" head="436" id="435" lemma="ὁ" postag="l-s---mn-" ref="" relation="ATR" sg="" />
-      <word form="ὄρνις" gloss="bird" head="430" id="436" lemma="ὄρνις" postag="n-s---mn-" ref="" relation="SBJ" sg="nmn dpd" />
-      <word form=")" head="430" id="437" lemma=")" postag="u--------" ref="" relation="AuxG" sg="" />
+      <word form="ὄρνις" gloss="bird" head="430" id="436" lemma="ὄρνις" postag="n-s---mn-" presentation-after=")" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="καὶ" gloss="and" head="417" id="438" lemma="καί" postag="c--------" ref="" relation="COORD" sg="" />
       <word form="αὐτοῦ" gloss="him" head="440" id="439" lemma="αὐτός" postag="p-s---mg-" ref="" relation="OBJ" sg="sbs gnt dpd abl spr fgr" />
       <word form="ἐδεήθη" gloss="beg" head="438" id="440" lemma="δέω" postag="v3saip---" ref="" relation="ADV_CO" sg="dpn adv_cls tmp squ_drt not_ind" />
@@ -2411,8 +2409,7 @@
       <word form="Ἁλιεῖς" gloss="fisherman" head="0" id="2019" lemma="ἁλιεύς" postag="n-p---mn-" ref="23" relation="ExD" sg="nmn ind ctc" />
       <word form="(" head="2022" id="2020" lemma="(" postag="u--------" ref="23" relation="AuxG" sg="" />
       <word form="λίθον" gloss="stone" head="2022" id="2021" lemma="λίθος" postag="n-s---ma-" ref="23" relation="OBJ" sg="acc dpd aff" />
-      <word form="ἀγρεύσαντες" gloss="catch" head="2019" id="2022" lemma="ἀγρεύω" postag="v-papamn-" ref="23" relation="ATR" sg="adj atr" />
-      <word form=")" head="2022" id="2023" lemma=")" postag="u--------" presentation-after="." ref="23" relation="AuxG" sg="" />
+      <word form="ἀγρεύσαντες" gloss="catch" head="2019" id="2022" lemma="ἀγρεύω" postag="v-papamn-" presentation-after=")" ref="23" relation="ATR" sg="adj atr" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0096.tlg002.opp-grc2" id="168" subdoc="23">
       <word form="Ἁλιεῖς" gloss="fisherman" head="2026" id="2024" lemma="ἁλιεύς" postag="n-p---mn-" ref="23" relation="SBJ" sg="nmn dpd" />
@@ -2653,8 +2650,7 @@
       <word form="ἰχθύες" gloss="fish" head="2232" id="2233" lemma="ἰχθύς" postag="n-p---mn-" ref="25" relation="ExD_CO" sg="nmn ind ctc" />
       <word form="μεγάλοι" gloss="big" head="2235" id="2234" lemma="μέγας" postag="a-p---mn-" ref="25" relation="ATR_CO" sg="prp" />
       <word form="καὶ" gloss="and" head="2233" id="2235" lemma="καί" postag="c--------" ref="25" relation="COORD" sg="" />
-      <word form="βραχεῖς" gloss="small" head="2235" id="2236" lemma="βραχύς" postag="a-p---mn-" ref="25" relation="ATR_CO" sg="prp" />
-      <word form=")" head="2232" id="2237" lemma=")" postag="u--------" presentation-after="." ref="25" relation="AuxG" sg="" />
+      <word form="βραχεῖς" gloss="small" head="2235" id="2236" lemma="βραχύς" postag="a-p---mn-" presentation-after=")" ref="25" relation="ATR_CO" sg="prp" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0096.tlg002.opp-grc2" id="182" subdoc="25">
       <word form="Ἁλιεὺς" gloss="fisherman" head="2253" id="2238" lemma="ἁλιεύς" postag="n-s---mn-" ref="25" relation="SBJ" sg="nmn dpd" />
@@ -3019,8 +3015,7 @@
       <word form="(" head="2552" id="2551" lemma="(" postag="u--------" ref="29" relation="AuxG" sg="" />
       <word form="ἐπὶ" gloss="on" head="2550" id="2552" lemma="ἐπί" postag="r--------" ref="29" relation="AuxP" sg="" />
       <word form="τῷ" gloss="the" head="2554" id="2553" lemma="ὁ" postag="l-s---md-" ref="29" relation="ATR" sg="" />
-      <word form="Μαιάνδρῳ" gloss="Maeandrus" head="2552" id="2554" lemma="Μαίανδρος" postag="n-s---md-" ref="29" relation="ATR" sg="dtv dpd lcv plc lct cnc" />
-      <word form=")" head="2552" id="2555" lemma=")" postag="u--------" presentation-after="." ref="29" relation="AuxG" sg="" />
+      <word form="Μαιάνδρῳ" gloss="Maeandrus" head="2552" id="2554" lemma="Μαίανδρος" postag="n-s---md-" presentation-after=")" ref="29" relation="ATR" sg="dtv dpd lcv plc lct cnc" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0096.tlg002.opp-grc2" id="206" subdoc="29">
       <word form="Ποτὲ" gloss="at.some.time" head="2562" id="2556" lemma="ποτέ" postag="d--------" ref="29" relation="ADV" sg="tmp sml_lct" />
@@ -4587,8 +4582,7 @@
       <word form="ἐτύγχανε" gloss="happen.to.be" head="3902" id="3897" lemma="τυγχάνω" postag="v3siia---" ref="46" relation="ExD" sg="ind stt" />
       <word form="γὰρ" head="3897" id="3898" lemma="γάρ" postag="d--------" ref="46" relation="AuxY" sg="prt" />
       <word form="αὐτῷ" gloss="him" head="3900" id="3899" lemma="αὐτός" postag="p-s---md-" ref="46" relation="OBJ" sg="sbs dtv dpd lcv plc lct cnc" />
-      <word form="παρεστῶσα" gloss="stand.beside" head="3897" id="3900" lemma="παρίστημι" postag="v-srpafn-" ref="46" relation="PNOM" sg="adj spl not_ind" />
-      <word form=")" head="3897" id="3901" lemma=")" postag="u--------" ref="46" relation="AuxG" sg="" />
+      <word form="παρεστῶσα" gloss="stand.beside" head="3897" id="3900" lemma="παρίστημι" postag="v-srpafn-" presentation-after=")" ref="46" relation="PNOM" sg="adj spl not_ind" />
       <word form="πυνθανομένης" gloss="ask" head="3909" id="3902" lemma="πυνθάνομαι" postag="v-sppefg-" presentation-after="·" ref="46" relation="ADV" sg="adj crc tmp squ_lct" />
       <word form="&quot;" head="3904" id="3903" lemma="&quot;" postag="u--------" ref="46" relation="AuxG" sg="" />
       <word form="Καὶ" gloss="and" head="3902" id="3904" lemma="καί" postag="c--------" ref="46" relation="COORD" sg="" />

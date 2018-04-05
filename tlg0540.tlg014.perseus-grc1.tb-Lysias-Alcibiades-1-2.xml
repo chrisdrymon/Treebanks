@@ -1207,8 +1207,7 @@
       <word form="δεηθέντες" head="1057" id="1054" lemma="δέω" postag="v-pappmn-" relation="ADV" />
       <word form="οὐκ" head="1056" id="1055" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="ἐδύναντο" head="1053" id="1056" lemma="δύναμαι" postag="v3piie---" relation="ADV_CO" />
-      <word form="εὑρέσθαι" head="1056" id="1057" lemma="εὑρίσκω" postag="v--anm---" relation="OBJ" />
-      <word form=")" head="1056" id="1058" lemma=")" postag="u--------" relation="AuxX" />
+      <word form="εὑρέσθαι" head="1056" id="1057" lemma="εὑρίσκω" postag="v--anm---" presentation-after=")" relation="OBJ" />
       <word form="ποιεῖν" head="1051" id="1059" lemma="ποιέω" postag="v--pna---" relation="OBJ" />
       <word form="τὰ" head="1064" id="1060" lemma="ὁ" postag="l-p---na-" relation="ATR" />
       <word form="ὑπὸ" head="1064" id="1061" lemma="ὑπό" postag="r--------" relation="AuxP" />
@@ -1274,8 +1273,7 @@
       <word form="ἂν" head="1120" id="1119" lemma="ἄν" postag="d--------" relation="AuxY" />
       <word form="εἶχον" head="0" id="1120" lemma="ἔχω" postag="v3piia---" relation="PRED" />
       <word form="ὅτου" head="1122" id="1121" lemma="ὅστις" postag="p-s---mg-" relation="OBJ" />
-      <word form="ἡγοῦντο" head="1120" id="1122" lemma="ἡγέομαι" postag="v3piie---" relation="OBJ" />
-      <word form=")" head="1120" id="1123" lemma=")" postag="u--------" presentation-after="," relation="AuxX" />
+      <word form="ἡγοῦντο" head="1120" id="1122" lemma="ἡγέομαι" postag="v3piie---" presentation-after=")" relation="OBJ" />
       <word form="ἔπειθ̓" head="1102" id="1124" lemma="ἐπεί" postag="c--------" relation="COORD" />
       <word form="ὅτι" head="1124" id="1125" lemma="ὅτι" postag="c--------" relation="AuxC" />
       <word form="πολὺ" head="1127" id="1126" lemma="πολύς" postag="a-s---na-" relation="ADV" />

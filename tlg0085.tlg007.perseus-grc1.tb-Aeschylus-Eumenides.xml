@@ -2048,8 +2048,7 @@
       <word form="ἢ" head="1525" id="1520" lemma="ἤ" postag="c--------" relation="AuxY" />
       <word form="ξένον" head="1525" id="1521" lemma="ξένος" postag="a-s---ma-" relation="OBJ_CO" />
       <word form="τιν̓" head="1521" id="1522" lemma="τις" postag="p-s---ma-" relation="ATR" />
-      <word form="ἀσεβῶν" head="1516" id="1523" lemma="ἀσεβέω" postag="v-sppamn-" relation="ADV" />
-      <word form="?" head="0" id="1524" lemma="?" postag="u--------" relation="UNDEFINED" />
+      <word form="ἀσεβῶν" head="1516" id="1523" lemma="ἀσεβέω" postag="v-sppamn-" presentation-after="?" relation="ADV" />
       <word form="ἢ" head="1516" id="1525" lemma="ἤ" postag="c--------" relation="COORD" />
       <word form="τοκέας" head="1525" id="1526" lemma="τοκεύς" postag="n-p---ma-" relation="OBJ_CO" />
       <word form="φίλους" head="1526" id="1527" lemma="φίλος" postag="a-p---ma-" presentation-after="," relation="ATR" />
@@ -4431,8 +4430,7 @@
       <word form="στρατείας" head="3377" id="3378" lemma="στρατεία" postag="n-s---fg-" relation="OBJ" />
       <word form="γάρ" head="3397" id="3379" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word form="νιν" head="3387" id="3380" lemma="νιν" postag="p-s---ma-" relation="OBJ" />
-      <word form="ἠμποληκότα" head="3380" id="3381" lemma="ἐμπολάω" postag="v-srpama-" relation="OBJ" />
-      <word form="?" head="0" id="3382" lemma="?" postag="u--------" relation="UNDEFINED" />
+      <word form="ἠμποληκότα" head="3380" id="3381" lemma="ἐμπολάω" postag="v-srpama-" presentation-after="?" relation="OBJ" />
       <word form="τὰ" head="3384" id="3383" lemma="ὁ" postag="l-p---na-" relation="ATR" />
       <word form="πλεῖστ̓" head="3381" id="3384" lemma="πλεῖστος" postag="a-p---na-" relation="OBJ" />
       <word form="ἄμεινον" head="3381" id="3385" lemma="ἀμείνων" postag="a-s---nnc" relation="ADV" />
@@ -4444,8 +4442,7 @@
       <word form="κἀπὶ" head="3394" id="3391" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word form="τέρματι" head="3391" id="3392" lemma="τέρμα" postag="n-s---nd-" relation="ADV" />
       <word form="φᾶρος" head="3394" id="3393" lemma="φᾶρος" postag="n-s---na-" relation="OBJ" />
-      <word form="περεσκήνωσεν" head="3397" id="3394" lemma="περεσκηνόω" postag="v3saia---" relation="PRED_CO" />
-      <word form="?" head="0" id="3395" lemma="?" postag="u--------" presentation-after="," relation="UNDEFINED" />
+      <word form="περεσκήνωσεν" head="3397" id="3394" lemma="περεσκηνόω" postag="v3saia---" presentation-after="?" relation="PRED_CO" />
       <word form="ἐν" head="3400" id="3396" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word form="δ̓" head="0" id="3397" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀτέρμονι" head="3403" id="3398" lemma="ἀτέρμων" postag="a-s---md-" relation="ATR" />
@@ -5672,8 +5669,7 @@
       <word form="δ̓" head="0" id="4361" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀκαρπίαν" head="4363" id="4362" lemma="ἀκαρπία" postag="n-s---fa-" relation="OBJ" />
       <word form="τεύξητ̓" head="4361" id="4363" lemma="τεύχω" postag="v2pasa---" presentation-after="," relation="PRED_CO" />
-      <word form="ἀφεῖσαι" head="4363" id="4364" lemma="ἀφίημι" postag="v-papafn-" relation="ADV" />
-      <word form="?" head="4366" id="4365" lemma="?" postag="u--------" relation="AuxZ" />
+      <word form="ἀφεῖσαι" head="4363" id="4364" lemma="ἀφίημι" postag="v-papafn-" presentation-after="?" relation="ADV" />
       <word form="δαιμόνων" head="4367" id="4366" lemma="δαίμων" postag="n-p---mg-" relation="ATR" />
       <word form="σταλάγματα" head="4896" id="4367" lemma="στάλαγμα" postag="n-p---na-" presentation-after="," relation="OBJ_AP" />
       <word form="βρωτῆρας" head="4369" id="4368" lemma="βρωτήρ" postag="n-p---fa-" relation="ATR" />

@@ -139,8 +139,7 @@
       <word form="ὅσον" gloss="as.much" head="109" id="73" lemma="ὅσον" postag="p-s---na-" ref="" relation="OBJ" sg="adj" />
       <word form="ἀπ̓" gloss="from" head="73" id="74" lemma="ἀπό" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="οὐρανοῦ" gloss="sky" head="74" id="75" lemma="οὐρανός" postag="n-s---mg-" ref="" relation="ADV" sg="gnt dpd abl spr cnc" />
-      <word form="γῆ" gloss="earth" head="109" id="76" lemma="γῆ" postag="n-s---fn-" ref="" relation="SBJ" sg="nmn dpd" />
-      <word form=")" head="62" id="77" lemma=")" postag="u--------" presentation-after="," ref="" relation="AuxG" sg="" />
+      <word form="γῆ" gloss="earth" head="109" id="76" lemma="γῆ" postag="n-s---fn-" presentation-after=")" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="τεκνοῖ" gloss="beget.children" head="79" id="78" lemma="τεκνόω" postag="v3spia---" ref="" relation="PRED_CO" sg="ind stt" />
       <word form="δὲ" head="52" id="79" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
       <word form="αὖθις" gloss="again" head="78" id="80" lemma="αὖθις" postag="d--------" ref="" relation="ADV" sg="tmp sml_lct" />
@@ -958,8 +957,7 @@
       <word form="τὸν" gloss="the" head="833" id="830" lemma="ὁ" postag="l-s---ma-" ref="" relation="ATR" sg="" />
       <word form="τοῦ" gloss="the" head="832" id="831" lemma="ὁ" postag="l-s---mg-" ref="" relation="ATR" sg="" />
       <word form="Ἀδώνιδος" gloss="Adonis" head="833" id="832" lemma="Ἄδωνις" postag="n-s---mg-" ref="" relation="ATR" sg="gnt dpd prp sbj_obj obj" />
-      <word form="ἔρωτα" gloss="love" head="827" id="833" lemma="ἔρως" postag="n-s---ma-" ref="" relation="OBJ" sg="acc dpd aff" />
-      <word form=")" head="827" id="834" lemma=")" postag="u--------" presentation-after="," ref="" relation="AuxG" sg="" />
+      <word form="ἔρωτα" gloss="love" head="827" id="833" lemma="ἔρως" postag="n-s---ma-" presentation-after=")" ref="" relation="OBJ" sg="acc dpd aff" />
       <word form="συνελθοῦσα" gloss="meet" head="837" id="835" lemma="συνέρχομαι" postag="v-sapafn-" ref="" relation="ADV" sg="adj crc tmp squ_lct" />
       <word form="δὲ" head="818" id="836" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
       <word form="ἐγέννησεν" gloss="bring.forth" head="836" id="837" lemma="γεννάω" postag="v3saia---" ref="" relation="PRED_CO" sg="ind stt" />
