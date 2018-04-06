@@ -106,8 +106,7 @@
       <word form="σφέτερον" head="9" id="8" lemma="σφέτερος" postag="a-s---ma-" relation="ATR" />
       <word form="πατέῤ" head="10" id="9" lemma="πατήρ" postag="n-s---ma-" relation="OBJ" />
       <word form="ὑμνείουσαι" head="7" id="10" lemma="ὑμνέω" postag="v-pppafn-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="6" id="11" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715892" subdoc="1">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -128,8 +127,7 @@
       <word form="Διὸς" head="27" id="25" lemma="Ζεύς" postag="n-s---mg-" relation="ATR" />
       <word form="μεγάλοιο" head="25" id="26" lemma="μέγας" postag="a-s---mg-" relation="ATR" />
       <word form="ἕκητι" head="28" id="27" lemma="ἕκητι" postag="d--------" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="28" insertion_id="0018e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715893" subdoc="1">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -204,8 +202,7 @@
       <word form="γαῖαν" head="80" id="81" lemma="γαῖα" postag="n-s---fa-" relation="ADV" />
       <word form="εἰσὶ" head="79" id="82" lemma="εἰμί" postag="v3ppia---" relation="PRED_CO" />
       <word form="δύω" head="84" id="83" lemma="δύο" postag="m--------" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="82" id="84" insertion_id="0013e" relation="SBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715897" subdoc="11">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -288,8 +285,7 @@
       <word form="ἀνδράσι" head="143" id="140" lemma="ἀνήρ" postag="n-p---md-" relation="ADV" />
       <word form="πολλὸν" head="142" id="141" lemma="πολύς" postag="a-s---ma-" relation="AuxZ" />
       <word form="ἀμείνω" head="143" id="142" lemma="ἀμείνων" postag="a-s---fac" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="139" id="143" insertion_id="0027e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715902" subdoc="11">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -349,8 +345,7 @@
       <word form="Ἔρις" head="184" id="181" lemma="ἔρις" postag="n-s---fn-" relation="SBJ" />
       <word form="ἥδε" head="181" id="182" lemma="ὅδε" postag="p-s---fn-" relation="ATR" />
       <word form="βροτοῖσιν" head="184" id="183" lemma="βροτός" postag="n-p---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="180" id="184" insertion_id="0006e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715906" subdoc="11">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -369,9 +364,7 @@
       <word form="καὶ" head="192" id="196" lemma="καί" postag="c--------" relation="COORD" />
       <word form="ἀοιδὸς" head="200" id="197" lemma="ἀοιδός" postag="n-s---mn-" relation="SBJ" />
       <word form="ἀοιδῷ" head="200" id="198" lemma="ἀοιδός" postag="n-s---md-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="189" id="199" insertion_id="0016e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="196" id="200" insertion_id="0016f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715907" subdoc="11">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -515,9 +508,7 @@
       <word form="ἀσφοδέλῳ" head="306" id="307" lemma="ἀσφόδελος" postag="n-s---md-" relation="ADV_CO" />
       <word form="μέγ̓" head="309" id="308" lemma="μέγας" postag="a-s---na-" relation="ATR" />
       <word form="ὄνειαρ" head="311" id="309" lemma="ὄνειαρ" postag="n-s---na-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="301" id="310" insertion_id="0020e" relation="OBJ_CO" />
-      <word artificial="elliptic" form="[1]" head="301" id="311" insertion_id="0020f" relation="OBJ_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715914" subdoc="42">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -744,8 +735,7 @@
       <word form="πολυδαίδαλον" head="467" id="466" lemma="πολυδαίδαλος" postag="a-s---ma-" relation="ATR" />
       <word form="ἱστὸν" head="468" id="467" lemma="ἱστός" postag="n-s---ma-" relation="OBJ" />
       <word form="ὑφαίνειν" head="521" id="468" lemma="ὑφαίνω" postag="v--pna---" presentation-after="·" relation="OBJ_AP" />
-      <word artificial="elliptic" form="[0]" head="462" id="469" insertion_id="0009e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715928" subdoc="59">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -762,8 +752,7 @@
       <word form="καὶ" head="472" id="479" lemma="καί" postag="c--------" relation="COORD" />
       <word form="γυιοβόρους" head="481" id="480" lemma="γυιοβόρος" postag="a-p---fa-" relation="ATR" />
       <word form="μελεδώνας" head="479" id="481" lemma="μελεδώνη" postag="n-p---fa-" presentation-after="·" relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="470" id="482" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715929" subdoc="59">
       <primary>millermo</primary>
       <primary>samzukoff</primary>
@@ -847,8 +836,7 @@
       <word form="χρυσείους" head="533" id="534" lemma="χρύσεος" postag="a-p---ma-" relation="ATR" />
       <word form="ἔθεσαν" head="525" id="535" lemma="τίθημι" postag="v3paia---" relation="PRED_CO" />
       <word form="χροΐ" head="537" id="536" lemma="χρώς" postag="n-s---md-" presentation-after="·" relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="535" id="537" insertion_id="0014e" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715935" subdoc="59">
       <primary>millermo</primary>
       <primary>samzukoff</primary>
@@ -1113,9 +1101,7 @@
       <word form="πλείη" head="729" id="725" lemma="πλέως" postag="a-s---fn-" relation="PNOM" />
       <word form="δὲ" head="0" id="726" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="θάλασσα" head="729" id="727" lemma="θάλασσα" postag="n-s---fn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="726" id="728" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="726" id="729" insertion_id="0010f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715950" subdoc="83">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1140,8 +1126,7 @@
       <word form="ἐξείλετο" head="745" id="747" lemma="ἐξαιρέω" postag="v3saim---" relation="ADV" />
       <word form="μητίετα" head="749" id="748" lemma="μητίετα" postag="n-s---mn-" relation="ATR" />
       <word form="Ζεύς" head="747" id="749" lemma="Ζεύς" postag="n-s---mn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="736" id="750" insertion_id="0023e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715951" subdoc="83">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1192,8 +1177,7 @@
       <word form="θνητοί" head="781" id="779" lemma="θνητός" postag="a-p---mn-" relation="ATR" />
       <word form="τ̓" head="777" id="780" lemma="τε" postag="g--------" relation="COORD" />
       <word form="ἄνθρωποι" head="780" id="781" lemma="ἄνθρωπος" postag="n-p---mn-" presentation-after="." relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="782" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715955" subdoc="109">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1240,8 +1224,7 @@
       <word form="πόνων" head="813" id="812" lemma="πόνος" postag="n-p---mg-" relation="ADV_CO" />
       <word form="καὶ" head="810" id="813" lemma="καί" postag="c--------" relation="COORD" />
       <word form="ὀιζύος" head="813" id="814" lemma="ὀιζύς" postag="n-s---fg-" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="805" id="815" insertion_id="0014e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715958" subdoc="109">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1323,8 +1306,7 @@
       <word form="φίλοι" head="963" id="865" lemma="φίλος" postag="a-p---mn-" relation="PNOM_CO" />
       <word form="μακάρεσσι" head="867" id="866" lemma="μάκαρ" postag="a-p---md-" relation="ATR" />
       <word form="θεοῖσιν" head="865" id="867" lemma="θεός" postag="n-p---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="868" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715964" subdoc="109">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1363,8 +1345,7 @@
       <word form="ἐπ̓" head="899" id="900" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word form="αἶαν" head="900" id="901" lemma="αἶα" postag="n-s---fa-" presentation-after="]" relation="ADV" />
       <word form="πλουτοδόται" head="1006" id="902" lemma="πλουτοδότης" postag="n-p---mn-" presentation-after="·" relation="ATR_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="903" insertion_id="0042e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715965" subdoc="109">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1463,8 +1444,7 @@
       <word form="ἀνθρώποις" head="983" id="980" lemma="ἄνθρωπος" postag="n-p---md-" relation="ADV" />
       <word form="κατὰ" head="983" id="981" lemma="κατά" postag="r--------" relation="AuxP" />
       <word form="ἤθεα" head="981" id="982" lemma="ἦθος" postag="n-p---na-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="972" id="983" insertion_id="0027e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715969" subdoc="109">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1576,8 +1556,7 @@
       <word form="ἐπὶ" head="1067" id="1068" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word form="στιβαροῖσι" head="1070" id="1069" lemma="στιβαρός" postag="a-p---nd-" relation="ATR" />
       <word form="μέλεσσιν" head="1068" id="1070" lemma="μέλος" postag="n-p---nd-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="1062" id="1071" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715974" subdoc="140">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1595,8 +1574,7 @@
       <word form="χαλκῷ" head="1084" id="1082" lemma="χαλκοῦς" postag="n-s---md-" relation="ADV" />
       <word form="δ̓" head="1073" id="1083" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="εἰργάζοντο" head="1083" id="1084" lemma="ἐργάζομαι" postag="v3piie---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="1083" id="1085" insertion_id="0015e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715975" subdoc="140">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1722,9 +1700,7 @@
       <word form="Ἑλένης" head="1185" id="1184" lemma="Ἑλένη" postag="n-s---fg-" relation="ADV" />
       <word form="ἕνεκ̓" head="1183" id="1185" lemma="ἕνεκα" postag="r--------" relation="AuxP" />
       <word form="ἠυκόμοιο" head="1184" id="1186" lemma="εὔκομος" postag="a-s---fg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="1302" id="1187" insertion_id="0041e" relation="PRED_AP" />
-      <word artificial="elliptic" form="[1]" head="1173" id="1188" insertion_id="0041f" relation="PRED_AP_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715980" subdoc="140">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1788,8 +1764,7 @@
       <word form="τηλοῦ" head="1238" id="1235" lemma="τηλοῦ" postag="d--------" relation="ADV" />
       <word form="ἀπ̓" head="1238" id="1236" lemma="ἀπό" postag="r--------" relation="AuxP" />
       <word form="ἀθανάτων" head="1236" id="1237" lemma="ἀθάνατος" postag="a-p---mg-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="1238" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715983" subdoc="140">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1898,8 +1873,7 @@
       <word form="τι" head="1307" id="1304" lemma="τις" postag="p-s---na-" relation="AuxZ" />
       <word form="νύκτωρ" head="1307" id="1305" lemma="νύκτωρ" postag="d--------" relation="ADV" />
       <word form="φθειρόμενοι" head="1307" id="1306" lemma="φθείρω" postag="v-pppemn-" presentation-after="." relation="AtvV" />
-      <word artificial="elliptic" form="[0]" head="1303" id="1307" insertion_id="0015e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715991" subdoc="174">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -1969,14 +1943,7 @@
       <word form="τὸ" head="1356" id="1355" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="πάρος" head="1364" id="1356" lemma="πάρος" postag="d--------" relation="ADV" />
       <word form="περ" head="1356" id="1357" lemma="πέρ" postag="g--------" presentation-after="." relation="AuxZ" />
-      <word artificial="elliptic" form="[0]" head="1350" id="1358" insertion_id="0029e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="1350" id="1359" insertion_id="0029f" relation="PRED_CO" />
-      <word artificial="elliptic" form="[2]" head="1346" id="1360" insertion_id="0029g" relation="PRED_CO" />
-      <word artificial="elliptic" form="[3]" head="1360" id="1361" insertion_id="0029h" relation="PNOM" />
-      <word artificial="elliptic" form="[4]" head="1346" id="1362" insertion_id="0029i" relation="PRED_CO" />
-      <word artificial="elliptic" form="[5]" head="1362" id="1363" insertion_id="0029j" relation="PNOM" />
-      <word artificial="elliptic" form="[6]" head="1350" id="1364" insertion_id="0029k" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1715995" subdoc="174">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2068,8 +2035,7 @@
       <word form="αἰδὼς" head="1426" id="1424" lemma="αἰδώς" postag="n-s---fn-" relation="SBJ" />
       <word form="οὐκ" head="1426" id="1425" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="ἔσται" head="1423" id="1426" lemma="εἰμί" postag="v3sfim---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="1423" id="1427" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716001" subdoc="174">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2266,8 +2232,7 @@
       <word form="πρὸς" head="1554" id="1552" lemma="πρός" postag="r--------" relation="AuxP" />
       <word form="κρείσσονας" head="1552" id="1553" lemma="κρείσσων" postag="a-p---mac" relation="OBJ" />
       <word form="ἀντιφερίζειν" head="1551" id="1554" lemma="ἀντιφερίζω" postag="v--pna---" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1548" id="1555" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716015" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2317,8 +2282,7 @@
       <word form="κακὴ" head="1586" id="1583" lemma="κακός" postag="a-s---fn-" relation="PNOM" />
       <word form="δειλῷ" head="1585" id="1584" lemma="δειλός" postag="a-s---md-" relation="ATR" />
       <word form="βροτῷ" head="1586" id="1585" lemma="βροτός" postag="n-s---md-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="1586" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716019" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2350,8 +2314,7 @@
       <word form="ἐς" head="1604" id="1606" lemma="εἰς" postag="r--------" relation="AuxP" />
       <word form="τὰ" head="1608" id="1607" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="δίκαια" head="1606" id="1608" lemma="δίκαιος" postag="a-p---na-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1602" id="1609" insertion_id="0009e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716021" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2406,8 +2369,7 @@
       <word form="δίκῃς" head="1643" id="1642" lemma="δίκη" postag="n-p---fd-" relation="ADV" />
       <word form="κρίνωσι" head="1641" id="1643" lemma="κρίνω" postag="v3ppsa---" relation="ADV_CO" />
       <word form="θέμιστας" head="1643" id="1644" lemma="θέμις" postag="n-p---fa-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1631" id="1645" insertion_id="0018e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716025" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2478,8 +2440,7 @@
       <word form="τεκμαίρεται" head="1694" id="1699" lemma="τεκμαίρομαι" postag="v3spie---" relation="PRED_CO" />
       <word form="εὐρύοπα" head="1701" id="1700" lemma="εὐρύοπα" postag="a-s---mn-" relation="ATR" />
       <word form="Ζεύς" head="1699" id="1701" lemma="Ζεύς" postag="n-s---mn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="1694" id="1702" insertion_id="0016e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716028" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2522,8 +2483,7 @@
       <word form="μέσση" head="1736" id="1733" lemma="μέσος" postag="a-s---fn-" relation="AtvV" />
       <word form="δὲ" head="1726" id="1734" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="μελίσσας" head="1736" id="1735" lemma="μέλισσα" postag="n-p---fa-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1734" id="1736" insertion_id="0020e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716030" subdoc="202">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2623,8 +2583,7 @@
       <word form="ὁμοῦ" head="1800" id="1799" lemma="ὁμοῦ" postag="d--------" relation="AuxZ" />
       <word form="καὶ" head="1802" id="1800" lemma="καί" postag="c--------" relation="COORD_AP" />
       <word form="λοιμόν" head="1800" id="1801" lemma="λοιμός" postag="n-s---ma-" presentation-after="·" relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="1795" id="1802" insertion_id="0012e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716037" subdoc="238">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2672,8 +2631,7 @@
       <word form="Κρονίδης" head="1829" id="1833" lemma="Κρονίδης" postag="n-s---mn-" relation="SBJ" />
       <word form="ἀποαίνυται" head="1829" id="1834" lemma="ἀπαίνυμαι" postag="v3spie---" relation="PRED_CO" />
       <word form="αὐτῶν" head="1830" id="1835" lemma="αὐτός" postag="a-p---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="1829" id="1836" insertion_id="0021e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716040" subdoc="238">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2840,8 +2798,7 @@
       <word form="τῷ" head="1963" id="1962" lemma="ὁ" postag="l-s---md-" relation="ATR" />
       <word form="βουλεύσαντι" head="1965" id="1963" lemma="βουλεύω" postag="v-sapamd-" relation="ADV" />
       <word form="κακίστη" head="1965" id="1964" lemma="κακός" postag="a-s---fns" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="1959" id="1965" insertion_id="0018e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716048" subdoc="238">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2905,9 +2862,7 @@
       <word form="δίκην" head="2014" id="2012" lemma="δίκη" postag="n-s---fa-" relation="OBJ" />
       <word form="ἀδικώτερος" head="2014" id="2013" lemma="ἄδικος" postag="a-s---mnc" relation="SBJ" />
       <word form="ἕξει" head="2009" id="2014" lemma="ἔχω" postag="v3sfia---" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2015" insertion_id="0013e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="2004" id="2016" insertion_id="0013f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716051" subdoc="238">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -2969,8 +2924,7 @@
       <word form="ἐστὶ" head="2058" id="2061" lemma="εἰμί" postag="v3spia---" relation="ADV" />
       <word form="μετ̓" head="2061" id="2062" lemma="μετά" postag="r--------" relation="AuxP" />
       <word form="αὐτοῖς" head="2062" id="2063" lemma="αὐτός" postag="a-p---md-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2047" id="2064" insertion_id="0023e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716054" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3041,8 +2995,7 @@
       <word form="γενεὴ" head="2116" id="2113" lemma="γενεά" postag="n-s---fn-" relation="SBJ" />
       <word form="μετόπισθεν" head="2116" id="2114" lemma="μετόπισθε" postag="d--------" relation="ADV" />
       <word form="ἀμείνων" head="2116" id="2115" lemma="ἀμείνων" postag="a-s---fnc" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2111" id="2116" insertion_id="0007e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716058" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3082,8 +3035,7 @@
       <word form="δ̓" head="0" id="2139" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἐγγύθι" head="2141" id="2140" lemma="ἐγγύθι" postag="d--------" relation="ADV" />
       <word form="ναίει" head="2139" id="2141" lemma="ναίω" postag="v3spia---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="2139" id="2142" insertion_id="0009e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716061" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3112,8 +3064,7 @@
       <word form="τρηχὺς" head="2158" id="2159" lemma="τραχύς" postag="a-s---mn-" relation="PNOM_CO" />
       <word form="τὸ" head="2161" id="2160" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="πρῶτον" head="2162" id="2161" lemma="πρῶτος" postag="a-s---na-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2152" id="2162" insertion_id="0012e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716063" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3151,8 +3102,7 @@
       <word form="τέλος" head="2187" id="2188" lemma="τέλος" postag="n-s---na-" relation="ADV_CO" />
       <word form="ᾖσιν" head="2182" id="2189" lemma="εἰμί" postag="v3spsa---" relation="OBJ" />
       <word form="ἀμείνω" head="2189" id="2190" lemma="ἀμείνων" postag="a-p---nnc" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="2191" insertion_id="0019e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716065" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3165,8 +3115,7 @@
       <word form="εὖ" head="2198" id="2197" lemma="εὖ" postag="d--------" relation="ADV" />
       <word form="εἰπόντι" head="2199" id="2198" lemma="εἶπον" postag="v-sapamd-" relation="OBJ" />
       <word form="πίθηται" head="2195" id="2199" lemma="πείθω" postag="v3sase---" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="2193" id="2200" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716066" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3188,8 +3137,7 @@
       <word form="αὖτ̓" head="2218" id="2215" lemma="αὖτε" postag="d--------" relation="AuxY" />
       <word form="ἀχρήιος" head="2217" id="2216" lemma="ἀχρεῖος" postag="a-s---mn-" relation="ATR" />
       <word form="ἀνήρ" head="2218" id="2217" lemma="ἀνήρ" postag="n-s---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2202" id="2218" insertion_id="0019e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716067" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3232,8 +3180,7 @@
       <word form="ἀεργῷ" head="2251" id="2249" lemma="ἀεργός" postag="a-s---md-" relation="ATR" />
       <word form="σύμφορος" head="2252" id="2250" lemma="σύμφορος" postag="a-s---mn-" relation="PNOM" />
       <word form="ἀνδρί" head="2250" id="2251" lemma="ἀνήρ" postag="n-s---md-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2252" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716069" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3291,8 +3238,7 @@
       <word form="τ̓" head="2295" id="2293" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="ἀφνειοί" head="2295" id="2294" lemma="ἀφνειός" postag="a-p---mn-" relation="PNOM_CO" />
       <word form="τε" head="2296" id="2295" lemma="τε" postag="g--------" presentation-after="·" relation="COORD" />
-      <word artificial="elliptic" form="[0]" head="2290" id="2296" insertion_id="0009e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716072" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3302,8 +3248,7 @@
       <word form="πολὺ" head="2300" id="2299" lemma="πολύς" postag="a-s---nn-" relation="AuxZ" />
       <word form="φίλτεροι" head="2302" id="2300" lemma="φίλτερος" postag="a-p---mn-" relation="PNOM" />
       <word form="ἀθανάτοισιν" head="2302" id="2301" lemma="ἀθάνατος" postag="a-p---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2297" id="2302" insertion_id="0006e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716073" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3316,9 +3261,7 @@
       <word form="δέ" head="2304" id="2308" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="τ̓" head="2312" id="2309" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="ὄνειδος" head="2312" id="2310" lemma="ὄνειδος" postag="n-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2308" id="2311" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2308" id="2312" insertion_id="0010f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716074" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3370,8 +3313,7 @@
       <word form="ὥς" head="2349" id="2347" lemma="ὡς" postag="d--------" relation="ADV" />
       <word form="σε" head="2349" id="2348" lemma="σύ" postag="p-s----a-" relation="OBJ" />
       <word form="κελεύω" head="2345" id="2349" lemma="κελεύω" postag="v1spia---" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2329" id="2350" insertion_id="0026e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716077" subdoc="274">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3404,9 +3346,7 @@
       <word form="δὲ" head="0" id="2371" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="πρὸς" head="2375" id="2372" lemma="πρός" postag="r--------" relation="AuxP" />
       <word form="ὄλβῳ" head="2372" id="2373" lemma="ὄλβος" postag="n-s---md-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2371" id="2374" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2371" id="2375" insertion_id="0010f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716079" subdoc="320">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -3418,9 +3358,7 @@
       <word form="θεόσδοτα" head="2384" id="2380" lemma="θεόσδοτος" postag="a-p---nn-" relation="SBJ" />
       <word form="πολλὸν" head="2382" id="2381" lemma="πολύς" postag="a-s---na-" relation="AuxZ" />
       <word form="ἀμείνω" head="2384" id="2382" lemma="ἀμείνων" postag="a-p---nnc" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2667" id="2383" insertion_id="0009e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2667" id="2384" insertion_id="0009f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716080" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3456,8 +3394,7 @@
       <word form="τ̓" head="2415" id="2413" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="ἀναιδείη" head="2415" id="2414" lemma="ἀναίδεια" postag="n-s---fn-" relation="SBJ" />
       <word form="κατοπάζῃ" head="2412" id="2415" lemma="κατοπάζω" postag="v3spsa---" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="2416" insertion_id="0036e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716081" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3525,10 +3462,7 @@
       <word form="χαλεποῖσι" head="2474" id="2472" lemma="χαλεπός" postag="a-p---nd-" relation="ATR" />
       <word form="καθαπτόμενος" head="2471" id="2473" lemma="καθάπτω" postag="v-sppemn-" relation="ADV" />
       <word form="ἐπέεσσιν" head="2473" id="2474" lemma="ἔπος" postag="n-p---nd-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2435" id="2475" insertion_id="0046e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[2]" head="2440" id="2476" insertion_id="0046f" relation="ATR_CO" />
-      <word artificial="elliptic" form="[1]" head="2434" id="2477" insertion_id="0046g" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716083" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3618,8 +3552,7 @@
       <word form="τὸν" head="2546" id="2545" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="τεὸν" head="2548" id="2546" lemma="τεός" postag="a-s---ma-" relation="OBJ" />
       <word form="ἄλλος" head="2548" id="2547" lemma="ἄλλος" postag="a-s---mn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="2850" id="2548" insertion_id="0036e" relation="ADV_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716087" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3679,9 +3612,7 @@
       <word form="ἀγαθὸς" head="2590" id="2586" lemma="ἀγαθός" postag="a-s---mn-" relation="SBJ" />
       <word form="μέγ̓" head="2588" id="2587" lemma="μέγας" postag="a-s---nn-" relation="ATR" />
       <word form="ὄνειαρ" head="2590" id="2588" lemma="ὄνειαρ" postag="n-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="2589" insertion_id="0010e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="2589" id="2590" insertion_id="0010f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716091" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3738,8 +3669,7 @@
       <word form="ὕστερον" head="2629" id="2630" lemma="ὕστερος" postag="a-s---na-" relation="ADV" />
       <word form="ἄρκιον" head="2632" id="2631" lemma="ἄρκιος" postag="a-s---na-" relation="OBJ" />
       <word form="εὕρῃς" head="2625" id="2632" lemma="εὑρίσκω" postag="v2sasa---" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2620" id="2633" insertion_id="0030e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716094" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3756,8 +3686,7 @@
       <word form="κέρδεα" head="2641" id="2638" lemma="κέρδος" postag="n-p---nn-" relation="SBJ" />
       <word form="ἶσ̓" head="2641" id="2639" lemma="ἴσος" postag="a-p---nn-" relation="PNOM" />
       <word form="ἀάτῃσιν" head="2639" id="2640" lemma="ἄτη" postag="n-p---fd-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2641" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716096" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3811,9 +3740,7 @@
       <word form="κακή" head="3002" id="2673" lemma="κακός" postag="a-s---fn-" presentation-after="," relation="PNOM_CO" />
       <word form="θανάτοιο" head="2675" id="2674" lemma="θάνατος" postag="n-s---mg-" relation="ATR" />
       <word form="δότειρα" head="3002" id="2675" lemma="δότειρα" postag="n-s---fn-" presentation-after="." relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="2672" id="2676" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2672" id="2677" insertion_id="0010f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716100" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3837,8 +3764,7 @@
       <word form="ὃν" head="2696" id="2694" lemma="ἑός" postag="a-s---ma-" relation="ATR" />
       <word form="κατὰ" head="2693" id="2695" lemma="κατά" postag="r--------" relation="AuxP" />
       <word form="θυμόν" head="2695" id="2696" lemma="θυμός" postag="n-s---ma-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2684" id="2697" insertion_id="0023e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716101" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3923,9 +3849,7 @@
       <word form="βλαβερὸν" head="2759" id="2755" lemma="βλαβερός" postag="a-s---nn-" relation="PNOM" />
       <word form="τὸ" head="2757" id="2756" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="θύρηφιν" head="2759" id="2757" lemma="θύρα" postag="d--------" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2758" insertion_id="0009e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="2754" id="2759" insertion_id="0009f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716106" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3943,9 +3867,7 @@
       <word form="σε" head="2771" id="2770" lemma="σύ" postag="p-s----a-" relation="SBJ" />
       <word form="φράζεσθαι" head="2772" id="2771" lemma="φράζω" postag="v--pne---" relation="OBJ" />
       <word form="ἄνωγα" head="2765" id="2772" lemma="ἄνωγα" postag="v1sria---" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="2765" id="2773" insertion_id="0016e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2765" id="2774" insertion_id="0016f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716107" subdoc="320">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -3968,8 +3890,7 @@
       <word form="ἐνὶ" head="2788" id="2785" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word form="πυθμένι" head="2785" id="2786" lemma="πυθμήν" postag="n-s---md-" relation="ADV" />
       <word form="φειδώ" head="2788" id="2787" lemma="φειδώ" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="2784" id="2788" insertion_id="0006e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716109" subdoc="370">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4090,9 +4011,7 @@
       <word form="μείζων" head="2866" id="2862" lemma="μέγας" postag="a-s---fnc" relation="PNOM" />
       <word form="δ̓" head="0" id="2863" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἐπιθήκη" head="2866" id="2864" lemma="ἐπιθήκη" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="2863" id="2865" insertion_id="0009e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="2863" id="2866" insertion_id="0009f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716118" subdoc="370">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4126,8 +4045,7 @@
       <word form="ἀρότοιο" head="2891" id="2888" lemma="ἄροτος" postag="n-s---mg-" relation="OBJ" />
       <word form="δὲ" head="0" id="2889" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="δυσομενάων" head="2891" id="2890" lemma="δύω" postag="v-pfpmfg-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2889" id="2891" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716120" subdoc="370">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4371,8 +4289,7 @@
       <word form="δὲ" head="3057" id="3073" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="τὸ" head="3075" id="3074" lemma="ὁ" postag="l--------" relation="ATR" />
       <word form="ἔργον" head="3072" id="3075" lemma="ἔργον" postag="n-s---nn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="3051" id="3076" insertion_id="0051e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716132" subdoc="405">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4400,8 +4317,7 @@
       <word form="οὐ" head="3095" id="3092" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="δ̓" head="0" id="3093" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀναβαλλόμενος" head="3095" id="3094" lemma="ἀναβάλλω" postag="v-sppemn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="3093" id="3095" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716134" subdoc="405">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4446,8 +4362,7 @@
       <word form="χρὼς" head="3121" id="3123" lemma="χρώς" postag="n-s---mn-" relation="SBJ" />
       <word form="πολλὸν" head="3125" id="3124" lemma="πολύς" postag="a-s---na-" relation="AuxZ" />
       <word form="ἐλαφρότερος" head="3121" id="3125" lemma="ἐλαφρός" postag="a-s---mnc" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="3126" insertion_id="0022e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716137" subdoc="405">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4524,8 +4439,7 @@
       <word form="τοι" head="3179" id="3176" lemma="τοι" postag="g--------" relation="AuxY" />
       <word form="ἄρμενον" head="3179" id="3177" lemma="ἀραρίσκω" postag="v-sapmnn-" relation="PNOM" />
       <word form="οὕτω" head="3179" id="3178" lemma="οὕτως" postag="d--------" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="3179" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716142" subdoc="405">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4539,8 +4453,7 @@
       <word form="σφῦράν" head="3188" id="3186" lemma="σφῦρα" postag="n-s---fa-" relation="OBJ" />
       <word form="κε" head="3188" id="3187" lemma="ἄν" postag="g--------" relation="AuxZ" />
       <word form="τάμοιο" head="3181" id="3188" lemma="τέμνω" postag="v2saom---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="3180" id="3189" insertion_id="0011e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716143" subdoc="405">
       <primary>megluthin</primary>
       <primary>alexlessie</primary>
@@ -4559,8 +4472,7 @@
       <word form="πόλλ̓" head="3198" id="3196" lemma="πολύς" postag="a-p---na-" relation="ATR" />
       <word form="ἐπικαμπύλα" head="3198" id="3197" lemma="ἐπικαμπύλος" postag="a-p---na-" relation="ATR" />
       <word form="κᾶλα" head="3199" id="3198" lemma="κᾶλον" postag="n-p---na-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="3199" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716145" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4621,8 +4533,7 @@
       <word form="πολὺ" head="3244" id="3243" lemma="πολύς" postag="a-s---na-" relation="AuxZ" />
       <word form="λώιον" head="3246" id="3244" lemma="λωίων" postag="a-s---nnc" relation="PNOM" />
       <word form="οὕτω" head="3246" id="3245" lemma="οὕτως" postag="d--------" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="3242" id="3246" insertion_id="0018e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716148" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4651,8 +4562,7 @@
       <word form="ἔλυμα" head="3673" id="3263" lemma="ἔλυμα" postag="n-s---nn-" presentation-after="," relation="SBJ_CO" />
       <word form="γύης" head="3673" id="3264" lemma="γύης" postag="n-s---mn-" relation="SBJ_CO" />
       <word form="πρίνου" head="3264" id="3265" lemma="πρῖνος" postag="n-s---fg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3257" id="3266" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716150" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4670,8 +4580,7 @@
       <word form="ἥβης" head="3278" id="3277" lemma="ἥβη" postag="n-s---fg-" relation="ATR" />
       <word form="μέτρον" head="3279" id="3278" lemma="μέτρον" postag="n-s---na-" relation="OBJ" />
       <word form="ἔχοντε" head="3267" id="3279" lemma="ἔχω" postag="v-dppama-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3273" id="3280" insertion_id="0016e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716151" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4679,8 +4588,7 @@
       <word form="τὼ" head="3284" id="3281" lemma="ὁ" postag="p-d---mn-" relation="SBJ" />
       <word form="ἐργάζεσθαι" head="3283" id="3282" lemma="ἐργάζομαι" postag="v--pne---" relation="ATR" />
       <word form="ἀρίστω" head="3284" id="3283" lemma="ἄριστος" postag="a-d---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="3284" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716152" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4749,8 +4657,7 @@
       <word form="καὶ" head="3339" id="3336" lemma="καί" postag="c--------" relation="COORD" />
       <word form="ἐπισπορίην" head="3338" id="3337" lemma="ἐπισπορία" postag="n-s---fa-" relation="OBJ" />
       <word form="ἀλέασθαι" head="3336" id="3338" lemma="ἀλέομαι" postag="v--anm---" presentation-after="." relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="3329" id="3339" insertion_id="0012e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716155" subdoc="405">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4824,8 +4731,7 @@
       <word form="γὰρ" head="3384" id="3381" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word form="ἔπος" head="3383" id="3382" lemma="ἔπος" postag="n-s---na-" relation="OBJ" />
       <word form="εἰπεῖν" head="3384" id="3383" lemma="εἶπον" postag="v--ana---" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="3384" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716161" subdoc="448">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4842,8 +4748,7 @@
       <word form="ῥηίδιον" head="3392" id="3389" lemma="ῥᾴδιος" postag="a-s---nn-" relation="PNOM" />
       <word form="δ̓" head="0" id="3390" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀπανήνασθαι" head="3392" id="3391" lemma="ἀπαναίνομαι" postag="v--anm---" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="3390" id="3392" insertion_id="0004e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716163" subdoc="448">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4884,8 +4789,7 @@
       <word form="ἐχέμεν" head="3411" id="3416" lemma="ἔχω" postag="v--pna---" relation="ATR" />
       <word form="οἰκήια" head="3418" id="3417" lemma="οἰκεῖος" postag="a-p---na-" relation="OBJ" />
       <word form="θέσθαι" head="3416" id="3418" lemma="τίθημι" postag="v--ane---" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="3409" id="3419" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716166" subdoc="448">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -4957,9 +4861,7 @@
       <word form="ἀλεξιάρη" head="3468" id="3464" lemma="ἀλεξιάρη" postag="n-s---fn-" relation="PNOM_CO" />
       <word form="παίδων" head="3466" id="3465" lemma="παῖς" postag="n-p---mg-" relation="ATR" />
       <word form="εὐκηλήτειρα" head="3468" id="3466" lemma="εὐκηλήτειρα" postag="n-s---fn-" presentation-after="." relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="3467" insertion_id="0005e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="3467" id="3468" insertion_id="0005f" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716171" subdoc="448">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5024,9 +4926,7 @@
       <word form="κακοθημοσύνη" head="3520" id="3516" lemma="κακοθημοσύνη" postag="n-s---fn-" relation="SBJ" />
       <word form="δὲ" head="0" id="3517" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="κακίστη" head="3520" id="3518" lemma="κακός" postag="a-s---fn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="3517" id="3519" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="3517" id="3520" insertion_id="0010f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716174" subdoc="448">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5142,9 +5042,7 @@
       <word form="ἄνδρεσσι" head="3603" id="3599" lemma="ἀνήρ" postag="n-p---md-" relation="ADV" />
       <word form="καταθνητοῖσι" head="3599" id="3600" lemma="καταθνητός" postag="a-p---md-" relation="ATR" />
       <word form="νοῆσαι" head="3603" id="3601" lemma="νοέω" postag="v--ana---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="3598" id="3602" insertion_id="0013e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="3598" id="3603" insertion_id="0013f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716181" subdoc="479">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5415,8 +5313,7 @@
       <word form="λάχνῃ" head="3804" id="3802" lemma="λάχνη" postag="n-s---fd-" relation="OBJ" />
       <word form="δέρμα" head="3805" id="3803" lemma="δέρμα" postag="n-s---nn-" relation="SBJ" />
       <word form="κατάσκιον" head="3805" id="3804" lemma="κατάσκιος" postag="a-s---nn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="3792" id="3805" insertion_id="0016e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716195" subdoc="504">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5475,8 +5372,7 @@
       <word form="ἲς" head="3841" id="3842" lemma="ἴς" postag="n-s---fn-" relation="SBJ" />
       <word form="ἀνέμου" head="3842" id="3843" lemma="ἄνεμος" postag="n-s---mg-" relation="ATR" />
       <word form="Βορέου" head="3843" id="3844" lemma="Βορέας" postag="n-s---mg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3836" id="3845" insertion_id="0016e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716199" subdoc="504">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5841,8 +5737,7 @@
       <word form="χαλεπὸς" head="4114" id="4113" lemma="χαλεπός" postag="a-s---mn-" relation="PNOM_CO" />
       <word form="δ̓" head="4116" id="4114" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀνθρώποις" head="4113" id="4115" lemma="ἄνθρωπος" postag="n-p---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="4116" insertion_id="0014e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716218" subdoc="536">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5856,8 +5751,7 @@
       <word form="πλέον" head="4124" id="4123" lemma="πλείων" postag="a-s---nnc" relation="SBJ" />
       <word form="εἴη" head="4122" id="4124" lemma="ἐάω" postag="v3siia---" relation="PRED_CO" />
       <word form="ἁρμαλιῆς" head="4123" id="4125" lemma="ἁρμαλιά" postag="n-s---fg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="4122" id="4126" insertion_id="0011e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716219" subdoc="536">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5954,8 +5848,7 @@
       <word form="ὣς" head="4194" id="4191" lemma="ὡς" postag="d--------" relation="ADV" />
       <word form="γὰρ" head="4194" id="4192" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word form="ἄμεινον" head="4194" id="4193" lemma="ἀμείνων" postag="a-s---nnc" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="4194" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716225" subdoc="571">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -5976,8 +5869,7 @@
       <word form="σκάφος" head="4211" id="4208" lemma="σκάφος" postag="n-s---mn-" relation="SBJ" />
       <word form="οὐκέτι" head="4211" id="4209" lemma="οὐκέτι" postag="d--------" relation="ADV" />
       <word form="οἰνέων" head="4208" id="4210" lemma="οἴνη" postag="n-p---fg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="4211" insertion_id="0018e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716226" subdoc="571">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6112,11 +6004,7 @@
       <word form="χρὼς" head="4325" id="4319" lemma="χρώς" postag="n-s---mn-" relation="SBJ" />
       <word form="ὑπὸ" head="4325" id="4320" lemma="ὑπό" postag="r--------" relation="AuxP" />
       <word form="καύματος" head="4320" id="4321" lemma="καῦμα" postag="n-s---ng-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="4306" id="4322" insertion_id="0053e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="4306" id="4323" insertion_id="0053f" relation="PRED_CO" />
-      <word artificial="elliptic" form="[2]" head="4306" id="4324" insertion_id="0053g" relation="PRED_CO" />
-      <word artificial="elliptic" form="[3]" head="4317" id="4325" insertion_id="0053h" relation="ADV_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716231" subdoc="571">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6184,8 +6072,7 @@
       <word form="τέτρατον" head="4382" id="4381" lemma="τέτρατος" postag="a-s---na-" relation="OBJ" />
       <word form="ἱέμεν" head="4380" id="4382" lemma="ἵημι" postag="v--pna---" relation="PRED_CO" />
       <word form="οἴνου" head="4381" id="4383" lemma="οἶνος" postag="n-s---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="4369" id="4384" insertion_id="0039e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716233" subdoc="571">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6253,8 +6140,7 @@
       <word form="δ̓" head="0" id="4430" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ὑπόπορτις" head="4432" id="4431" lemma="ὑπόπορτις" postag="a-s---fn-" relation="ATR" />
       <word form="ἔριθος" head="4433" id="4432" lemma="ἔριθος" postag="n-s---fn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="4430" id="4433" insertion_id="0005e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716237" subdoc="571">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6357,9 +6243,7 @@
       <word form="δῶρα" head="4508" id="4509" lemma="δῶρον" postag="n-p---na-" relation="OBJ" />
       <word form="Διωνύσου" head="4509" id="4510" lemma="Διόνυσος" postag="n-s---mg-" relation="ATR" />
       <word form="πολυγηθέος" head="4510" id="4511" lemma="πολυγηθής" postag="a-s---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="4503" id="4512" insertion_id="0023e" relation="ADV" />
-      <word artificial="elliptic" form="[1]" head="4508" id="4513" insertion_id="0023f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716242" subdoc="609">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6586,8 +6470,7 @@
       <word form="Ζεὺς" head="4685" id="4683" lemma="Ζεύς" postag="n-s---mn-" relation="SBJ" />
       <word form="ἄνδρεσσι" head="4685" id="4684" lemma="ἀνήρ" postag="n-p---md-" relation="OBJ" />
       <word form="δίδωσιν" head="4681" id="4685" lemma="δίδωμι" postag="v3spia---" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="4686" insertion_id="0019e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716253" subdoc="609">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6626,9 +6509,7 @@
       <word form="ναυτιλίης" head="4717" id="4713" lemma="ναυτιλία" postag="n-s---fg-" relation="OBJ" />
       <word form="δὲ" head="0" id="4714" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="μάλιστα" head="4716" id="4715" lemma="μάλιστα" postag="d--------" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="4714" id="4716" insertion_id="0017e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="4716" id="4717" insertion_id="0017f" relation="PNOM" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716255" subdoc="641">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6641,8 +6522,7 @@
       <word form="ἐνὶ" head="4725" id="4723" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word form="φορτία" head="4725" id="4724" lemma="φορτίον" postag="n-p---na-" relation="OBJ" />
       <word form="θέσθαι" head="4722" id="4725" lemma="τίθημι" postag="v--ane---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="4723" id="4726" insertion_id="0010e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716256" subdoc="641">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6663,8 +6543,7 @@
       <word form="κακὰς" head="4742" id="4740" lemma="κακός" postag="a-p---fa-" relation="ATR" />
       <word form="ἀπέχωσιν" head="4736" id="4741" lemma="ἀπέχω" postag="v3ppsa---" relation="ADV" />
       <word form="ἀήτας" head="4741" id="4742" lemma="ἀήτη" postag="n-p---fa-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="4731" id="4743" insertion_id="0019e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716257" subdoc="641">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6733,8 +6612,7 @@
       <word form="Τροίην" head="4801" id="4800" lemma="Τροία" postag="n-s---fa-" relation="ADV" />
       <word form="ἐς" head="4796" id="4801" lemma="εἰς" postag="r--------" relation="AuxP" />
       <word form="καλλιγύναικα" head="4800" id="4802" lemma="καλλιγύναιξ" postag="a-s---fa-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="4782" id="4803" insertion_id="0033e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716259" subdoc="641">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -6905,9 +6783,7 @@
       <word form="καὶ" head="4913" id="4917" lemma="καί" postag="c--------" relation="COORD" />
       <word form="πόντος" head="4921" id="4918" lemma="πόντος" postag="n-s---mn-" relation="SBJ" />
       <word form="ἀπήμων" head="4921" id="4919" lemma="ἀπήμων" postag="a-s---mn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="4917" id="4920" insertion_id="0009e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="4917" id="4921" insertion_id="0009f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716270" subdoc="641">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7041,8 +6917,7 @@
       <primary>megluthin</primary>
       <secondary>tovahk</secondary>
       <word form="ἁρπακτός" head="5016" id="5015" lemma="ἁρπακτός" postag="a-s---mn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="5016" insertion_id="0002e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716278" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7138,8 +7013,7 @@
       <word form="κύμασι" head="5069" id="5070" lemma="κῦμα" postag="n-p---nd-" relation="ADV" />
       <word form="πήματι" head="5072" id="5071" lemma="πῆμα" postag="n-s---nd-" relation="OBJ" />
       <word form="κύρσαι" head="5073" id="5072" lemma="κυρέω" postag="v--ana---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="5073" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716286" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7154,9 +7028,7 @@
       <word form="ἄχθος" head="5082" id="5081" lemma="ἄχθος" postag="n-s---na-" relation="OBJ" />
       <word form="ἀείρας" head="5085" id="5082" lemma="ἀείρω" postag="v-sapamn-" relation="ADV" />
       <word form="ἄξονα" head="5085" id="5083" lemma="ἄξων" postag="n-s---ma-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="5075" id="5084" insertion_id="0012e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5076" id="5085" insertion_id="0012f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716287" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7165,8 +7037,7 @@
       <word form="καὶ" head="5090" id="5087" lemma="καί" postag="c--------" relation="COORD" />
       <word form="φορτία" head="5089" id="5088" lemma="φορτίον" postag="n-p---nn-" relation="SBJ" />
       <word form="μαυρωθείη" head="5087" id="5089" lemma="μαυρόω" postag="v3saop---" presentation-after="." relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5090" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716288" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7183,8 +7054,7 @@
       <word form="ἐπὶ" head="5098" id="5095" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word form="πᾶσιν" head="5095" id="5096" lemma="πᾶς" postag="a-p---nd-" relation="ADV" />
       <word form="ἄριστος" head="5098" id="5097" lemma="ἄριστος" postag="a-s---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5094" id="5098" insertion_id="0006e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716290" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7216,8 +7086,7 @@
       <word form="τοι" head="5121" id="5118" lemma="τοι" postag="g--------" relation="AuxY" />
       <word form="ὥριος" head="5116" id="5119" lemma="ὥριος" postag="a-s---mn-" relation="ATR" />
       <word form="οὗτος" head="5121" id="5120" lemma="οὗτος" postag="a-s---mn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="5117" id="5121" insertion_id="0006e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716292" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7230,9 +7099,7 @@
       <word form="πέμπτῳ" head="5131" id="5127" lemma="πέμπτος" postag="a-s---nd-" relation="ATR" />
       <word form="δὲ" head="0" id="5128" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="γαμοῖτο" head="5128" id="5129" lemma="γαμέω" postag="v3spoe---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="5126" id="5130" insertion_id="0010e" relation="ADV" />
-      <word artificial="elliptic" form="[1]" head="5129" id="5131" insertion_id="0010f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716293" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7289,8 +7156,7 @@
       <word form="ῥίγιον" head="5172" id="5171" lemma="ῥῖγος" postag="a-s---nac" relation="ATR" />
       <word form="ἄλλο" head="5174" id="5172" lemma="ἄλλος" postag="a-s---na-" presentation-after="," relation="OBJ" />
       <word form="δειπνολόχης" head="5169" id="5173" lemma="δειπνολόχος" postag="a-s---fg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="5167" id="5174" insertion_id="0021e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716296" subdoc="678">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7470,9 +7336,7 @@
       <word form="κατὰ" head="5299" id="5297" lemma="κατά" postag="r--------" relation="AuxP" />
       <word form="μέτρον" head="5297" id="5298" lemma="μέτρον" postag="n-s---na-" relation="ADV" />
       <word form="ἰούσης" head="5296" id="5299" lemma="εἶμι" postag="v-sppafg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="5295" id="5300" insertion_id="0015e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5295" id="5301" insertion_id="0015f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716307" subdoc="706">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7510,9 +7374,7 @@
       <word form="δαπάνη" head="5326" id="5322" lemma="δαπάνη" postag="n-s---fn-" relation="SBJ" />
       <word form="τ̓" head="0" id="5323" lemma="τε" postag="g--------" relation="COORD" />
       <word form="ὀλιγίστη" head="5326" id="5324" lemma="ὀλίγιστος" postag="a-s---fn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5323" id="5325" insertion_id="0008e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5323" id="5326" insertion_id="0008f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716310" subdoc="706">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7571,8 +7433,7 @@
       <word form="ἔς" head="5364" id="5363" lemma="εἰς" postag="r--------" relation="AuxP" />
       <word form="τ̓" head="5366" id="5364" lemma="τε" postag="g--------" relation="COORD" />
       <word form="ἀνιόντα" head="5363" id="5365" lemma="ἄνειμι" postag="v-sppama-" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5366" insertion_id="0011e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716314" subdoc="706">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7588,8 +7449,7 @@
       <word form="μη" head="5377" id="5375" lemma="μή" postag="g--------" relation="AuxZ" />
       <word form="δ̓" head="0" id="5376" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀπογυμνωθείς" head="5378" id="5377" lemma="ἀπογυμνόω" postag="v-sappmn-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="5376" id="5378" insertion_id="0012e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716315" subdoc="706">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7619,9 +7479,7 @@
       <word form="πελάσας" head="5400" id="5396" lemma="πελάζω" postag="v-sapamn-" relation="ADV" />
       <word form="ἐυερκέος" head="5398" id="5397" lemma="εὐερκής" postag="a-s---fg-" relation="ATR" />
       <word form="αὐλῆς" head="5395" id="5398" lemma="αὐλή" postag="n-s---fg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="5391" id="5399" insertion_id="0019e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5391" id="5400" insertion_id="0019f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716317" subdoc="706">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7786,9 +7644,7 @@
       <word form="τοῖς" head="5514" id="5513" lemma="ὁ" postag="p-p---md-" relation="ADV" />
       <word form="ἔνι" head="5517" id="5514" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word form="ποινή" head="5517" id="5515" lemma="ποινή" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="5516" insertion_id="0006e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="5511" id="5517" insertion_id="0006f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716327" subdoc="737">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -7810,9 +7666,7 @@
       <word form="μη" head="5536" id="5532" lemma="μή" postag="g--------" relation="AuxZ" />
       <word form="δὲ" head="0" id="5533" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="δυωδεκάμηνον" head="5536" id="5534" lemma="δυωδεκάμηνος" postag="a-s---ma-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="5524" id="5535" insertion_id="0022e" relation="ADV" />
-      <word artificial="elliptic" form="[1]" head="5533" id="5536" insertion_id="0022f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716328" subdoc="737">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8004,8 +7858,7 @@
       <word form="ἠδ̓" head="5654" id="5651" lemma="ἠδέ" postag="c--------" relation="COORD" />
       <word form="ἁρμαλιὴν" head="5653" id="5652" lemma="ἁρμαλιά" postag="n-s---fa-" relation="OBJ" />
       <word form="δατέασθαι" head="5651" id="5653" lemma="δατέομαι" postag="v--anm---" presentation-after="." relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5654" insertion_id="0010e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716343" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8036,8 +7889,7 @@
       <word form="ἑβδόμη" head="5672" id="5673" lemma="ἕβδομος" postag="a-s---fn-" relation="SBJ_CO" />
       <word form="ἱερὸν" head="5675" id="5674" lemma="ἱερός" postag="a-s---nn-" relation="ATR" />
       <word form="ἦμαρ" head="5676" id="5675" lemma="ἦμαρ" postag="n-s---nn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="5676" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716345" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8067,8 +7919,7 @@
       <word form="βροτήσια" head="5695" id="5694" lemma="βροτήσιος" postag="a-p---na-" relation="ATR" />
       <word form="ἔργα" head="5696" id="5695" lemma="ἔργον" postag="n-p---na-" relation="OBJ" />
       <word form="πένεσθαι" head="5697" id="5696" lemma="πένομαι" postag="v--pne---" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="5684" id="5697" insertion_id="0016e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716347" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8088,8 +7939,7 @@
       <word form="εὔφρονα" head="5711" id="5710" lemma="εὔφρων" postag="a-s---ma-" relation="ATR" />
       <word form="καρπὸν" head="5712" id="5711" lemma="καρπός" postag="n-s---ma-" relation="OBJ" />
       <word form="ἀμᾶσθαι" head="5709" id="5712" lemma="ἀμάω" postag="v--pne---" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="5699" id="5713" insertion_id="0018e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716348" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8101,8 +7951,7 @@
       <word form="ἑνδεκάτης" head="5720" id="5718" lemma="ἑνδέκατος" postag="a-s---fg-" relation="ADV" />
       <word form="μέγ̓" head="5720" id="5719" lemma="μέγας" postag="a-s---na-" relation="AuxZ" />
       <word form="ἀμείνων" head="5721" id="5720" lemma="ἀμείνων" postag="a-s---fnc" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5715" id="5721" insertion_id="0008e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716349" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8155,8 +8004,7 @@
       <word form="δ̓" head="0" id="5752" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἐνθρέψασθαι" head="5755" id="5753" lemma="ἐντρέφω" postag="v--anm---" relation="ADV" />
       <word form="ἀρίστη" head="5755" id="5754" lemma="ἄριστος" postag="a-s---fn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5752" id="5755" insertion_id="0005e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716353" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8172,8 +8020,7 @@
       <word form="ἀνδρογόνος" head="5767" id="5764" lemma="ἀνδρογόνος" postag="a-s---fn-" relation="AtvV" />
       <word form="δ̓" head="0" id="5765" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀγαθή" head="5767" id="5766" lemma="ἀγαθός" postag="a-s---fn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5765" id="5767" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716354" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8219,9 +8066,7 @@
       <word form="ποιμνήιον" head="5798" id="5801" lemma="ποιμνήιος" postag="a-s---ma-" relation="ATR" />
       <word form="ἤπιον" head="5803" id="5802" lemma="ἤπιος" postag="a-s---nn-" relation="ATR" />
       <word form="ἦμαρ" head="5805" id="5803" lemma="ἦμαρ" postag="n-s---nn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5792" id="5804" insertion_id="0024e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5792" id="5805" insertion_id="0024f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716356" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8229,8 +8074,7 @@
       <word form="ἐσθλὴ" head="5809" id="5806" lemma="ἐσθλός" postag="a-s---fn-" relation="PNOM" />
       <word form="δ̓" head="0" id="5807" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="ἀνδρογόνος" head="5809" id="5808" lemma="ἀνδρογόνος" postag="a-s---fn-" presentation-after="·" relation="AtvV" />
-      <word artificial="elliptic" form="[0]" head="5807" id="5809" insertion_id="0004e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716357" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8266,8 +8110,7 @@
       <word form="δὲ" head="0" id="5833" lemma="δέ" postag="g--------" relation="COORD" />
       <word form="δυωδεκάτῃ" head="5836" id="5834" lemma="δωδέκατος" postag="a-s---fd-" relation="ADV" />
       <word form="ταλαεργούς" head="5832" id="5835" lemma="ταλαεργός" postag="a-p---ma-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="5833" id="5836" insertion_id="0014e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716359" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8306,9 +8149,7 @@
       <word form="τε" head="5857" id="5858" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="τετρὰς" head="5862" id="5859" lemma="τετράς" postag="n-s---fn-" relation="SBJ" />
       <word form="μέσση" head="5859" id="5860" lemma="μέσος" postag="a-s---fn-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="5857" id="5861" insertion_id="0011e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5857" id="5862" insertion_id="0011f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716362" subdoc="765">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8352,9 +8193,7 @@
       <word form="γὰρ" head="5881" id="5894" lemma="γάρ" postag="g--------" relation="AuxC" />
       <word form="τετελεσμένον" head="5898" id="5895" lemma="τελέω" postag="v-srpenn-" relation="PNOM" />
       <word form="ἦμαρ" head="5898" id="5896" lemma="ἦμαρ" postag="n-s---nn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="5884" id="5897" insertion_id="0017e" relation="ATR" />
-      <word artificial="elliptic" form="[1]" head="5894" id="5898" insertion_id="0017f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716364" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8373,8 +8212,7 @@
       <word form="ἔργματι" head="5909" id="5910" lemma="ἔργμα" postag="n-s---nd-" relation="ADV" />
       <word form="τούτῳ" head="5910" id="5911" lemma="οὗτος" postag="a-s---nd-" relation="ATR" />
       <word form="ἄριστοι" head="5913" id="5912" lemma="ἄριστος" postag="a-p---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5906" id="5913" insertion_id="0016e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716365" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8387,8 +8225,7 @@
       <word form="τε" head="5920" id="5919" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="καὶ" head="5922" id="5920" lemma="καί" postag="c--------" relation="COORD" />
       <word form="αἰναί" head="5920" id="5921" lemma="αἰνός" postag="a-p---fn-" presentation-after="·" relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="5917" id="5922" insertion_id="0010e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716366" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8467,9 +8304,7 @@
       <word form="εἰνὰς" head="5983" id="5979" lemma="εἰνάς" postag="n-s---fn-" relation="SBJ" />
       <word form="παναπήμων" head="5983" id="5980" lemma="παναπήμων" postag="a-s---fn-" relation="PNOM" />
       <word form="ἀνθρώποισιν" head="5983" id="5981" lemma="ἄνθρωπος" postag="n-p---md-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="5978" id="5982" insertion_id="0015e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="5978" id="5983" insertion_id="0015f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716370" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8487,8 +8322,7 @@
       <word form="τ̓" head="5995" id="5994" lemma="τε" postag="g--------" relation="AuxY" />
       <word form="ἠδὲ" head="5997" id="5995" lemma="ἠδέ" postag="c--------" relation="COORD" />
       <word form="γυναικί" head="5995" id="5996" lemma="γυνή" postag="n-s---fd-" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5997" insertion_id="0014e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716371" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8497,8 +8331,7 @@
       <word form="οὔποτε" head="6002" id="5999" lemma="οὔποτε" postag="d--------" relation="ADV" />
       <word form="πάγκακον" head="6001" id="6000" lemma="πάγκακος" postag="a-s---nn-" relation="ATR" />
       <word form="ἦμαρ" head="6002" id="6001" lemma="ἦμαρ" postag="n-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5998" id="6002" insertion_id="0005e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716372" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8531,8 +8364,7 @@
       <word form="οἴνοπα" head="6029" id="6028" lemma="ὀ͂νοψ" postag="a-s---ma-" relation="ATR" />
       <word form="πόντον" head="6027" id="6029" lemma="πόντος" postag="n-s---ma-" relation="OBJ" />
       <word form="εἰρύμεναι" head="6759" id="6030" lemma="ἐρύω" postag="v--pna---" presentation-after="·" relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="6006" id="6031" insertion_id="0030e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716373" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8561,8 +8393,7 @@
       <word form="ἱερὸν" head="6044" id="6043" lemma="ἱερός" postag="a-s---nn-" relation="ATR" />
       <word form="ἦμαρ" head="6046" id="6044" lemma="ἦμαρ" postag="n-s---nn-" relation="PNOM" />
       <word form="μέσση" head="6046" id="6045" lemma="μέσος" postag="a-s---fn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="6046" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716376" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8576,10 +8407,7 @@
       <word form="ἀρίστην" head="6058" id="6053" lemma="ἄριστος" postag="a-s---fa-" relation="PNOM" />
       <word form="ἠοῦς" head="6055" id="6054" lemma="ἠώς" postag="n-s---fg-" relation="SBJ" />
       <word form="γιγνομένης" head="6058" id="6055" lemma="γίγνομαι" postag="v-sppefg-" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="6048" id="6056" insertion_id="0010e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[2]" head="6058" id="6057" insertion_id="0010f" relation="SBJ" />
-      <word artificial="elliptic" form="[1]" head="6056" id="6058" insertion_id="0010g" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716377" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8609,8 +8437,7 @@
       <word form="οὔ" head="6078" id="6076" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="τι" head="6078" id="6077" lemma="τις" postag="p-s---na-" relation="OBJ" />
       <word form="φέρουσαι" head="6818" id="6078" lemma="φέρω" postag="v-pppafn-" presentation-after="." relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="6072" id="6079" insertion_id="0019e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716379" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8633,8 +8460,7 @@
       <word form="ἡμέρη" head="6089" id="6090" lemma="ἡμέρα" postag="n-s---fn-" presentation-after="," relation="SBJ" />
       <word form="ἄλλοτε" head="6093" id="6091" lemma="ἄλλοτε" postag="d--------" relation="ADV" />
       <word form="μήτηρ" head="6093" id="6092" lemma="μήτηρ" postag="n-s---fn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="6835" id="6093" insertion_id="0008e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg002.perseus-grc1" id="1716381" subdoc="800">
       <primary>millermo</primary>
       <primary>megluthin</primary>
@@ -8656,7 +8482,6 @@
       <word form="καὶ" head="6103" id="6108" lemma="καί" postag="c--------" relation="COORD" />
       <word form="ὑπερβασίας" head="6110" id="6109" lemma="ὑπερβασία" postag="n-p---fa-" relation="OBJ" />
       <word form="ἀλεείνων" head="6108" id="6110" lemma="ἀλεείνω" postag="v-sppamn-" presentation-after="." relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="6111" insertion_id="0020e" relation="PRED" />
-    </sentence>
+      </sentence>
   </body>
 </treebank>

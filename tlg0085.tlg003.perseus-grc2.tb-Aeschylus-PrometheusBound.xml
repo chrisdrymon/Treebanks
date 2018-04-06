@@ -144,8 +144,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:13" form="κοὐδὲν" head="0" id="74" lemma="οὐδείς" postag="a-s---na-" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:13" form="ἐμποδὼν" head="77" id="75" lemma="ἐμποδών" postag="d--------" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:13" form="ἔτι" head="77" id="76" lemma="ἔτι" postag="d--------" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="74" id="77" insertion_id="0015e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896882" subdoc="14-15">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:14" form="ἐγὼ" head="81" id="78" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" />
@@ -169,8 +168,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:16" form="μοι" head="96" id="93" lemma="ἐγώ" postag="p-s---md-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:16" form="τόλμαν" head="95" id="94" lemma="τόλμα" postag="n-s---fa-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:16" form="σχεθεῖν" head="96" id="95" lemma="σχεθεῖν" postag="v--ana---" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="96" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896884" subdoc="17">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:17" form="ἐξωριάζειν" head="102" id="97" lemma="ἐξωριάζω" postag="v--pna---" relation="SBJ" />
@@ -178,8 +176,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:17" form="πατρὸς" head="100" id="99" lemma="πατήρ" postag="n-s---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:17" form="λόγους" head="97" id="100" lemma="λόγος" postag="n-p---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:17" form="βαρύ" head="102" id="101" lemma="βαρύς" postag="a-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="102" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896885" subdoc="18-23">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:18" form="τῆς" head="105" id="103" lemma="ὁ" postag="l-s---fg-" relation="ATR" />
@@ -304,8 +301,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:34" form="γὰρ" head="201" id="198" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:34" form="δυσπαραίτητοι" head="201" id="199" lemma="δυσπαραίτητος" postag="a-p---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:34" form="φρένες" head="201" id="200" lemma="φρήν" postag="n-p---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="201" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896894" subdoc="35">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:35" form="ἅπας" head="0" id="202" lemma="ἅπας" postag="a-s---mn-" relation="SBJ" />
@@ -315,8 +311,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:35" form="ἂν" head="208" id="206" lemma="ἄν" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:35" form="νέον" head="208" id="207" lemma="νέος" postag="a-s---na-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:35" form="κρατῇ" head="202" id="208" lemma="κρατέω" postag="v3spsa---" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="209" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896895" subdoc="36">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:36" form="εἶεν" head="213" id="210" lemma="εἶεν" postag="g--------" presentation-after="," relation="ExD" />
@@ -351,8 +346,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:39" form="ἥ" head="235" id="233" lemma="ὁ" postag="l-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:39" form="θ̓" head="236" id="234" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:39" form="ὁμιλία" head="234" id="235" lemma="ὁμιλία" postag="n-s---fn-" presentation-after="." relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="236" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896898" subdoc="40">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:40" form="σύμφημ̓" head="0" id="237" lemma="σύμφημι" postag="v1spia---" presentation-after="·" relation="PRED" />
@@ -367,8 +361,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:41" form="οἷόν" head="246" id="243" lemma="οἷος" postag="a-s---ma-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:41" form="τε" head="243" id="244" lemma="τε" postag="g--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:41" form="πῶς" head="246" id="245" lemma="πῶς" postag="d--------" presentation-after=";" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="246" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896900" subdoc="41">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:41" form="οὐ" head="248" id="247" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -386,8 +379,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:42" form="καὶ" head="259" id="256" lemma="καί" postag="c--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:42" form="θράσους" head="258" id="257" lemma="θράσος" postag="n-s---ng-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:42" form="πλέως" head="256" id="258" lemma="πλέως" postag="a-s---mn-" presentation-after="." relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="259" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896902" subdoc="43">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:43" form="ἄκος" head="265" id="260" lemma="ἄκος" postag="n-s---nn-" relation="PNOM" />
@@ -395,8 +387,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:43" form="οὐδὲν" head="260" id="262" lemma="οὐδείς" postag="a-s---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:43" form="τόνδε" head="264" id="263" lemma="ὅδε" postag="p-s---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:43" form="θρηνεῖσθαι" head="265" id="264" lemma="θρηνέω" postag="v--pne---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="265" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896903" subdoc="43-44">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:43" form="σὺ" head="272" id="266" lemma="σύ" postag="p-s---mn-" relation="ExD" />
@@ -414,8 +405,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:45" form="πολλὰ" head="276" id="275" lemma="πολύς" postag="a-p---na-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:45" form="μισηθεῖσα" head="277" id="276" lemma="μισέω" postag="v-sappfn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:45" form="χειρωναξία" head="278" id="277" lemma="χειρωναξία" postag="n-s---fn-" presentation-after="." relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="0" id="278" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896905" subdoc="46">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:46" form="τί" head="281" id="279" lemma="τίς" postag="p-s---na-" relation="ADV" />
@@ -435,9 +425,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:47" form="οὐδὲν" head="291" id="290" lemma="οὐδείς" postag="a-s---na-" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:47" form="αἰτία" head="293" id="291" lemma="αἴτιος" postag="a-s---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:47" form="τέχνη" head="293" id="292" lemma="τέχνη" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="293" insertion_id="0012e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="284" id="294" insertion_id="0012f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896907" subdoc="48">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:48" form="ἔμπας" head="299" id="295" lemma="ἔμπας" postag="d--------" relation="AuxY" />
@@ -454,8 +442,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:49" form="πλὴν" head="306" id="303" lemma="πλήν" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:49" form="θεοῖσι" head="305" id="304" lemma="θεός" postag="n-p---md-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:49" form="κοιρανεῖν" head="303" id="305" lemma="κοιρανέω" postag="v--pna---" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="306" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896909" subdoc="50">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:50" form="ἐλεύθερος" head="310" id="307" lemma="ἐλεύθερος" postag="a-s---mn-" relation="PNOM" />
@@ -535,8 +522,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:59" form="κἀξ" head="362" id="360" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:59" form="ἀμηχάνων" head="360" id="361" lemma="ἀμήχανος" postag="a-p---ng-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:59" form="πόρον" head="359" id="362" lemma="πόρος" postag="n-s---ma-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="363" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896917" subdoc="60">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:60" form="ἄραρεν" head="0" id="364" lemma="ἀραρίσκω" postag="v3sria---" relation="PRED" />
@@ -558,8 +544,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:62" form="ὢν" head="380" id="377" lemma="εἰμί" postag="v-sppamn-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:62" form="Διὸς" head="379" id="378" lemma="Ζεύς" postag="n-s---mg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:62" form="νωθέστερος" head="380" id="379" lemma="νωθής" postag="a-s---mnc" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="375" id="380" insertion_id="0013e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896919" subdoc="63">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:63" form="πλὴν" head="384" id="381" lemma="πλήν" postag="r--------" relation="AuxP" />
@@ -610,8 +595,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:68" form="σαυτὸν" head="415" id="414" lemma="σαυτοῦ" postag="p-s---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:68" form="οἰκτιεῖς" head="412" id="415" lemma="οἰκτίζω" postag="v2sfia---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:68" form="ποτε" head="413" id="416" lemma="ποτέ" postag="g--------" presentation-after="." relation="AuxZ" />
-      <word artificial="elliptic" form="[0]" head="0" id="417" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896924" subdoc="69">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:69" form="ὁρᾷς" head="0" id="418" lemma="ὁράω" postag="v2spia---" relation="PRED" />
@@ -643,8 +627,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:72" form="μηδὲν" head="436" id="435" lemma="μηδείς" postag="n-s---na-" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:72" form="ἐγκέλεὐ" head="473" id="436" lemma="ἐγκελεύω" postag="v2spma---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:72" form="ἄγαν" head="436" id="437" lemma="ἄγαν" postag="d--------" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="438" insertion_id="0008e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896928" subdoc="73">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:73" form="ἦ" head="441" id="439" lemma="ἦ" postag="d--------" relation="AuxY" />
@@ -653,8 +636,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:73" form="κἀπιθωύξω" head="445" id="442" lemma="ἐπιθωύσσω" postag="v1sasa---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:73" form="γε" head="442" id="443" lemma="γε" postag="g--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:73" form="πρός" head="442" id="444" lemma="πρός" postag="r--------" presentation-after="." relation="AuxY" />
-      <word artificial="elliptic" form="[0]" head="0" id="445" insertion_id="0007e" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896929" subdoc="74">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:74" form="χώρει" head="449" id="446" lemma="χωρέω" postag="v2spma---" relation="PRED_CO" />
@@ -690,9 +672,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:77" form="τῶν" head="468" id="467" lemma="ὁ" postag="l-p---ng-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:77" form="ἔργων" head="465" id="468" lemma="ἔργον" postag="n-p---ng-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:77" form="βαρύς" head="471" id="469" lemma="βαρύς" postag="a-s---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="470" insertion_id="0007e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="464" id="471" insertion_id="0007f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896933" subdoc="78">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:78" form="ὅμοια" head="476" id="472" lemma="ὁμοῖος" postag="a-p---na-" relation="OBJ" />
@@ -747,8 +727,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:84" form="τῶνδ̓" head="511" id="509" lemma="ὅδε" postag="p-p---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:84" form="ἀπαντλῆσαι" head="506" id="510" lemma="ἀπαντλέω" postag="v--ana---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:84" form="πόνων" head="504" id="511" lemma="πόνος" postag="n-p---mg-" presentation-after=";" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="512" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896938" subdoc="85-86">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:85" form="ψευδωνύμως" head="517" id="513" lemma="ψευδώνυμος" postag="d--------" relation="ADV" />
@@ -795,8 +774,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:91" form="κύκλον" head="550" id="548" lemma="κύκλος" postag="n-s---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:91" form="ἡλίου" head="548" id="549" lemma="ἥλιος" postag="n-s---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:91" form="καλῶ" head="545" id="550" lemma="καλέω" postag="v1spia---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="545" id="551" insertion_id="0028e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896941" subdoc="92">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:92" form="ἴδεσθέ" head="0" id="552" lemma="εἶδον" postag="v2pamm---" relation="PRED" />
@@ -806,8 +784,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:92" form="θεῶν" head="555" id="556" lemma="θεός" postag="n-p---mg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:92" form="πάσχω" head="559" id="557" lemma="πάσχω" postag="v1spia---" relation="OBJ_AP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:92" form="θεός" head="557" id="558" lemma="θεός" postag="n-s---mn-" presentation-after="." relation="AtvV" />
-      <word artificial="elliptic" form="[0]" head="552" id="559" insertion_id="0008e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896942" subdoc="93-95">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:93" form="δέρχθηθ̓" head="0" id="560" lemma="δέρκομαι" postag="v2samp---" relation="PRED" />
@@ -953,8 +930,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:114" form="ἆ" head="673" id="670" lemma="ἆ" postag="i--------" relation="ExD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:114" form="ἔα" head="672" id="671" lemma="ἔα" postag="i--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:114" form="ἔα" head="673" id="672" lemma="ἔα" postag="i--------" presentation-after="." relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="0" id="673" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896953" subdoc="115-116">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:115" form="τίς" head="675" id="674" lemma="τίς" postag="a-s---fn-" relation="ATR" />
@@ -1039,8 +1015,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:127" form="φοβερὸν" head="741" id="738" lemma="φοβερός" postag="a-s---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:127" form="τὸ" head="740" id="739" lemma="ὁ" postag="l-s---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:127" form="προσέρπον" head="741" id="740" lemma="προσέρπω" postag="v-sppann-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="741" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896959" subdoc="128">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:128" form="μηδὲν" head="743" id="742" lemma="μηδείς" postag="n-s---na-" relation="OBJ" />
@@ -1230,9 +1205,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:161" form="ὅτῳ" head="891" id="887" lemma="ὅστις" postag="p-s---md-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:161" form="τάδ̓" head="891" id="888" lemma="ὅδε" postag="p-p---nn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:161" form="ἐπιχαρῆ" head="891" id="889" lemma="ἐπιχαρής" postag="a-p---nn-" presentation-after=";" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="890" insertion_id="0009e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="884" id="891" insertion_id="0009f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896973" subdoc="162-163">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:162" form="τίς" head="894" id="892" lemma="τίς" postag="p-s---mn-" relation="SBJ" />
@@ -1343,8 +1316,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:182" form="ἄγαν" head="987" id="985" lemma="ἄγαν" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:182" form="δ̓" head="0" id="986" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:182" form="ἐλευθεροστομεῖς" head="986" id="987" lemma="ἐλευθεροστομέω" postag="v2spia---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="986" id="988" insertion_id="0014e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896978" subdoc="183">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:183" form="ἐμὰς" head="991" id="989" lemma="ἐμός" postag="a-p---fa-" relation="ATR" />
@@ -1396,8 +1368,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:190" form="δίκαιον" head="1027" id="1026" lemma="δίκαιος" postag="a-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:190" form="ἔχων" head="1022" id="1027" lemma="ἔχω" postag="v-sppamn-" relation="PNOM_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:190" form="Ζεύς" head="1029" id="1028" lemma="Ζεύς" postag="n-s---mn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="1020" id="1029" insertion_id="0011e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896982" subdoc="190-192">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:190" form="ἀλλ̓" head="1034" id="1030" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -1472,9 +1443,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:200" form="πανταχῇ" head="1091" id="1087" lemma="πανταχῆ" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:200" form="δὲ" head="0" id="1088" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:200" form="δύσποτμα" head="1091" id="1089" lemma="δύσποτμος" postag="a-p---na-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="1088" id="1090" insertion_id="0016e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="1088" id="1091" insertion_id="0016f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896987" subdoc="201-208">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:201" form="ἐπεὶ" head="1121" id="1092" lemma="ἐπεί" postag="c--------" relation="AuxC" />
@@ -1570,8 +1539,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:215" form="τοὺς" head="1177" id="1176" lemma="ὁ" postag="l-p---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:215" form="ὑπερσχόντας" head="1178" id="1177" lemma="ὑπερέχω" postag="v-papama-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:215" form="κρατεῖν" head="1175" id="1178" lemma="κρατέω" postag="v--pna---" presentation-after="." relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="1173" id="1179" insertion_id="0038e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2896990" subdoc="216-217">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:216" form="τοιαῦτ̓" head="1183" id="1180" lemma="τοιοῦτος" postag="a-p---na-" relation="OBJ" />
@@ -1775,8 +1743,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:245" form="οὐ" head="1340" id="1339" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:245" form="συνασχαλᾷ" head="1342" id="1340" lemma="συνασχαλάω" postag="v3spia---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:246" form="μόχθοις" head="1340" id="1341" lemma="μόχθος" postag="n-p---md-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="1342" insertion_id="0014e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897004" subdoc="246-247">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:246" form="ἐγὼ" head="1350" id="1343" lemma="ἐγώ" postag="p-s---fn-" relation="SBJ" />
@@ -1801,8 +1768,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:248" form="ἐλεινὸς" head="1362" id="1359" lemma="ἐλεεινός" postag="a-s---mn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:248" form="εἰσορᾶν" head="1359" id="1360" lemma="εἰσοράω" postag="v--pna---" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:248" form="ἐγώ" head="1362" id="1361" lemma="ἐγώ" postag="p-s---mn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="1362" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897006" subdoc="249">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:249" form="μή" head="1366" id="1363" lemma="μή" postag="c--------" relation="AuxZ" />
@@ -1830,8 +1796,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:251" form="τῆσδε" head="1381" id="1379" lemma="ὅδε" postag="p-s---fg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:251" form="φάρμακον" head="1378" id="1380" lemma="φάρμακον" postag="n-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:251" form="νόσου" head="1380" id="1381" lemma="νόσος" postag="n-s---fg-" presentation-after=";" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="1382" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897009" subdoc="252">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:252" form="τυφλὰς" head="1386" id="1383" lemma="τυφλός" postag="a-p---fa-" relation="ATR" />
@@ -1884,8 +1849,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:257" form="Ζεὺς" head="1418" id="1415" lemma="Ζεύς" postag="n-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:257" form="ἐπ̓" head="1418" id="1416" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:257" form="αἰτιάμασιν" head="1416" id="1417" lemma="αἰτίαμα" postag="n-p---nd-" presentation-after="-" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="1418" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897015" subdoc="258">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:258" form="αἰκίζεταί" head="1421" id="1419" lemma="αἰκίζω" postag="v3spie---" relation="PRED_CO" />
@@ -1914,8 +1878,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:260" form="ὅταν" head="1435" id="1436" lemma="ὅταν" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:260" form="κείνῳ" head="1438" id="1437" lemma="ἐκεῖνος" postag="a-s---md-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:260" form="δοκῇ" head="1436" id="1438" lemma="δοκέω" postag="v3spsa---" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="1439" insertion_id="0010e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897018" subdoc="261">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:261" form="δόξει" head="0" id="1440" lemma="δοκέω" postag="v3sfia---" relation="PRED" />
@@ -1926,8 +1889,7 @@
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:261" form="τίς" head="1444" id="1443" lemma="τίς" postag="a-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:261" form="ἐλπίς" head="1445" id="1444" lemma="ἐλπίς" postag="n-s---fn-" presentation-after=";" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="1445" insertion_id="0003e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897020" subdoc="261-262">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:261" form="οὐχ" head="1447" id="1446" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -1949,9 +1911,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:263" form="σοί" head="1463" id="1459" lemma="σύ" postag="p-s---md-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:263" form="τ̓" head="0" id="1460" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:263" form="ἄλγος" head="1463" id="1461" lemma="ἄλγος" postag="n-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="1460" id="1462" insertion_id="0013e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="1460" id="1463" insertion_id="0013f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897022" subdoc="263-264">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:263" form="ἀλλὰ" head="1467" id="1464" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -1978,8 +1938,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:266" form="τὸν" head="1484" id="1482" lemma="ὁ" postag="l-s---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:266" form="κακῶς" head="1484" id="1483" lemma="κακός" postag="d--------" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:267" form="πράσσοντ̓" head="1481" id="1484" lemma="πράσσω" postag="v-sppama-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="1485" insertion_id="0013e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897024" subdoc="267">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:267" form="ἐγὼ" head="1490" id="1486" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" />
@@ -2103,8 +2062,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:285" form="διὰ" head="1582" id="1580" lemma="διά" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:285" form="παντὸς" head="1580" id="1581" lemma="πᾶς" postag="a-s---ng-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:285" form="ἀκοῦσαι" head="1579" id="1582" lemma="ἀκούω" postag="v--ana---" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1567" id="1583" insertion_id="0028e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897033" subdoc="286-289">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:286" form="ἥκω" head="0" id="1584" lemma="ἥκω" postag="v1spia---" relation="PRED" />
@@ -2154,8 +2112,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:294" form="νείμαιμ̓" head="1618" id="1622" lemma="νέμω" postag="v1saoa---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:294" form="ἢ" head="1620" id="1623" lemma="ἤ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:294" form="σοί" head="1625" id="1624" lemma="σύ" postag="p-s---md-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1623" id="1625" insertion_id="0023e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897036" subdoc="295-296">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:295" form="γνώσῃ" head="1632" id="1626" lemma="γιγνώσκω" postag="v2sfim---" relation="PRED_CO" />
@@ -2169,8 +2126,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:296" form="χαριτογλωσσεῖν" head="1635" id="1634" lemma="χαριτογλωσσέω" postag="v--pna---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:296" form="ἔνι" head="1632" id="1635" lemma="ἐν" postag="r--------" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:296" form="μοι" head="1635" id="1636" lemma="ἐγώ" postag="p-s---md-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1629" id="1637" insertion_id="0013e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897037" subdoc="296-297">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:296" form="φέρε" head="1640" id="1638" lemma="φέρω" postag="v2spma---" relation="AuxY" />
@@ -2198,8 +2154,7 @@
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897039" subdoc="300">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:300" form="ἔα" head="1657" id="1656" lemma="ἔα" postag="i--------" presentation-after="·" relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="0" id="1657" insertion_id="0002e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897040" subdoc="300">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:300" form="τί" head="1659" id="1658" lemma="τις" postag="p-s---na-" relation="ATR" />
@@ -2295,8 +2250,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:312" form="τύραννος" head="1730" id="1727" lemma="τύραννος" postag="n-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:312" form="ἐν" head="1730" id="1728" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:312" form="θεοῖς" head="1728" id="1729" lemma="θεός" postag="n-p---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="1730" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897048" subdoc="313-316">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:313" form="εἰ" head="1746" id="1731" lemma="εἰ" postag="c--------" relation="AuxC" />
@@ -2380,8 +2334,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:323" form="ἄλλα" head="1798" id="1797" lemma="ἄλλος" postag="a-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:323" form="προσλαβεῖν" head="1799" id="1798" lemma="προσλαμβάνω" postag="v--ana---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:323" form="θέλεις" head="1796" id="1799" lemma="ἐθέλω" postag="v2spia---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="1796" id="1800" insertion_id="0017e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897053" subdoc="324-326">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:324" form="οὔκουν" head="1808" id="1801" lemma="οὔκουν" postag="d--------" relation="AuxY" />
@@ -2478,8 +2431,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:335" form="οὐ" head="1873" id="1871" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:335" form="γὰρ" head="1874" id="1872" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:335" form="εὐπιθής" head="1874" id="1873" lemma="εὐπιθής" postag="a-s---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="1874" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897061" subdoc="336">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:336" form="πάπταινε" head="0" id="1875" lemma="παπταίνω" postag="v2spma---" relation="PRED" />
@@ -2501,8 +2453,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:337" form="ἔφυς" head="0" id="1888" lemma="φύω" postag="v2saia---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:338" form="ἢ" head="1884" id="1889" lemma="ἤ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:338" form="σαυτόν" head="1891" id="1890" lemma="σαυτοῦ" postag="p-s---ma-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="1889" id="1891" insertion_id="0010e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897063" subdoc="338">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:338" form="ἔργῳ" head="1893" id="1892" lemma="ἔργον" postag="n-s---nd-" relation="OBJ_CO" />
@@ -2620,8 +2571,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:352" form="ἄχθος" head="2180" id="1977" lemma="ἄχθος" postag="n-s---na-" relation="OBJ_AP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:352" form="οὐκ" head="1979" id="1978" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:352" form="εὐάγκαλον" head="1977" id="1979" lemma="εὐάγκαλος" postag="a-s---na-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="1980" insertion_id="0027e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897073" subdoc="353-356">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:353" form="τὸν" head="1985" id="1981" lemma="ὁ" postag="l-s---ma-" relation="ATR" />
@@ -2696,8 +2646,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:364" form="ἐφεψαλώθη" head="2041" id="2038" lemma="φεψαλόομαι" postag="v3saie---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:364" form="κἀξεβροντήθη" head="2041" id="2039" lemma="ἐκβροντάω" postag="v3saip---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:364" form="σθένος" head="2039" id="2040" lemma="σθένος" postag="n-s---na-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2041" insertion_id="0009e" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897078" subdoc="365-367">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:365" form="καὶ" head="2048" id="2042" lemma="καί" postag="c--------" relation="AuxY" />
@@ -2768,8 +2717,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:375" form="ἐμοῦ" head="2097" id="2095" lemma="ἐγώ" postag="p-s---mg-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:375" form="διδασκάλου" head="2095" id="2096" lemma="διδάσκαλος" postag="n-s---mg-" relation="ATV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:376" form="χρῄζεις" head="2094" id="2097" lemma="χρῄζω" postag="v2spia---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="2094" id="2098" insertion_id="0011e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897083" subdoc="376">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:376" form="σεαυτὸν" head="2100" id="2099" lemma="σαυτοῦ" postag="p-s---ma-" relation="OBJ" />
@@ -2820,8 +2768,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:382" form="θυμὸν" head="2136" id="2135" lemma="θυμός" postag="n-s---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:382" form="ἰσχναίνῃ" head="2132" id="2136" lemma="ἰσχναίνω" postag="v3spsa---" relation="ADV_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:382" form="βίᾳ" head="2136" id="2137" lemma="βία" postag="n-s---fd-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2138" insertion_id="0014e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897087" subdoc="383-384">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:383" form="ἐν" head="2147" id="2139" lemma="ἐν" postag="r--------" relation="AuxP" />
@@ -2847,8 +2794,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:385" form="κουφόνουν" head="2155" id="2153" lemma="κουφόνους" postag="a-s---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:385" form="τ̓" head="2156" id="2154" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:385" form="εὐηθίαν" head="2154" id="2155" lemma="εὐηθία" postag="n-s---fa-" presentation-after="." relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="2156" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897090" subdoc="386-387">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:386" form="ἔα" head="0" id="2157" lemma="ἐάω" postag="v2spma---" relation="PRED" />
@@ -2864,8 +2810,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:387" form="μὴ" head="2168" id="2167" lemma="μή" postag="c--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:387" form="φρονεῖν" head="2169" id="2168" lemma="φρονέω" postag="v--pna---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:387" form="δοκεῖν" head="2170" id="2169" lemma="δοκέω" postag="v--pna---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="2163" id="2170" insertion_id="0015e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897091" subdoc="388">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:388" form="ἐμὸν" head="2174" id="2171" lemma="ἐμός" postag="a-s---nn-" relation="PNOM" />
@@ -2904,8 +2849,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:391" form="θακοῦντι" head="2198" id="2195" lemma="θακέω" postag="v-sppamd-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:391" form="παγκρατεῖς" head="2197" id="2196" lemma="παγκρατής" postag="a-p---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:391" form="ἕδρας" head="2195" id="2197" lemma="ἕδρα" postag="n-p---fa-" presentation-after=";" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2198" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897095" subdoc="392">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:392" form="τούτου" head="2204" id="2199" lemma="οὗτος" postag="a-s---mg-" relation="ATR" />
@@ -2922,8 +2866,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:393" form="Προμηθεῦ" head="2210" id="2207" lemma="Προμηθεύς" postag="n-s---mv-" presentation-after="," relation="ExD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:393" form="συμφορὰ" head="2210" id="2208" lemma="συμφορά" postag="n-s---fn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:393" form="διδάσκαλος" head="2210" id="2209" lemma="διδάσκαλος" postag="n-s---fn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="2210" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897097" subdoc="394">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:394" form="στέλλου" head="2443" id="2211" lemma="στέλλω" postag="v2spme---" presentation-after="," relation="PRED_CO" />
@@ -3054,8 +2997,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:419" form="ῶτιν" head="2314" id="2312" lemma="Μαιῶτις" postag="n-s---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:419" form="ἔχουσι" head="2305" id="2313" lemma="ἔχω" postag="v3ppia---" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:419" form="λίμναν" head="2310" id="2314" lemma="λίμνη" postag="n-s---fa-" presentation-after="," relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="2315" insertion_id="0024e" presentation-after="?" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897106" subdoc="420-424">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:420" form="Ἀραβίας" head="2320" id="2317" lemma="Ἀραβία" postag="n-s---fg-" relation="ATR" />
@@ -3075,8 +3017,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:424" form="βρέμων" head="2328" id="2331" lemma="βρέμω" postag="v-sppamn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:424" form="ἐν" head="2331" id="2332" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:424" form="αἰχμαῖς" head="2332" id="2333" lemma="αἰχμή" postag="n-p---fd-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2334" insertion_id="0023e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897107" subdoc="425-430">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:425" form="μόνον" head="2345" id="2336" lemma="μόνος" postag="a-s---ma-" relation="ATV" />
@@ -3164,8 +3105,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:440" form="γὼ" head="2410" id="2407" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:440" form="παντελῶς" head="2409" id="2408" lemma="παντελής" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:440" form="διώρισεν" head="0" id="2409" lemma="διορίζω" postag="v3saia---" presentation-after=";" relation="PRED" />
-      <word artificial="elliptic" form="[0]" head="2405" id="2410" insertion_id="0014e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897112" subdoc="441">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:441" form="ἀλλ̓" head="2413" id="2411" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -3255,8 +3195,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:453" form="ἐν" head="2483" id="2480" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:453" form="μυχοῖς" head="2480" id="2481" lemma="μυχός" postag="n-p---md-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:453" form="ἀνηλίοις" head="2481" id="2482" lemma="ἀνήλιος" postag="a-p---md-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="2476" id="2483" insertion_id="0011e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897118" subdoc="454-458">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:454" form="ἦν" head="2501" id="2484" lemma="εἰμί" postag="v3siia---" relation="PRED_CO" />
@@ -3398,9 +3337,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:475" form="ὁποίοις" head="2603" id="2602" lemma="ὁποῖος" postag="a-p---md-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:475" form="φαρμάκοις" head="2604" id="2603" lemma="φάρμακος" postag="n-p---md-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:475" form="ἰάσιμος" head="2606" id="2604" lemma="ἰάσιμος" postag="a-s---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="2591" id="2605" insertion_id="0022e" relation="ADV" />
-      <word artificial="elliptic" form="[1]" head="2601" id="2606" insertion_id="0022f" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897125" subdoc="476-477">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:476" form="τὰ" head="2608" id="2607" lemma="ὁ" postag="l-p---na-" relation="ATR" />
@@ -3509,9 +3446,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:492" form="στέργηθρα" head="2702" id="2701" lemma="στέργηθρον" postag="n-p---nn-" relation="SBJ_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:492" form="καὶ" head="2705" id="2702" lemma="καί" postag="c--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:492" form="συνεδρίαι" head="2702" id="2703" lemma="συνεδρία" postag="n-p---fn-" presentation-after="·" relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="2694" id="2704" insertion_id="0031e" relation="OBJ_AP_CO" />
-      <word artificial="elliptic" form="[1]" head="2694" id="2705" insertion_id="0031f" relation="OBJ_AP_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897129" subdoc="493-495">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:493" form="σπλάγχνων" head="2708" id="2706" lemma="σπλάγχνον" postag="n-p---ng-" relation="ATR" />
@@ -3531,8 +3466,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:495" form="τε" head="2723" id="2720" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:495" form="ποικίλην" head="2722" id="2721" lemma="ποικίλος" postag="a-s---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:495" form="εὐμορφίαν" head="2720" id="2722" lemma="εὐμορφία" postag="n-s---fa-" presentation-after="." relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="2723" insertion_id="0020e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897130" subdoc="496-499">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:496" form="κνίσῃ" head="2727" id="2724" lemma="κνῖσα" postag="n-s---fd-" relation="ADV" />
@@ -3562,8 +3496,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:500" form="μὲν" head="2748" id="2745" lemma="μέν" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:500" form="δὴ" head="2745" id="2746" lemma="δή" postag="g--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:500" form="ταῦτ̓" head="2748" id="2747" lemma="οὗτος" postag="a-p---nn-" presentation-after="·" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2748" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897132" subdoc="500-503">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:500" form="ἔνερθε" head="2752" id="2749" lemma="ἔνερθε" postag="r--------" relation="AuxP" />
@@ -3593,8 +3526,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:504" form="μάτην" head="2771" id="2770" lemma="μάτην" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:504" form="φλύσαι" head="2772" id="2771" lemma="φλύω" postag="v--ana---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:504" form="θέλων" head="2773" id="2772" lemma="ἐθέλω" postag="v-sppamn-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2773" insertion_id="0010e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897134" subdoc="505-506">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:505" form="βραχεῖ" head="2776" id="2774" lemma="βραχύς" postag="a-s---md-" relation="ATR" />
@@ -3608,8 +3540,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:506" form="βροτοῖσιν" head="2785" id="2782" lemma="βροτός" postag="n-p---md-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:506" form="ἐκ" head="2785" id="2783" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:506" form="Προμηθέως" head="2783" id="2784" lemma="Προμηθεύς" postag="n-s---mg-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="3093" id="2785" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897135" subdoc="507-508">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:507" form="μή" head="2794" id="2786" lemma="μή" postag="c--------" relation="AuxZ" />
@@ -3640,8 +3571,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:510" form="μεῖον" head="2809" id="2808" lemma="μείων" postag="a-s---nnc" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:510" form="ἰσχύσειν" head="2799" id="2809" lemma="ἰσχύω" postag="v--fna---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:510" form="Διός" head="2808" id="2810" lemma="Ζεύς" postag="n-s---mg-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2811" insertion_id="0015e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897137" subdoc="511-513">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:511" form="οὐ" head="2819" id="2812" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -3669,8 +3599,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:514" form="ἀνάγκης" head="2832" id="2831" lemma="ἀνάγκη" postag="n-s---fg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:514" form="ἀσθενεστέρα" head="2834" id="2832" lemma="ἀσθενής" postag="a-s---fnc" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:514" form="μακρῷ" head="2832" id="2833" lemma="μακρός" postag="a-s---nd-" presentation-after="." relation="AuxZ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2834" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897139" subdoc="515">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:515" form="τίς" head="2838" id="2835" lemma="τίς" postag="p-s---mn-" relation="SBJ" />
@@ -3686,8 +3615,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:516" form="μνήμονές" head="2844" id="2842" lemma="μνήμων" postag="a-p---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:516" form="τ̓" head="2845" id="2843" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:516" form="Ἐρινύες" head="2843" id="2844" lemma="Ἐρινύς" postag="n-p---fn-" relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="2845" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897141" subdoc="517">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:517" form="τούτων" head="2850" id="2846" lemma="οὗτος" postag="a-p---mg-" relation="ADV" />
@@ -3749,8 +3677,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:523" form="συγκαλυπτέος" head="2890" id="2887" lemma="συγκαλυπτέος" postag="a-s---mn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:524" form="ὅσον" head="2889" id="2888" lemma="ὅσος" postag="a-s---na-" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:524" form="μάλιστα" head="2887" id="2889" lemma="μάλιστα" postag="d--------" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="2886" id="2890" insertion_id="0015e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897147" subdoc="524-525">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:524" form="τόνδε" head="2893" id="2891" lemma="ὅδε" postag="p-s---ma-" relation="OBJ" />
@@ -3818,8 +3745,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:539" form="ἀλδαίνουσαν" head="2939" id="2944" lemma="ἀλδαίνω" postag="v-sppafa-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:539" form="ἐν" head="2944" id="2945" lemma="ἐν" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:539" form="εὐφροσύναις" head="2945" id="2946" lemma="εὐφροσύνη" postag="n-p---fd-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="2947" insertion_id="0015e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897151" subdoc="539-541">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:539" form="φρίσ-" head="2950" id="2948" lemma="" postag="---------" relation="XSEG" />
@@ -3852,25 +3778,20 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:545" form="χάρις" head="2972" id="2969" lemma="χάρις" postag="n-s---fn-" presentation-after="," relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:545" form="ὦ" head="2971" id="2970" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:545" form="φίλος" head="2966" id="2971" lemma="φίλος" postag="a-s---mn-" presentation-after="·" relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="2966" id="2972" insertion_id="0009e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897154" subdoc="546">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:546" form="εἰπὲ" head="0" id="2973" lemma="εἶπον" postag="v2sama---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:546" form="ποῦ" head="2977" id="2974" lemma="ποῦ" postag="d--------" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:546" form="τίς" head="2979" id="2975" lemma="τίς" postag="a-s---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:546" form="ἀλκά" head="2979" id="2976" lemma="ἀλκή" postag="n-s---fn-" presentation-after=";" relation="SBJ" />
-      <word artificial="elliptic" form="[1]" head="2978" id="2977" insertion_id="0005e" relation="OBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="2973" id="2978" insertion_id="0005f" relation="COORD" />
-      <word artificial="elliptic" form="[2]" head="2978" id="2979" insertion_id="0005g" relation="OBJ_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897155" subdoc="547">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:547" form="τίς" head="2983" id="2980" lemma="τίς" postag="a-s---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:547" form="ἐφαμερίων" head="2982" id="2981" lemma="ἐφημέριος" postag="a-p---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:547" form="ἄρηξις" head="2983" id="2982" lemma="ἄρηξις" postag="n-s---fn-" presentation-after=";" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="2983" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897156" subdoc="547-550">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:547" form="οὐ" head="2986" id="2984" lemma="οὐδέ" postag="g--------" relation="AuxZ" />
@@ -3942,14 +3863,12 @@
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:561" form="τίς" head="3040" id="3039" lemma="τίς" postag="a-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:561" form="γῆ" head="3041" id="3040" lemma="γῆ" postag="n-s---fn-" presentation-after=";" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="3041" insertion_id="0003e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897161" subdoc="561">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:561" form="τί" head="3043" id="3042" lemma="τίς" postag="a-s---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:561" form="γένος" head="3044" id="3043" lemma="γένος" postag="n-s---nn-" presentation-after=";" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="3044" insertion_id="0003e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897162" subdoc="561-563">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:561" form="τίνα" head="3047" id="3045" lemma="τίς" postag="p-s---ma-" relation="OBJ" />
@@ -4180,8 +4099,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:594" form="μογερᾷ" head="3217" id="3219" lemma="μογερός" postag="a-s---fd-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:594" form="τίς" head="3221" id="3220" lemma="τίς" postag="p-s---mn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:594" form="ὤν" head="3222" id="3221" lemma="εἰμί" postag="v-sppamn-" presentation-after=";" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="3216" id="3222" insertion_id="0007e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897180" subdoc="595-596">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:595" form="τίς" head="3232" id="3223" lemma="τίς" postag="p-s---mn-" relation="SBJ" />
@@ -4236,9 +4154,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:603" form="οἷ̓" head="3267" id="3263" lemma="οἷος" postag="a-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:603" form="ἐγὼ" head="3267" id="3264" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:603" form="μογοῦσιν" head="3266" id="3265" lemma="μογέω" postag="v3ppia---" presentation-after=";" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="3266" insertion_id="0014e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="3324" id="3267" insertion_id="0014f" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897184" subdoc="604-607">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:604" form="ἀλλά" head="3271" id="3268" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -4259,8 +4175,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:607" form="δεῖξον" head="3661" id="3283" lemma="δείκνυμι" postag="v2sama---" presentation-after="," relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:607" form="εἴπερ" head="3283" id="3284" lemma="εἴπερ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:607" form="οἶσθα" head="3284" id="3285" lemma="οἶδα" postag="v2sria---" presentation-after="·" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="3283" id="3286" insertion_id="0023e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897185" subdoc="608">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:608" form="θρόει" head="3677" id="3287" lemma="θροέω" postag="v2spma---" presentation-after="," relation="PRED_CO" />
@@ -4290,8 +4205,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:611" form="φίλους" head="3307" id="3308" lemma="φίλος" postag="a-p---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:611" form="οἴγειν" head="3311" id="3309" lemma="οἴγω" postag="v--pna---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:611" form="στόμα" head="3309" id="3310" lemma="στόμα" postag="n-s---na-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="3305" id="3311" insertion_id="0023e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897187" subdoc="612">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:612" form="πυρὸς" head="3314" id="3312" lemma="πῦρ" postag="n-s---ng-" relation="ATR" />
@@ -4364,8 +4278,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:619" form="Ἡφαίστου" head="3360" id="3358" lemma="Ἥφαιστος" postag="n-s---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:619" form="δὲ" head="3361" id="3359" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:619" form="χείρ" head="3359" id="3360" lemma="χείρ" postag="n-s---fn-" presentation-after="." relation="SBJ_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="3361" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897195" subdoc="620">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:620" form="ποινὰς" head="3366" id="3362" lemma="ποινή" postag="n-p---fa-" relation="OBJ" />
@@ -4409,8 +4322,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:624" form="ἢ" head="3390" id="3391" lemma="ἤ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:624" form="μαθεῖν" head="3394" id="3392" lemma="μανθάνω" postag="v--ana---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:624" form="τάδε" head="3392" id="3393" lemma="ὅδε" postag="p-p---na-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="3394" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897199" subdoc="625">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:625" form="μήτοι" head="3397" id="3395" lemma="μήτοι" postag="c--------" relation="AuxZ" />
@@ -4451,8 +4363,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:628" form="ὀκνῶ" head="3420" id="3421" lemma="ὀκνέω" postag="v1spia---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:628" form="θράξαι" head="3421" id="3422" lemma="θράσσω" postag="v--ana---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:628" form="φρένας" head="3422" id="3423" lemma="φρήν" postag="n-p---fa-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="3420" id="3424" insertion_id="0010e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897203" subdoc="629">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:629" form="μή" head="3427" id="3425" lemma="μή" postag="c--------" relation="AuxZ" />
@@ -4462,8 +4373,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:629" form="ὡς" head="3427" id="3429" lemma="ὡς" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:629" form="ἐμοὶ" head="3432" id="3430" lemma="ἐγώ" postag="p-s---fd-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:629" form="γλυκύ" head="3432" id="3431" lemma="γλυκύς" postag="a-s---nn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="3429" id="3432" insertion_id="0008e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897204" subdoc="630">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:630" form="ἐπεὶ" head="3435" id="3433" lemma="ἐπεί" postag="c--------" relation="AuxC" />
@@ -4480,8 +4390,7 @@
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:631" form="μήπω" head="3441" id="3439" lemma="μήπω" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:631" form="γε" head="3439" id="3440" lemma="γε" postag="g--------" presentation-after="·" relation="AuxZ" />
-      <word artificial="elliptic" form="[0]" head="0" id="3441" insertion_id="0003e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897207" subdoc="631">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:631" form="μοῖραν" head="3446" id="3442" lemma="μοῖρα" postag="n-s---fa-" relation="OBJ" />
@@ -4527,8 +4436,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:636" form="καὶ" head="3474" id="3473" lemma="καί" postag="c--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:636" form="κασιγνήταις" head="3476" id="3474" lemma="κασιγνήτη" postag="n-p---fd-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:636" form="πατρός" head="3474" id="3475" lemma="πατήρ" postag="n-s---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="3476" insertion_id="0016e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897211" subdoc="637-639">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:637" form="ὡς" head="3493" id="3477" lemma="ὡς" postag="c--------" relation="AuxC" />
@@ -4547,8 +4455,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:639" form="ἀξίαν" head="3491" id="3490" lemma="ἄξιος" postag="a-s---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:639" form="τριβὴν" head="3492" id="3491" lemma="τριβή" postag="n-s---fa-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:639" form="ἔχει" head="3477" id="3492" lemma="ἔχω" postag="v3spia---" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="3493" insertion_id="0019e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897212" subdoc="640-642">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:640" form="οὐκ" head="3495" id="3494" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -4745,8 +4652,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:668" form="πᾶν" head="3661" id="3659" lemma="πᾶς" postag="a-s---na-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:668" form="ἐξαϊστώσοι" head="3657" id="3660" lemma="ἐξαιστόω" postag="v3sfoa---" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:668" form="γένος" head="3660" id="3661" lemma="γένος" postag="n-s---na-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="3650" id="3662" insertion_id="0015e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897222" subdoc="669-671">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:669" form="τοιοῖσδε" head="3666" id="3663" lemma="τοιόσδε" postag="p-p---nd-" relation="ATR" />
@@ -4759,8 +4665,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:670" form="δωμάτων" head="3669" id="3670" lemma="δῶμα" postag="n-p---ng-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:671" form="ἄκουσαν" head="3668" id="3671" lemma="ἀέκων" postag="a-s---fa-" relation="ATV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:671" form="ἄκων" head="3669" id="3672" lemma="ἄκων" postag="n-s---mn-" presentation-after="·" relation="AtvV" />
-      <word artificial="elliptic" form="[0]" head="0" id="3673" insertion_id="0011e" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897223" subdoc="671-672">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:671" form="ἀλλ̓" head="3675" id="3674" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -4858,8 +4763,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:684" form="λοιπὸν" head="3751" id="3748" lemma="λοιπός" postag="a-s---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:684" form="πόνων" head="3746" id="3749" lemma="πόνος" postag="n-p---mg-" presentation-after="," relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:684" form="σήμαινε" head="0" id="3750" lemma="σημαίνω" postag="v2spma---" presentation-after="·" relation="PRED" />
-      <word artificial="elliptic" form="[0]" head="3745" id="3751" insertion_id="0011e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897230" subdoc="684-685">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:684" form="μη" head="3756" id="3752" lemma="μηδέ" postag="g--------" relation="AuxZ" />
@@ -4963,8 +4867,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:699" form="ἄλγος" head="3827" id="3826" lemma="ἄλγος" postag="n-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:699" form="προυξεπίστασθαι" head="3829" id="3827" lemma="προεξεπίσταμαι" postag="v--pne---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:699" form="τορῶς" head="3827" id="3828" lemma="τορός" postag="d--------" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="3829" insertion_id="0010e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897239" subdoc="700-701">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:700" form="τὴν" head="3833" id="3830" lemma="ὁ" postag="l-s---fa-" relation="ATR" />
@@ -5021,8 +4924,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:706" form="τέρματ̓" head="3873" id="3872" lemma="τέρμα" postag="n-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:706" form="ἐκμάθῃς" head="3870" id="3873" lemma="ἐκμανθάνω" postag="v2sasa---" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:706" form="ὁδοῦ" head="3872" id="3874" lemma="ὁδός" postag="n-s---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3869" id="3875" insertion_id="0017e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897243" subdoc="707-708">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:707" form="πρῶτον" head="3884" id="3876" lemma="πρῶτος" postag="a-s---na-" relation="AuxY" />
@@ -5090,8 +4992,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:716" form="δὲ" head="3929" id="3926" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:716" form="πρόσπλατοι" head="3926" id="3927" lemma="πρόσπλατος" postag="a-p---mn-" relation="PNOM_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:716" form="ξένοις" head="3927" id="3928" lemma="ξένος" postag="a-p---nd-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="3929" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897248" subdoc="717-721">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:717" form="ἥξεις" head="3931" id="3930" lemma="ἥκω" postag="v2sfia---" relation="PRED_CO" />
@@ -5122,8 +5023,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:721" form="κροτάφων" head="3956" id="3955" lemma="κρόταφος" postag="n-p---mg-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:721" form="ἀπ̓" head="3953" id="3956" lemma="ἀπό" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:721" form="αὐτῶν" head="3955" id="3957" lemma="αὐτός" postag="a-p---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3938" id="3958" insertion_id="0034e" relation="PRED_PA" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897249" subdoc="721-727">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:721" form="ἀστρογείτονας" head="3962" id="3959" lemma="ἀστρογείτων" postag="a-p---fa-" relation="ATR" />
@@ -5155,8 +5055,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:727" form="ναύταισι" head="3984" id="3985" lemma="ναύτης" postag="n-p---md-" presentation-after="," relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:727" form="μητρυιὰ" head="4456" id="3986" lemma="μητρυιά" postag="n-s---fn-" relation="SBJ_AP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:727" form="νεῶν" head="3986" id="3987" lemma="ναῦς" postag="n-p---fg-" presentation-after="·" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="3978" id="3988" insertion_id="0035e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897250" subdoc="728">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:728" form="αὗταί" head="3991" id="3989" lemma="οὗτος" postag="a-p---fn-" relation="SBJ" />
@@ -5275,8 +5174,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:742" form="μοι" head="4559" id="4078" lemma="ἐγώ" postag="p-s---fd-" presentation-after="," relation="ExD_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:742" form="ἒ" head="4080" id="4079" lemma="ἒ" postag="i--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:742" form="ἔ" head="4559" id="4080" lemma="ἒ" postag="i--------" presentation-after="." relation="ExD_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="4081" insertion_id="0007e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897259" subdoc="743">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:743" form="σὺ" head="4087" id="4082" lemma="σύ" postag="p-s---fn-" relation="SBJ" />
@@ -5284,8 +5182,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:743" form="αὖ" head="4087" id="4084" lemma="αὖ" postag="d--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:743" form="κέκραγας" head="4087" id="4085" lemma="κράζω" postag="v2sria---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:743" form="κἀναμυχθίζῃ" head="4087" id="4086" lemma="ἀναμυχθίζομαι" postag="v2spie---" presentation-after=";" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="4087" insertion_id="0006e" relation="COORD" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897260" subdoc="743-744">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:743" form="τί" head="4090" id="4088" lemma="τίς" postag="p-s---na-" relation="OBJ" />
@@ -5314,8 +5211,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:746" form="πέλαγος" head="4108" id="4105" lemma="πέλαγος" postag="n-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:746" form="ἀτηρᾶς" head="4107" id="4106" lemma="ἀτηρός" postag="a-s---fg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:746" form="δύης" head="4105" id="4107" lemma="δύη" postag="n-s---fg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="4108" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897263" subdoc="747-750">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:747" form="τί" head="4131" id="4109" lemma="τίς" postag="p-s---na-" relation="ADV" />
@@ -5340,8 +5236,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:749" form="πάντων" head="4129" id="4128" lemma="πᾶς" postag="a-p---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:749" form="πόνων" head="4130" id="4129" lemma="πόνος" postag="n-p---mg-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:750" form="ἀπηλλάγην" head="4124" id="4130" lemma="ἀπαλλάσσω" postag="v1saip---" presentation-after=";" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="4114" id="4131" insertion_id="0025e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897264" subdoc="750-751">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:750" form="κρεῖσσον" head="4142" id="4132" lemma="κρείσσων" postag="a-s---nnc" relation="PNOM" />
@@ -5354,8 +5249,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:751" form="ἡμέρας" head="4140" id="4139" lemma="ἡμέρα" postag="n-p---fa-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:751" form="πάσχειν" head="4142" id="4140" lemma="πάσχω" postag="v--pna---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:751" form="κακῶς" head="4140" id="4141" lemma="κακός" postag="d--------" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="4142" insertion_id="0011e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897265" subdoc="752-753">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:752" form="ἦ" head="4149" id="4143" lemma="ἦ" postag="d--------" relation="AuxY" />
@@ -5427,8 +5321,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:759" form="Διὸς" head="4193" id="4194" lemma="Ζεύς" postag="n-s---mg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:759" form="πάσχω" head="4197" id="4195" lemma="πάσχω" postag="v1spia---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:759" form="κακῶς" head="4195" id="4196" lemma="κακός" postag="d--------" presentation-after=";" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="4197" insertion_id="0011e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897271" subdoc="760">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:760" form="ὡς" head="4204" id="4198" lemma="ὡς" postag="c--------" relation="AuxC" />
@@ -5454,14 +5347,12 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:762" form="αὑτοῦ" head="4214" id="4212" lemma="ἑαυτοῦ" postag="a-s---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:762" form="κενοφρόνων" head="4214" id="4213" lemma="κενόφρων" postag="a-p---ng-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:762" form="βουλευμάτων" head="4210" id="4214" lemma="βούλευμα" postag="n-p---ng-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4215" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897274" subdoc="763">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="ποίῳ" head="4217" id="4216" lemma="ποῖος" postag="a-s---md-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="τρόπῳ" head="4218" id="4217" lemma="τρόπος" postag="n-s---md-" presentation-after=";" relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="4218" insertion_id="0003e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897275" subdoc="763">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="σήμηνον" head="0" id="4219" lemma="σημαίνω" postag="v2sama---" presentation-after="," relation="PRED" />
@@ -5469,8 +5360,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="μή" head="4222" id="4221" lemma="μή" postag="c--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="τις" head="4223" id="4222" lemma="τις" postag="p-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:763" form="βλάβη" head="4224" id="4223" lemma="βλάβη" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="4220" id="4224" insertion_id="0007e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897276" subdoc="764">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:764" form="γαμεῖ" head="0" id="4225" lemma="γαμέω" postag="v3spia---" relation="PRED" />
@@ -5485,25 +5375,19 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="θέορτον" head="4232" id="4231" lemma="θέορτος" postag="a-s---ma-" presentation-after="," relation="ATR_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="ἢ" head="4234" id="4232" lemma="ἤ" postag="c--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="βρότειον" head="4232" id="4233" lemma="βρότειος" postag="a-s---ma-" presentation-after=";" relation="ATR_CO" />
-      <word artificial="elliptic" form="[1]" head="4235" id="4234" insertion_id="0005e" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4235" insertion_id="0005f" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897278" subdoc="765">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="εἰ" head="4238" id="4236" lemma="εἰ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="ῥητόν" head="4239" id="4237" lemma="ῥητός" postag="a-s---nn-" presentation-after="," relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:765" form="φράσον" head="0" id="4238" lemma="φράζω" postag="v2sama---" presentation-after="." relation="PRED" />
-      <word artificial="elliptic" form="[0]" head="4236" id="4239" insertion_id="0005e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897279" subdoc="766">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="τί" head="4243" id="4240" lemma="τίς" postag="p-s---na-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="δ̓" head="4243" id="4241" lemma="δέ" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="ὅντιν̓" head="4244" id="4242" lemma="ὅστις" postag="p-s---ma-" presentation-after=";" relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="4243" insertion_id="0004e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="4245" id="4244" insertion_id="0004f" relation="OBJ" />
-      <word artificial="elliptic" form="[2]" head="4240" id="4245" insertion_id="0004g" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897280" subdoc="766">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="οὐ" head="4248" id="4246" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -5511,8 +5395,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="ῥητὸν" head="4251" id="4248" lemma="ῥητός" postag="a-s---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="αὐδᾶσθαι" head="4248" id="4249" lemma="αὐδάω" postag="v--pne---" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:766" form="τόδε" head="4251" id="4250" lemma="ὅδε" postag="p-s---nn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4251" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897281" subdoc="767">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:767" form="ἦ" head="4255" id="4252" lemma="ἦ" postag="d--------" relation="AuxY" />
@@ -5550,9 +5433,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:770" form="ἐκ" head="4277" id="4275" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:770" form="δεσμῶν" head="4275" id="4276" lemma="δεσμός" postag="n-p---mg-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:770" form="λυθείς" head="4279" id="4277" lemma="λύω" postag="v-sappmn-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="4278" insertion_id="0010e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="4272" id="4279" insertion_id="0010f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897285" subdoc="771">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:771" form="τίς" head="4284" id="4280" lemma="τίς" postag="p-s---mn-" relation="SBJ" />
@@ -5562,8 +5443,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:771" form="ἐστὶν" head="0" id="4284" lemma="εἰμί" postag="v3spia---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:771" form="ἄκοντος" head="4287" id="4285" lemma="ἀέκων" postag="a-s---mg-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:771" form="Διός" head="4287" id="4286" lemma="Ζεύς" postag="n-s---mg-" presentation-after=";" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="4284" id="4287" insertion_id="0008e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897286" subdoc="772">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:772" form="τῶν" head="4292" id="4288" lemma="ὁ" postag="l-p---mg-" relation="ATR" />
@@ -5598,8 +5478,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:774" form="δέκ̓" head="4310" id="4308" lemma="δέκα" postag="m--------" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:774" form="ἄλλαισιν" head="4310" id="4309" lemma="ἄλλος" postag="a-p---fd-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:774" form="γοναῖς" head="4307" id="4310" lemma="γονή" postag="n-p---fd-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="4311" insertion_id="0008e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897290" subdoc="775">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:775" form="ἥδ̓" head="4316" id="4312" lemma="ὅδε" postag="p-s---fn-" relation="ATR" />
@@ -5607,8 +5486,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:775" form="εὐξύμβλητος" head="4317" id="4314" lemma="εὐσύμβλητος" postag="a-s---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:775" form="ἡ" head="4316" id="4315" lemma="ὁ" postag="l-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:775" form="χρησμῳδία" head="4317" id="4316" lemma="χρησμῳδία" postag="n-s---fn-" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4317" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897291" subdoc="776">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:776" form="καὶ" head="4323" id="4318" lemma="καί" postag="c--------" relation="AuxY" />
@@ -5639,9 +5517,7 @@
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897294" subdoc="779">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:779" form="ποίοιν" head="4337" id="4336" lemma="ποῖος" postag="a-d---mg-" presentation-after=";" relation="ATR" />
-      <word artificial="elliptic" form="[1]" head="4338" id="4337" insertion_id="0002e" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4338" insertion_id="0002f" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897295" subdoc="779">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:779" form="πρόδειξον" head="4341" id="4339" lemma="προδείκνυμι" postag="v2sama---" presentation-after="," relation="PRED_CO" />
@@ -5687,8 +5563,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:783" form="δ̓" head="0" id="4370" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:783" form="ἀτιμάσῃς" head="4370" id="4371" lemma="ἀτιμάζω" postag="v2sasa---" relation="PRED_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:783" form="λόγου" head="4371" id="4372" lemma="λόγος" postag="n-s---mg-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="4364" id="4373" insertion_id="0018e" relation="OBJ_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897299" subdoc="784-785">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:784" form="καὶ" head="0" id="4374" lemma="καί" postag="c--------" relation="COORD" />
@@ -5702,8 +5577,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:785" form="δὲ" head="4374" id="4382" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:785" form="τὸν" head="4384" id="4383" lemma="ὁ" postag="l-s---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:785" form="λύσοντα" head="4385" id="4384" lemma="λύω" postag="v-sfpama-" presentation-after="·" relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="4382" id="4385" insertion_id="0013e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897300" subdoc="785">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:785" form="τοῦτο" head="4388" id="4386" lemma="οὗτος" postag="a-s---na-" relation="OBJ" />
@@ -5782,8 +5656,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:797" form="νύκτερος" head="4451" id="4450" lemma="νύκτερος" postag="a-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:797" form="μήνη" head="4448" id="4451" lemma="μήνη" postag="n-s---fn-" relation="SBJ_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:797" form="ποτέ" head="4448" id="4452" lemma="ποτέ" postag="g--------" presentation-after="." relation="AuxZ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4453" insertion_id="0048e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897304" subdoc="798-800">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:798" form="πέλας" head="4469" id="4454" lemma="πέλας" postag="d--------" relation="AuxP" />
@@ -5801,8 +5674,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:800" form="εἰσιδὼν" head="4467" id="4466" lemma="εἰσοράω" postag="v-sapamn-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:800" form="ἕξει" head="4461" id="4467" lemma="ἔχω" postag="v3sfia---" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:800" form="πνοάς" head="4467" id="4468" lemma="πνοή" postag="n-p---fa-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="4455" id="4469" insertion_id="0018e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897305" subdoc="801">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:801" form="τοιοῦτο" head="4473" id="4470" lemma="τοιοῦτος" postag="a-s---na-" relation="ATR" />
@@ -5866,8 +5738,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:809" form="ἔνθα" head="4519" id="4516" lemma="ἔνθα" postag="d--------" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:809" form="ποταμὸς" head="4519" id="4517" lemma="ποταμός" postag="n-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:809" form="Αἰθίοψ" head="4517" id="4518" lemma="Αἰθίοψ" postag="n-s---mn-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="4515" id="4519" insertion_id="0018e" relation="ATR" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897310" subdoc="810-812">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:810" form="τούτου" head="4522" id="4520" lemma="οὗτος" postag="a-s---mg-" relation="ATR" />
@@ -5926,8 +5797,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:817" form="καὶ" head="0" id="4567" lemma="καί" postag="c--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:817" form="σαφῶς" head="4569" id="4568" lemma="σαφής" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:817" form="ἐκμάνθανε" head="4567" id="4569" lemma="ἐκμανθάνω" postag="v2spma---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="4559" id="4570" insertion_id="0015e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897313" subdoc="818">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:818" form="σχολὴ" head="4576" id="4571" lemma="σχολή" postag="n-s---fn-" relation="SBJ" />
@@ -6058,8 +5928,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:834" form="δάμαρ" head="4680" id="4678" lemma="δάμαρ" postag="n-s---fn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:835" form="μέλλουσ̓" head="4674" id="4679" lemma="μέλλω" postag="v-sppafn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:835" form="ἔσεσθαι" head="4679" id="4680" lemma="εἰμί" postag="v--fn----" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4681" insertion_id="0043e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897320" subdoc="835">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:835" form="τῶνδε" head="4685" id="4682" lemma="ὅδε" postag="p-p---ng-" relation="ATR" />
@@ -6290,8 +6159,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:868" form="μᾶλλον" head="4864" id="4865" lemma="μᾶλλον" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:868" form="ἢ" head="4865" id="4866" lemma="ἤ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:868" form="μιαιφόνος" head="4868" id="4867" lemma="μιαιφόνος" postag="a-s---fn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="4866" id="4868" insertion_id="0011e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897335" subdoc="869">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:869" form="αὕτη" head="4873" id="4869" lemma="οὗτος" postag="a-s---fn-" relation="SBJ" />
@@ -6339,8 +6207,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:874" form="διῆλθε" head="0" id="4902" lemma="διέρχομαι" postag="v3saia---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:874" form="Τιτανὶς" head="4904" id="4903" lemma="Τιτανίς" postag="n-s---fn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:874" form="Θέμις" head="4905" id="4904" lemma="θέμις" postag="n-s---fn-" presentation-after="·" relation="SBJ_AP" />
-      <word artificial="elliptic" form="[0]" head="4902" id="4905" insertion_id="0010e" relation="APOS" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897339" subdoc="875-876">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:875" form="ὅπως" head="4919" id="4906" lemma="ὅπως" postag="c--------" relation="ADV_CO" />
@@ -6356,9 +6223,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:876" form="οὐδὲν" head="4918" id="4916" lemma="οὐδείς" postag="a-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:876" form="ἐκμαθοῦσα" head="4918" id="4917" lemma="ἐκμανθάνω" postag="v-sapafn-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:876" form="κερδανεῖς" head="4915" id="4918" lemma="κερδαίνω" postag="v2sfia---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="4920" id="4919" insertion_id="0016e" relation="COORD" />
-      <word artificial="elliptic" form="[0]" head="4909" id="4920" insertion_id="0016f" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897340" subdoc="877-880">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:877" form="ἐλελεῦ" head="4922" id="4921" lemma="ἐλελεῦ" postag="i--------" relation="AuxY" />
@@ -6451,8 +6316,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:893" form="χερνήταν" head="4995" id="4996" lemma="χερνήτης" postag="n-s---ma-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:893" form="ἐραστεῦσαι" head="4986" id="4997" lemma="ἐραστεύω" postag="v--ana---" relation="ATR_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:893" form="γάμων" head="4997" id="4998" lemma="γάμος" postag="n-p---mg-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="4999" insertion_id="0039e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897345" subdoc="894-896">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:894" form="μήποτε" head="5001" id="5000" lemma="μήποτε" postag="d--------" relation="AuxY" />
@@ -6503,9 +6367,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:901" form="ὁ" head="5037" id="5036" lemma="ὁ" postag="l-s---mn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:901" form="γάμος" head="5040" id="5037" lemma="γάμος" postag="n-s---mn-" presentation-after="," relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:902" form="ἄφοβος" head="5039" id="5038" lemma="ἄφοβος" postag="a-s---mn-" presentation-after="·" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="5039" insertion_id="0010e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="5033" id="5040" insertion_id="0010f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897349" subdoc="902">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:902" form="οὐ" head="5043" id="5042" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -6532,8 +6394,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:904" form="πόλεμος" head="5060" id="5057" lemma="πόλεμος" postag="n-s---mn-" presentation-after="," relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:904" form="ἄπορα" head="5059" id="5058" lemma="ἄπορος" postag="a-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:904" form="πόριμος" head="5663" id="5059" lemma="πόριμος" postag="a-s---mn-" presentation-after="·" relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5060" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897352" subdoc="905">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:905" form="οὐ" head="5063" id="5061" lemma="οὐδέ" postag="g--------" relation="AuxZ" />
@@ -6617,8 +6478,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:915" form="οἶδα" head="0" id="5124" lemma="οἶδα" postag="v1sria---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:915" form="χᾦ" head="5124" id="5125" lemma="ὅς" postag="p-s---md-" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:915" form="τρόπῳ" head="5127" id="5126" lemma="τρόπος" postag="n-s---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="5125" id="5127" insertion_id="0006e" relation="OBJ_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897358" subdoc="915-917">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:915" form="πρὸς" head="5132" id="5128" lemma="πρός" postag="r--------" relation="AuxP" />
@@ -6708,8 +6568,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:927" form="τὸ" head="5198" id="5197" lemma="ὁ" postag="l-s---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:927" form="δουλεύειν" head="5196" id="5198" lemma="δουλεύω" postag="v--pna---" relation="SBJ_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:927" form="δίχα" head="5200" id="5199" lemma="δίχα" postag="d--------" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5191" id="5200" insertion_id="0015e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897364" subdoc="928">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:928" form="σύ" head="5204" id="5201" lemma="σύ" postag="p-s---mn-" relation="SBJ" />
@@ -6768,8 +6627,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:933" form="θανεῖν" head="5242" id="5239" lemma="θνήσκω" postag="v--ana---" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:933" form="οὐ" head="5241" id="5240" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:933" form="μόρσιμον" head="5242" id="5241" lemma="μόρσιμος" postag="a-s---nn-" presentation-after=";" relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="5237" id="5242" insertion_id="0009e" relation="SBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897370" subdoc="934">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:934" form="ἀλλ̓" head="5250" id="5243" lemma="ἀλλά" postag="d--------" relation="AuxY" />
@@ -6793,8 +6651,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:935" form="πάντα" head="5258" id="5255" lemma="πᾶς" postag="a-p---nn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:935" form="προσδοκητά" head="5258" id="5256" lemma="προσδοκητός" postag="a-p---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:935" form="μοι" head="5258" id="5257" lemma="ἐγώ" postag="p-s---md-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="0" id="5258" insertion_id="0004e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897373" subdoc="936">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:936" form="οἱ" head="5260" id="5259" lemma="ὁ" postag="l-p---mn-" relation="ATR" />
@@ -6802,8 +6659,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:936" form="τὴν" head="5262" id="5261" lemma="ὁ" postag="l-s---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:936" form="Ἀδράστειαν" head="5260" id="5262" lemma="Ἀδράστεια" postag="n-s---fa-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:936" form="σοφοί" head="5264" id="5263" lemma="σοφός" postag="a-p---mn-" presentation-after="." relation="PNOM" />
-      <word artificial="elliptic" form="[0]" head="0" id="5264" insertion_id="0006e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897374" subdoc="937">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:937" form="σέβου" head="5896" id="5265" lemma="σέβομαι" postag="v2spme---" presentation-after="," relation="PRED_CO" />
@@ -6822,8 +6678,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:938" form="ἢ" head="5273" id="5275" lemma="ἤ" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:938" form="μηδὲν" head="5278" id="5276" lemma="μηδείς" postag="n-s---na-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:938" form="μέλει" head="0" id="5277" lemma="μέλω" postag="v3spia---" presentation-after="." relation="PRED" />
-      <word artificial="elliptic" form="[0]" head="5275" id="5278" insertion_id="0008e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897376" subdoc="939-940">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:939" form="δράτω" head="5910" id="5279" lemma="δράω" postag="v3spma---" presentation-after="," relation="PRED_CO" />
@@ -6913,8 +6768,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:950" form="αὔθ̓" head="5347" id="5345" lemma="αὐτός" postag="a-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:950" form="ἕκαστα" head="5345" id="5346" lemma="ἕκαστος" postag="a-p---na-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:950" form="φράζε" head="5344" id="5347" lemma="φράζω" postag="v2spma---" presentation-after="·" relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="5344" id="5348" insertion_id="0011e" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897383" subdoc="950-951">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:950" form="μη" head="5355" id="5349" lemma="μηδέ" postag="g--------" relation="AuxZ" />
@@ -6949,9 +6803,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:954" form="ὡς" head="5366" id="5372" lemma="ὡς" postag="d--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:954" form="θεῶν" head="5374" id="5373" lemma="θεός" postag="n-p---mg-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:954" form="ὑπηρέτου" head="5375" id="5374" lemma="ὑπηρέτης" postag="n-s---mg-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[1]" head="5376" id="5375" insertion_id="0013e" relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="5372" id="5376" insertion_id="0013f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897386" subdoc="955-956">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:955" form="νέον" head="5379" id="5377" lemma="νέος" postag="a-s---na-" relation="ADV" />
@@ -6986,8 +6838,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:959" form="αἴσχιστα" head="5401" id="5400" lemma="αἰσχρός" postag="a-p---na-" relation="ADV_CO" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:959" form="καὶ" head="5403" id="5401" lemma="καί" postag="c--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:959" form="τάχιστα" head="5401" id="5402" lemma="ταχύς" postag="a-p---na-" presentation-after="." relation="ADV_CO" />
-      <word artificial="elliptic" form="[0]" head="5399" id="5403" insertion_id="0010e" relation="OBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897389" subdoc="959-960">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:959" form="μή" head="5407" id="5404" lemma="μή" postag="c--------" relation="AuxY" />
@@ -7155,8 +7006,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:978" form="τοὺς" head="5522" id="5521" lemma="ὁ" postag="l-p---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:978" form="ἐχθροὺς" head="5523" id="5522" lemma="ἐχθρός" postag="a-p---ma-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:978" form="στυγεῖν" head="5524" id="5523" lemma="στυγέω" postag="v--pna---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="5519" id="5524" insertion_id="0009e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897405" subdoc="979">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:979" form="εἴης" head="0" id="5525" lemma="εἰμί" postag="v2spoa---" relation="PRED" />
@@ -7170,13 +7020,11 @@
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897406" subdoc="980">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:980" form="ὤμοι" head="5533" id="5532" lemma="ὤμοι" postag="i--------" presentation-after="." relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="0" id="5533" insertion_id="0002e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897407" subdoc="980">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:980" form="ὤμοι" head="5535" id="5534" lemma="ὤμοι" postag="i--------" presentation-after=";" relation="ExD" />
-      <word artificial="elliptic" form="[0]" head="0" id="5535" insertion_id="0002e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897408" subdoc="980">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:980" form="τόδε" head="5538" id="5536" lemma="ὅδε" postag="p-s---na-" relation="ATR" />
@@ -7242,8 +7090,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:986" form="παῖδ̓" head="5579" id="5578" lemma="παῖς" postag="n-s---ma-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:986" form="ὄντα" head="5581" id="5579" lemma="εἰμί" postag="v-sppama-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:986" form="με" head="5575" id="5580" lemma="ἐγώ" postag="p-s---ma-" presentation-after="." relation="OBJ" />
-      <word artificial="elliptic" form="[0]" head="5577" id="5581" insertion_id="0007e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897415" subdoc="987-988">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:987" form="οὐ" head="5596" id="5582" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -7260,8 +7107,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:988" form="τι" head="5594" id="5593" lemma="τις" postag="p-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:988" form="πεύσεσθαι" head="5591" id="5594" lemma="πυνθάνομαι" postag="v--fnm---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:988" form="πάρα" head="5594" id="5595" lemma="παρά" postag="r--------" presentation-after=";" relation="AuxP" />
-      <word artificial="elliptic" form="[0]" head="0" id="5596" insertion_id="0015e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897416" subdoc="989-991">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:989" form="οὐκ" head="5598" id="5597" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -7359,8 +7205,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1001" form="κῦμ̓" head="5673" id="5671" lemma="κῦμα" postag="n-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1001" form="ὅπως" head="5668" id="5672" lemma="ὅπως" postag="c--------" relation="AuxC" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1001" form="παρηγορῶν" head="5674" id="5673" lemma="παρηγορέω" postag="v-sppamn-" presentation-after="." relation="ADV" />
-      <word artificial="elliptic" form="[0]" head="5672" id="5674" insertion_id="0007e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897423" subdoc="1002-1006">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1002" form="εἰσελθέτω" head="0" id="5675" lemma="εἰσέρχομαι" postag="v3sama---" relation="PRED" />
@@ -7425,8 +7270,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1010" form="πρὸς" head="5724" id="5722" lemma="πρός" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1010" form="ἡνίας" head="5722" id="5723" lemma="ἡνία" postag="n-p---fa-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1010" form="μάχῃ" head="5721" id="5724" lemma="μάχομαι" postag="v2spie---" presentation-after="." relation="PRED_CO" />
-      <word artificial="elliptic" form="[0]" head="5717" id="5725" insertion_id="0012e" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897428" subdoc="1011">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1011" form="ἀτὰρ" head="5727" id="5726" lemma="ἀτάρ" postag="g--------" relation="AuxY" />
@@ -7576,9 +7420,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1031" form="καὶ" head="5847" id="5846" lemma="καί" postag="c--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1031" form="λίαν" head="5848" id="5847" lemma="λίαν" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1031" form="εἰρημένος" head="5845" id="5848" lemma="ἐρῶ" postag="v-srpemn-" presentation-after="·" relation="PNOM_CO" />
-      <word artificial="elliptic" form="[0]" head="0" id="5849" insertion_id="0012e" relation="PRED" />
-      <word artificial="elliptic" form="[1]" head="5839" id="5850" insertion_id="0012f" relation="ADV" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897437" subdoc="1032-1033">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1032" form="ψευδηγορεῖν" head="5854" id="5851" lemma="ψευδηγορέω" postag="v--pna---" relation="OBJ" />
@@ -7641,8 +7483,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1039" form="γὰρ" head="5896" id="5893" lemma="γάρ" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1039" form="αἰσχρὸν" head="5896" id="5894" lemma="αἰσχρός" postag="a-s---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1039" form="ἐξαμαρτάνειν" head="5896" id="5895" lemma="ἐξαμαρτάνω" postag="v--pna---" presentation-after="." relation="SBJ" />
-      <word artificial="elliptic" form="[0]" head="0" id="5896" insertion_id="0005e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897443" subdoc="1040-1041">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1040" form="εἰδότι" head="5903" id="5897" lemma="οἶδα" postag="v-srpamd-" relation="ADV" />
@@ -7663,8 +7504,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1042" form="ἐχθρῶν" head="5908" id="5909" lemma="ἐχθρός" postag="a-p---mg-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1042" form="οὐδὲν" head="5912" id="5910" lemma="οὐδείς" postag="a-s---nn-" relation="PNOM" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1042" form="ἀεικές" head="5910" id="5911" lemma="ἀεικής" postag="a-s---nn-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="0" id="5912" insertion_id="0009e" relation="PRED" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897445" subdoc="1043-1046">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1043" form="πρὸς" head="5923" id="5913" lemma="πρός" postag="r--------" relation="AuxC" />
@@ -7826,8 +7666,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1067" form="χρὴ" head="6037" id="6036" lemma="χρή" postag="v3spia---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1067" form="πάσχειν" head="6038" id="6037" lemma="πάσχω" postag="v--pna---" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1067" form="ἐθέλω" head="0" id="6038" lemma="ἐθέλω" postag="v1spia---" presentation-after="·" relation="PRED" />
-      <word artificial="elliptic" form="[0]" head="6036" id="6039" insertion_id="0008e" relation="SBJ" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897457" subdoc="1068-1070">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1068" form="τοὺς" head="6041" id="6040" lemma="ὁ" postag="l-p---ma-" relation="ATR" />
@@ -7877,9 +7716,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1075" form="δ̓" head="0" id="6078" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1076" form="ὑμᾶς" head="6082" id="6079" lemma="σύ" postag="p-p---fa-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1076" form="αὐτάς" head="6079" id="6080" lemma="αὐτός" postag="a-p---fa-" presentation-after="." relation="ATR" />
-      <word artificial="elliptic" form="[0]" head="6078" id="6081" insertion_id="0007e" relation="PRED_CO" />
-      <word artificial="elliptic" form="[1]" head="6078" id="6082" insertion_id="0007f" relation="PRED_CO" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg003.perseus-grc2" id="2897460" subdoc="1076-1079">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1076" form="εἰδυῖαι" head="6088" id="6083" lemma="οἶδα" postag="v-prpafn-" relation="ADV_CO" />
@@ -7973,7 +7810,6 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1093" form="ὡς" head="6155" id="6153" lemma="ὡς" postag="d--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1093" form="ἔκδικα" head="6155" id="6154" lemma="ἔκδικος" postag="a-p---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0085.tlg003:1093" form="πάσχω" head="6156" id="6155" lemma="πάσχω" postag="v1spsa---" presentation-after="." relation="OBJ_AP" />
-      <word artificial="elliptic" form="[0]" head="6151" id="6156" insertion_id="0018e" relation="APOS" />
-    </sentence>
+      </sentence>
   </body>
 </treebank>

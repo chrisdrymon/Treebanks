@@ -170,8 +170,7 @@
       <word form="Φοίβην" gloss="Phoebe" head="101" id="106" lemma="Φοίβη" postag="n-s---fa-" ref="" relation="APOS_CO" sg="acc dpd aff" />
       <word form="Διώνην" gloss="Dione" head="101" id="107" lemma="Διώνη" postag="n-s---fa-" ref="" relation="APOS_CO" sg="acc dpd aff" />
       <word form="Θείαν" gloss="Thia" head="101" id="108" lemma="Θείη" postag="n-s---fa-" presentation-after="." ref="" relation="APOS_CO" sg="acc dpd aff" />
-      <word artificial="elliptic" form="ἔχει" gloss="have" head="68" id="109" insertion_id="0023e" lemma="ἔχω" postag="v3spia---" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="5" subdoc="1.1.4">
       <word form="ἀγανακτοῦσα" gloss="be.vexed" head="121" id="110" lemma="ἀγανακτέω" postag="v-sppafn-" ref="" relation="ADV" sg="adj crc cau" />
       <word form="δὲ" head="0" id="111" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -294,9 +293,7 @@
       <word form="Πλούτωνα" gloss="Pluto" head="219" id="218" lemma="Πλούτων" postag="n-s---ma-" ref="" relation="OBJ_CO" sg="acc dpd aff" />
       <word form="καὶ" gloss="and" head="222" id="219" lemma="καί" postag="c--------" ref="" relation="COORD" sg="" />
       <word form="Ποσειδῶνα" gloss="Poseidon" head="219" id="220" lemma="Ποσειδῶν" postag="n-s---ma-" presentation-after="." ref="" relation="OBJ_CO" sg="acc dpd aff" />
-      <word artificial="elliptic" form="κατέπιεν" gloss="swallow" head="233" id="221" insertion_id="0011e" lemma="καταπίνω" postag="v3saia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="κατέπιεν" gloss="swallow" head="233" id="222" insertion_id="0017e" lemma="καταπίνω" postag="v3saia---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="11" subdoc="1.1.6">
       <word form="ὀργισθεῖσα" gloss="enrage" head="228" id="223" lemma="ὀργίζω" postag="v-sappfn-" ref="" relation="ADV" sg="adj crc tmp squ_lct" />
       <word form="δὲ" head="0" id="224" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -386,8 +383,7 @@
       <word form="τὸν" gloss="the" head="304" id="302" lemma="ὁ" postag="l-s---ma-" ref="" relation="ATR" sg="" />
       <word form="γεγεννημένον" gloss="bring.forth" head="304" id="303" lemma="γεννάω" postag="v-srpema-" ref="" relation="ATR" sg="adj atr" />
       <word form="παῖδα" gloss="child" head="305" id="304" lemma="παῖς" postag="n-s---ma-" presentation-after="." ref="" relation="OBJ" sg="acc dpd aff" />
-      <word artificial="elliptic" form="[0]" head="301" id="305" insertion_id="0008e" relation="ADV" sg="" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="15" subdoc="1.2.1">
       <word form="ἐπειδὴ" gloss="after.that" head="311" id="306" lemma="ἐπεί" postag="c--------" ref="" relation="AuxC" sg="" />
       <word form="δὲ" head="0" id="307" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -418,8 +414,7 @@
       <word form="παῖδας" gloss="child" head="335" id="332" lemma="παῖς" postag="n-p---ma-" ref="" relation="OBJ" sg="acc dpd aff" />
       <word form="οὓς" gloss="who" head="334" id="333" lemma="ὅς" postag="p-p---ma-" ref="" relation="OBJ" sg="sbs acc dpd aff" />
       <word form="κατέπιε" gloss="swallow" head="332" id="334" lemma="καταπίνω" postag="v3saia---" presentation-after="·" ref="" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-      <word artificial="elliptic" form="ἐξεμεῖ" gloss="disgorge" head="320" id="335" insertion_id="0029e" lemma="ἐξεμέω" postag="v3spia---" relation="ATR_CO" sg="" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="16" subdoc="1.2.1">
       <word form="μεθ̓" gloss="together.with" head="344" id="336" lemma="μετά" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="ὧν" gloss="who" head="336" id="337" lemma="ὅς" postag="p-p---mg-" ref="" relation="ADV" sg="sbs gnt dpd adp frd_ass" />
@@ -481,9 +476,7 @@
       <word form="Ποσειδῶνι" gloss="Poseidon" head="391" id="387" lemma="Ποσειδῶν" postag="n-s---md-" ref="" relation="OBJ" sg="dtv dpd prp ind" />
       <word form="δὲ" head="373" id="388" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
       <word form="τρίαιναν" gloss="trident" head="391" id="389" lemma="τρίαινα" postag="n-s---fa-" presentation-after="·" ref="" relation="OBJ" sg="acc dpd aff" />
-      <word artificial="elliptic" form="διδόασι" gloss="give" head="388" id="390" insertion_id="0014e" lemma="δίδωμι" postag="v3ppia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="διδόασι" gloss="give" head="388" id="391" insertion_id="0018e" lemma="δίδωμι" postag="v3ppia---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="20" subdoc="1.2.1">
       <word form="οἱ" gloss="he" head="396" id="392" lemma="ὁ" postag="p-p---mn-" ref="" relation="SBJ" sg="sbs nmn dpd" />
       <word form="δὲ" head="0" id="393" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -527,9 +520,7 @@
       <word form="τὴν" gloss="power" head="433" id="429" lemma="ὁ" postag="p-s---fa-" ref="" relation="OBJ" sg="sbs acc dpd aff" />
       <word form="ἐν" gloss="in" head="429" id="430" lemma="ἐν" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="Ἅιδου" gloss="Hades" head="430" id="431" lemma="Ἅιδης" postag="n-s---mg-" presentation-after="." ref="" relation="ATR" sg="gnt dpd tmp_plc plc lct cnc" />
-      <word artificial="elliptic" form="λαγχάνει" gloss="obtain.by.lot" head="428" id="432" insertion_id="0016e" lemma="λαγχάνω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="λαγχάνει" gloss="obtain.by.lot" head="428" id="433" insertion_id="0022e" lemma="λαγχάνω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="22" subdoc="1.2.2-3">
       <word form="ἐγένοντο" gloss="be.born" head="435" id="434" lemma="γίγνομαι" postag="v3paim---" ref="" relation="PRED_CO" sg="ind stt" />
       <word form="δὲ" head="0" id="435" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -594,12 +585,7 @@
       <word form="τιτανομαχίᾳ" gloss="battle.with.the.Titans" head="492" id="494" lemma="τιτανομαχία" postag="n-s---fd-" ref="" relation="ADV" sg="dtv dpd lcv tmp sml_lct" />
       <word form="Ζεὺς" gloss="Zeus" head="496" id="495" lemma="Ζεύς" postag="n-s---mn-" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="κατεταρτάρωσεν" gloss="hurl.down.to.Tartarus" head="489" id="496" lemma="κατά-ταρταρόω" postag="v3saia---" presentation-after="." ref="" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="474" id="497" insertion_id="0022e" lemma="γίγνομαι" postag="v3paim---" relation="ExD_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="474" id="498" insertion_id="0030e" lemma="γίγνομαι" postag="v3paim---" relation="ExD_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="474" id="499" insertion_id="0040e" lemma="γίγνομαι" postag="v3paim---" relation="ExD_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="474" id="500" insertion_id="0048e" lemma="γίγνομαι" postag="v3paim---" relation="ExD_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="474" id="501" insertion_id="0008e" lemma="γίγνομαι" postag="v3paim---" relation="ExD_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="23" subdoc="1.2.4">
       <word form="ἐγένετο" gloss="be.born" head="524" id="502" lemma="γίγνομαι" postag="v3saim---" ref="" relation="PRED_CO" sg="ind stt" />
       <word form="δὲ" head="0" id="503" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -630,10 +616,7 @@
       <word form="Κράτος" gloss="Dominion" head="532" id="528" lemma="κράτος" postag="n-s---nn-" ref="" relation="SBJ_CO" sg="nmn dpd" />
       <word form="Ζῆλος" gloss="Emulation" head="532" id="529" lemma="Ζῆλος" postag="n-s---mn-" ref="" relation="SBJ_CO" sg="nmn dpd" />
       <word form="Βία" gloss="Violence" head="532" id="530" lemma="βία" postag="n-s---fn-" presentation-after="." ref="" relation="SBJ_CO" sg="nmn dpd" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="524" id="531" insertion_id="0014e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" head="524" id="532" insertion_id="0028e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένετο" head="524" id="533" insertion_id="0022e" lemma="γίγνομαι" postag="v3saim---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="24" subdoc="1.2.5">
       <word form="τὸ" gloss="the" head="538" id="534" lemma="ὁ" postag="l-s---na-" ref="" relation="ATR" sg="" />
       <word form="δὲ" head="0" id="535" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -672,8 +655,7 @@
       <word form="Νηρεὺς" gloss="Nereus" head="569" id="566" lemma="Νηρεύς" postag="n-s---mn-" ref="" relation="SBJ_CO" sg="nmn dpd" />
       <word form="Εὐρυβία" gloss="Eurybia" head="569" id="567" lemma="Εὐρυβίη" postag="n-s---fn-" ref="" relation="SBJ_CO" sg="nmn dpd" />
       <word form="Κητώ" gloss="Ceto" head="569" id="568" lemma="Κητώ" postag="n-s---fn-" presentation-after="." ref="" relation="SBJ_CO" sg="nmn dpd" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="561" id="569" insertion_id="0009e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="26" subdoc="1.2.6-7">
       <word form="Θαύμαντος" gloss="Thaumas" head="573" id="570" lemma="Θαύμας" postag="n-s---mg-" ref="" relation="OBJ_CO" sg="gnt dpd abl src" />
       <word form="μὲν" head="597" id="571" lemma="μέν" postag="d--------" ref="" relation="AuxY" sg="prt" />
@@ -754,11 +736,7 @@
       <word form="Δυναμένη" gloss="Dynamene" head="652" id="646" lemma="Δυναμένη" postag="n-s---fn-" ref="" relation="PNOM_CO" sg="nmn dpd" />
       <word form="Κητὼ" gloss="Ceto" head="652" id="647" lemma="Κητώ" postag="n-s---fn-" ref="" relation="PNOM_CO" sg="nmn dpd" />
       <word form="Λιμνώρεια" gloss="Limnoria" head="652" id="648" lemma="Λιμνώρεια" postag="n-s---fn-" presentation-after="." ref="" relation="PNOM_CO" sg="nmn dpd" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="597" id="649" insertion_id="0005e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="597" id="650" insertion_id="0017e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="597" id="651" insertion_id="0034e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ἐστί" gloss="be" head="600" id="652" insertion_id="0039e" lemma="εἰμί" postag="v3spia---" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="27" subdoc="1.3.1">
       <word form="Ζεὺς" gloss="Zeus" head="655" id="653" lemma="Ζεύς" postag="n-s---mn-" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="δὲ" head="0" id="654" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -831,15 +809,7 @@
       <word form="Οὐρανίαν" gloss="Urania" head="727" id="717" lemma="Οὐρανία" postag="n-s---fa-" ref="" relation="OBJ_CO" sg="acc dpd aff" />
       <word form="Θάλειαν" gloss="Thalia" head="727" id="718" lemma="Θάλεια" postag="n-s---fa-" ref="" relation="OBJ_CO" sg="acc dpd aff" />
       <word form="Πολυμνίαν" gloss="Polymnia" head="727" id="719" lemma="Πολυμνίη" postag="n-s---fa-" presentation-after="." ref="" relation="OBJ_CO" sg="acc dpd aff" />
-      <word artificial="elliptic" form="γεννᾷ" head="705" id="720" insertion_id="0013e" lemma="γεννάω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="γεννᾷ" head="705" id="721" insertion_id="0020e" lemma="γεννάω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="γεννᾷ" head="705" id="722" insertion_id="0029e" lemma="γεννάω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="γεννᾷ" gloss="beget" head="705" id="723" insertion_id="0034g" lemma="γεννάω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="γεννᾷ" gloss="beget" head="705" id="724" insertion_id="0000e" lemma="γεννάω" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="ὥρας" gloss="Season" head="724" id="725" insertion_id="0000d" lemma="ὥρα" postag="n-p---fa-" relation="OBJ_CO" sg="acc dpd aff" />
-      <word artificial="elliptic" form="γεννᾷ" gloss="beget" head="707" id="726" insertion_id="0037e" lemma="γεννάω" postag="v3spia---" relation="ExD_CO" sg="ind stt" />
-      <word artificial="elliptic" form="γεννᾷ" gloss="beget" head="707" id="727" insertion_id="0041e" lemma="γεννάω" postag="v3spia---" relation="ExD_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="30" subdoc="1.3.2">
       <word form="Καλλιόπης" gloss="Calliope" head="731" id="728" lemma="Καλλιόπη" postag="n-s---fg-" ref="" relation="OBJ_CO" sg="gnt dpd abl src" />
       <word form="μὲν" head="753" id="729" lemma="μέν" postag="d--------" ref="" relation="AuxY" sg="prt" />
@@ -866,9 +836,7 @@
       <word form="τε" head="751" id="750" lemma="τε" postag="d--------" ref="" relation="AuxY" sg="prt" />
       <word form="καὶ" gloss="and" head="748" id="751" lemma="καί" postag="c--------" ref="" relation="COORD" sg="" />
       <word form="δένδρα" gloss="tree" head="751" id="752" lemma="δένδρον" postag="n-p---na-" presentation-after="." ref="" relation="OBJ_CO" sg="acc dpd aff" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="0" id="753" insertion_id="0011e" lemma="γίγνομαι" postag="v3paim---" relation="PRED" sg="ind stt" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="735" id="754" insertion_id="0008e" lemma="γίγνομαι" postag="v3saim---" relation="ExD_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="31" subdoc="1.3.2">
       <word form="ἀποθανούσης" gloss="die" head="764" id="755" lemma="ἀποθνήσκω" postag="v-sapafg-" ref="" relation="ADV" sg="adj crc tmp sml_lct" />
       <word form="δὲ" head="0" id="756" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -1042,8 +1010,7 @@
       <word form="Τροίᾳ" gloss="Troy" head="911" id="912" lemma="Τροία" postag="n-s---fd-" ref="" relation="ADV" sg="dtv dpd lcv plc lct cnc" />
       <word form="Διομήδης" gloss="Diomedes" head="914" id="913" lemma="Διομήδης" postag="n-s---mn-" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="ἀπέκτεινεν" gloss="kill" head="909" id="914" lemma="ἀποκτείνω" postag="v3saia---" presentation-after="·" ref="" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-      <word artificial="elliptic" form="ἐγένετο" gloss="be.born" head="905" id="915" insertion_id="0005e" lemma="γίγνομαι" postag="v3saim---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="39" subdoc="1.3.4">
       <word form="ὡς" gloss="as" head="921" id="916" lemma="ὡς" postag="c--------" ref="" relation="AuxC" sg="" />
       <word form="δὲ" head="0" id="917" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -1071,8 +1038,7 @@
       <word form="περὶ" gloss="about" head="936" id="937" lemma="περί" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="Ὀδυσσέως" gloss="Ulysses" head="937" id="938" lemma="Ὀδυσσεύς" postag="n-s---mg-" ref="" relation="ATR" sg="gnt dpd prp tpc" />
       <word form="ἐροῦμεν" gloss="speak" head="932" id="939" lemma="ἐρέω" postag="v1ppia---" presentation-after="." ref="" relation="ATR" sg="dpn adj_cls prp ord not_ind" />
-      <word artificial="elliptic" form="ἐγένοντο" gloss="be.born" head="929" id="940" insertion_id="0011e" lemma="γίγνομαι" postag="v3paim---" relation="PRED_CO" sg="ind stt" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="41" subdoc="1.3.5">
       <word form="Ἥρα" gloss="Hera" head="945" id="941" lemma="Ἥρα" postag="n-s---fn-" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="δὲ" head="0" id="942" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
@@ -1232,9 +1198,7 @@
       <word form="ὕστερον" gloss="later" head="1082" id="1078" lemma="ὕστερον" postag="d-------c" ref="" relation="ADV" sg="tmp squ_lct" />
       <word form="δὲ" head="1072" id="1079" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
       <word form="Δῆλος" gloss="Delos" head="1082" id="1080" lemma="Δῆλος" postag="n-s---fn-" presentation-after="." ref="" relation="PNOM" sg="nmn dpd" />
-      <word artificial="elliptic" form="ἐστί" gloss="be" head="1071" id="1081" insertion_id="0002e" lemma="εἰμί" postag="v3spia---" relation="PRED_CO" sg="ind stt" />
-      <word artificial="elliptic" form="κληθεῖσα" gloss="call" head="1079" id="1082" insertion_id="0009e" lemma="καλέω" postag="v-sappfn-" relation="ATR_CO" sg="adj atr" />
-    </sentence>
+      </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0548.tlg001" id="51" subdoc="1.4.1">
       <word form="Λητὼ" gloss="Leto" head="1093" id="1083" lemma="Λητώ" postag="n-s---fn-" ref="" relation="SBJ" sg="nmn dpd" />
       <word form="δὲ" head="0" id="1084" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
