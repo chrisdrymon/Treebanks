@@ -14098,7 +14098,6 @@
       <word form="ταῦτα" head="13009" id="13010" lemma="οὗτος" postag="p-p---na-" presentation-after="," relation="ADV" />
       <word form="τῶν" head="13012" id="13011" lemma="ὁ" postag="l-p---mg-" relation="ATR" />
       <word form="ἐκπηδησάντων" head="13021" id="13012" lemma="ἐκπηδάω" postag="v-papamg-" relation="ADV_CO" />
-      <word form="[" head="13017" id="13013" lemma="[" postag="u--------" relation="AuxG" />
       <word form="ἐκ" head="13017" id="13014" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word form="τοῦ" head="13016" id="13015" lemma="ὁ" postag="l-s---mg-" relation="ATR" />
       <word form="προφανοῦς" head="13014" id="13016" lemma="προφανής" postag="a-s---mg-" relation="ADV" />

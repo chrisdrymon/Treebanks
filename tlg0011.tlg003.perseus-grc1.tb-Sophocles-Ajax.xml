@@ -6807,8 +6807,7 @@
       <word cite="urn:cts:greekLit:tlg0011.tlg003:934" form="χρόνος" head="5241" id="5242" lemma="χρόνος" postag="n-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:935" form="πημάτων" head="5241" id="5243" lemma="πῆμα" postag="n-p---ng-" presentation-after="," relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:935" form="ἦμος" head="5247" id="5244" lemma="ἦμος" postag="d--------" relation="ADV" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg003:935" form="ἀριστόχειρ" head="5248" id="5245" lemma="ἀριστόχειρ" postag="a-s---mn-" relation="ATR" />
-      <word cite="" form="............" head="0" id="5246" lemma="............" postag="u--------" relation="AuxK" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg003:935" form="ἀριστόχειρ" head="5248" id="5245" lemma="ἀριστόχειρ" postag="a-s---mn-" presentation-after="............" relation="ATR" />
       <word artificial="elliptic" form="[0]" head="5241" id="5247" insertion_id="0011e" relation="ADV" />
       <word artificial="elliptic" form="[1]" head="5247" id="5248" insertion_id="0011f" relation="SBJ" />
     </sentence>
@@ -9518,7 +9517,7 @@
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1284" form="κἀκέλευστος" head="7380" id="7359" lemma="ἀκέλευστος" postag="a-s---mn-" relation="AtvV_CO" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1284" form="ἦλθ̓" head="0" id="7360" lemma="ἔρχομαι" postag="v3saia---" relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1284" form="ἐναντίος" head="7353" id="7361" lemma="ἐναντίος" postag="a-s---mn-" presentation-after="," relation="AtvV" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg003:1285" form="οὐ" head="7365" id="7362" lemma="οὐ" postag="d--------" relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg003:1285" form="οὐ" head="7365" id="7362" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1285" form="δραπέτην" head="7365" id="7363" lemma="δραπέτης" postag="n-s---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1285" form="τὸν" head="7365" id="7364" lemma="ὁ" postag="l-s---ma-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg003:1285" form="κλῆρον" head="8300" id="7365" lemma="κλῆρος" postag="n-s---ma-" relation="OBJ_AP_CO" />

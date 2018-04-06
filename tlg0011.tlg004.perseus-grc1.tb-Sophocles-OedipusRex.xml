@@ -4404,7 +4404,7 @@
     <sentence document_id="urn:cts:greekLit:tlg0011.tlg004.perseus-grc1" id="2386839" subdoc="553-554">
       <annotator>FrancescoM</annotator>
       <word cite="urn:cts:greekLit:tlg0011.tlg004:553" form="τὸ" head="3469" id="3467" lemma="ὁ" postag="l-s---na-" relation="ATR" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg004:553" form="δὲ" head="3473" id="3468" lemma="δέ" postag="g--------" relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg004:553" form="δὲ" head="3473" id="3468" lemma="δέ" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0011.tlg004:554" form="πάθημ̓" head="3472" id="3469" lemma="πάθημα" postag="n-s---na-" relation="OBJ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg004:554" form="ὁποῖον" head="3469" id="3470" lemma="ὁποῖος" postag="a-s---na-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg004:554" form="φὴς" head="3473" id="3471" lemma="φημί" postag="v2spia---" relation="OBJ" />

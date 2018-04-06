@@ -7673,7 +7673,7 @@
       <word form="γ̓" head="5434" id="5435" lemma="γε" postag="g--------" relation="AuxZ" />
       <word form="εὔξῃ" head="5434" id="5436" lemma="εὔχομαι" postag="v2sasm---" relation="ADV" />
       <word form="ἰδὼν" head="5436" id="5437" lemma="εἶδον" postag="v-sapamn-" relation="ADV" />
-      <word form="ἐς" head="5437" id="5438" lemma="εἰς" postag="r--------" relation="AuxX" />
+      <word form="ἐς" head="5437" id="5438" lemma="εἰς" postag="r--------" relation="AuxP" />
       <word form="καλὰ" head="5440" id="5439" lemma="καλός" postag="a-p---na-" relation="ATR" />
       <word form="ῥέεθρα" head="5438" id="5440" lemma="ῥεῖθρον" postag="n-p---na-" presentation-after="," relation="OBJ" />
       <word form="χεῖρας" head="5442" id="5441" lemma="χείρ" postag="n-p---fa-" relation="OBJ" />

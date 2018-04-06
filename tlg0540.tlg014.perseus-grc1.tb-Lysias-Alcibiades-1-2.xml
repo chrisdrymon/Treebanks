@@ -1202,7 +1202,6 @@
       <word form="οὐκ" head="1050" id="1049" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="ἐπεχείρησαν" head="1053" id="1050" lemma="ἐπιχειρέω" postag="v3paia---" relation="ADV_CO" />
       <word form="δεηθῆναι" head="1050" id="1051" lemma="δέω" postag="v--anp---" relation="OBJ" />
-      <word form="(" head="1056" id="1052" lemma="(" postag="u--------" relation="AuxX" />
       <word form="ἢ" head="1066" id="1053" lemma="ἤ" postag="c--------" relation="COORD" />
       <word form="δεηθέντες" head="1057" id="1054" lemma="δέω" postag="v-pappmn-" relation="ADV" />
       <word form="οὐκ" head="1056" id="1055" lemma="οὐ" postag="d--------" relation="AuxZ" />
@@ -1267,7 +1266,6 @@
       <word form="ἔδει" head="1105" id="1113" lemma="δέω" postag="v3siia---" relation="OBJ_CO" />
       <word form="τῶν" head="1115" id="1114" lemma="ὁ" postag="l-p---mg-" relation="ATR" />
       <word form="στρατηγῶν" head="1113" id="1115" lemma="στρατηγός" postag="n-p---mg-" relation="OBJ" />
-      <word form="(" head="1120" id="1116" lemma="(" postag="u--------" relation="AuxX" />
       <word form="οὐδὲ" head="1120" id="1117" lemma="οὐδέ" postag="d--------" relation="AuxY" />
       <word form="γὰρ" head="1120" id="1118" lemma="γάρ" postag="d--------" relation="AuxY" />
       <word form="ἂν" head="1120" id="1119" lemma="ἄν" postag="d--------" relation="AuxY" />

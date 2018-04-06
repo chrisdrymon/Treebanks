@@ -470,7 +470,6 @@
       <word form="οὖν" head="391" id="379" lemma="οὖν" postag="d--------" presentation-after="," relation="AuxY" />
       <word form="ὦ" head="381" id="380" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word form="ἄνδρες" head="391" id="381" lemma="ἀνήρ" postag="n-p---mv-" presentation-after="," relation="ExD" />
-      <word form="(" head="383" id="382" lemma="(" postag="u--------" relation="AuxG" />
       <word form="δεῖ" head="0" id="383" lemma="δέω" postag="v3spia---" relation="PRED" />
       <word form="γὰρ" head="383" id="384" lemma="γάρ" postag="d--------" relation="AuxY" />
       <word form="καὶ" head="386" id="385" lemma="καί" postag="d--------" relation="AuxZ" />
@@ -2396,7 +2395,6 @@
       <word form="ἦλθον" head="2117" id="2108" lemma="ἔρχομαι" postag="v1saia---" relation="PRED_CO" />
       <word form="οὐκ" head="2110" id="2109" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="ἐπιδημοῦντας" head="2105" id="2110" lemma="ἐπιδημέω" postag="v-pppama-" relation="ATR" />
-      <word form="(" head="2114" id="2111" lemma="(" postag="u--------" relation="AuxX" />
       <word form="οὐ" head="2114" id="2112" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="γὰρ" head="2114" id="2113" lemma="γάρ" postag="d--------" relation="AuxY" />
       <word form="ᾔδη" head="0" id="2114" lemma="οἶδα" postag="v1slia---" presentation-after=")" relation="PRED" />
@@ -2435,7 +2433,6 @@
       <word form="μὲν" head="2163" id="2146" lemma="μέν" postag="d--------" relation="AuxZ" />
       <word form="αὐτὸς" head="2148" id="2147" lemma="αὐτός" postag="p-s---mn-" relation="SBJ" />
       <word form="εἰσῄα" head="2163" id="2148" lemma="εἴσειμι" postag="v1siia---" relation="ADV_CO" />
-      <word form="(" head="2152" id="2149" lemma="(" postag="u--------" relation="AuxG" />
       <word form="τί" head="2152" id="2150" lemma="τις" postag="p-s---na-" relation="ADV" />
       <word form="γὰρ" head="2152" id="2151" lemma="γάρ" postag="d--------" relation="AuxY" />
       <word form="ᾔδη" head="0" id="2152" lemma="οἶδα" postag="v1slia---" relation="PRED" />

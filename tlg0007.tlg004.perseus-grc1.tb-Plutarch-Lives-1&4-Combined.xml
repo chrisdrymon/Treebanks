@@ -7263,8 +7263,7 @@
       <word form="λίγεια" head="6564" id="6565" lemma="λίγειος" postag="a-s---fn-" relation="ATR" />
       <word form="καὶ" head="6562" id="6566" lemma="καί" postag="c--------" relation="COORD" />
       <word form="δίκα" head="6566" id="6567" lemma="δίκη" postag="n-s---fn-" relation="SBJ" />
-      <word form="εὐρυάγυια" head="6567" id="6568" lemma="εὐρυάγυια" postag="a-s---fn-" relation="ATR" />
-      <word form="- - -" head="0" id="6569" lemma="- - -" postag="u--------" relation="AuxK" />
+      <word form="εὐρυάγυια" head="6567" id="6568" lemma="εὐρυάγυια" postag="a-s---fn-" presentation-after="- - -" relation="ATR" />
     </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0007.tlg004.perseus-grc1" id="305" subdoc="21.4">
       <word form="Πίνδαρος" head="6572" id="6570" lemma="Πίνδαρος" postag="n-s---mn-" relation="SBJ" />
@@ -15104,7 +15103,6 @@
       <word form="καὶ" head="13780" id="13762" lemma="καί" postag="c--------" relation="COORD" />
       <word form="τοῦ" head="13764" id="13763" lemma="ὁ" postag="l-s---mg-" relation="ATR" />
       <word form="Ἀνδροκλέους" head="13776" id="13764" lemma="Ἀνδροκλῆς" postag="n-s---mg-" relation="SBJ" />
-      <word form="(" head="13766" id="13765" lemma="(" postag="u--------" relation="AuxG" />
       <word form="ἦν" head="0" id="13766" lemma="εἰμί" postag="v3siia---" relation="PRED" />
       <word form="γὰρ" head="13766" id="13767" lemma="γάρ" postag="d--------" relation="AuxY" />
       <word form="οὗτος" head="13766" id="13768" lemma="οὗτος" postag="p-s---mn-" relation="SBJ" />

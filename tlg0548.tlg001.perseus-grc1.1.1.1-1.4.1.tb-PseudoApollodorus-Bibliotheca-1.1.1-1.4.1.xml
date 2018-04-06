@@ -123,7 +123,6 @@
       <word form="εἰς" gloss="to" head="59" id="57" lemma="εἰς" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="Τάρταρον" gloss="Tartarus" head="57" id="58" lemma="Τάρταρος" postag="n-s---ma-" ref="" relation="OBJ" sg="acc dpd drc cnc" />
       <word form="ἔρριψε" gloss="throw" head="79" id="59" lemma="ῥίπτω" postag="v3saia---" ref="" relation="PRED_CO" sg="ind stt" />
-      <word form="(" head="62" id="60" lemma="(" postag="u--------" ref="" relation="AuxG" sg="" />
       <word form="τόπος" gloss="place" head="65" id="61" lemma="τόπος" postag="n-s---mn-" ref="" relation="PNOM" sg="nmn dpd" />
       <word form="δὲ" head="59" id="62" lemma="δέ" postag="d--------" ref="" relation="COORD" sg="prt" />
       <word form="οὗτος" gloss="this" head="65" id="63" lemma="οὗτος" postag="p-s---mn-" ref="" relation="SBJ" sg="sbs nmn dpd" />
@@ -950,7 +949,6 @@
       <word form="κατὰ" gloss="because.of" head="822" id="823" lemma="κατά" postag="r--------" ref="" relation="AuxP" sg="" />
       <word form="μῆνιν" gloss="anger" head="823" id="824" lemma="μῆνις" postag="n-s---fa-" ref="" relation="ADV" sg="acc dpd adp cnf" />
       <word form="Ἀφροδίτης" gloss="Aphrodite" head="824" id="825" lemma="Ἀφροδίτη" postag="n-s---fg-" ref="" relation="ATR" sg="gnt dpd prp pss_bln" />
-      <word form="(" head="827" id="826" lemma="(" postag="u--------" ref="" relation="AuxG" sg="" />
       <word form="ὠνείδισε" gloss="reproach" head="822" id="827" lemma="ὀνειδίζω" postag="v3saia---" ref="" relation="ExD" sg="ind stt" />
       <word form="γὰρ" gloss="" head="827" id="828" lemma="γάρ" postag="d--------" ref="" relation="AuxY" sg="prt" />
       <word form="αὐτῇ" gloss="her" head="827" id="829" lemma="αὐτός" postag="p-s---fd-" ref="" relation="OBJ" sg="sbs dtv dpd prp int dsd" />

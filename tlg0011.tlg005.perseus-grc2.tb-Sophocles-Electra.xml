@@ -3469,7 +3469,7 @@
       <word cite="urn:cts:greekLit:tlg0011.tlg005:464" form="σὺ" head="2721" id="2715" lemma="σύ" postag="p-s---fn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:464" form="δέ" head="2721" id="2716" lemma="δέ" postag="g--------" presentation-after="," relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="εἰ" head="2721" id="2717" lemma="εἰ" postag="c--------" relation="AuxC" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="σωφρονήσεις" head="2717" id="2718" lemma="σωφρονέω" postag="v2sfia---" presentation-after="," relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="σωφρονήσεις" head="2717" id="2718" lemma="σωφρονέω" postag="v2sfia---" presentation-after="," relation="PRED" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="ὦ" head="2720" id="2719" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="φίλη" head="2721" id="2720" lemma="φίλος" postag="a-s---fv-" presentation-after="," relation="ExD" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:465" form="δράσεις" head="0" id="2721" lemma="δράω" postag="v2sfia---" relation="PRED" />
@@ -11057,7 +11057,7 @@
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0011.tlg005.perseus-grc2" id="2899987" subdoc="1413-1414">
       <annotator>FrancescoM</annotator>
-      <word cite="urn:cts:greekLit:tlg0011.tlg005:1413" form="ὦ" head="8477" id="8476" lemma="ὦ" postag="i--------" relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg005:1413" form="ὦ" head="8477" id="8476" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:1413" form="πόλις" head="9606" id="8477" lemma="πόλις" postag="n-s---fn-" presentation-after="," relation="ExD_CO" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:1413" form="ὦ" head="8479" id="8478" lemma="ὦ" postag="i--------" relation="AuxZ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg005:1413" form="γενεὰ" head="9606" id="8479" lemma="γενεά" postag="n-s---fv-" relation="ExD_CO" />

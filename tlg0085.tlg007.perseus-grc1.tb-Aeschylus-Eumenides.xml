@@ -944,7 +944,6 @@
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1" id="2195383" subdoc="94">
       <annotator>FrancescoM</annotator>
-      <word form="[" head="708" id="707" lemma="[" postag="u--------" relation="AuxG" />
       <word form="μυγμός" head="709" id="708" lemma="μυγμός" postag="n-s---mn-" presentation-after="." relation="ExD" />
       <word artificial="elliptic" form="[0]" head="0" id="709" insertion_id="0003e" presentation-after="]" relation="PRED" />
     </sentence>
@@ -969,7 +968,6 @@
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1" id="2195386" subdoc="94">
       <annotator>FrancescoM</annotator>
-      <word form="[" head="724" id="723" lemma="[" postag="u--------" relation="AuxG" />
       <word form="μυγμός" head="725" id="724" lemma="μυγμός" postag="n-s---mn-" presentation-after="." relation="ExD" />
       <word artificial="elliptic" form="[0]" head="0" id="725" insertion_id="0003e" presentation-after="]" relation="PRED" />
     </sentence>
@@ -993,7 +991,6 @@
     </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1" id="2195389" subdoc="94">
       <annotator>FrancescoM</annotator>
-      <word form="[" head="0" id="738" lemma="[" postag="u--------" relation="AuxG" />
       <word form="ὠγμός" head="740" id="739" lemma="ὠγμός" postag="n-s---mn-" presentation-after="." relation="ExD" />
       <word artificial="elliptic" form="[0]" head="0" id="740" insertion_id="0003e" presentation-after="]" relation="PRED" />
     </sentence>
@@ -1020,7 +1017,6 @@
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1" id="2195393" subdoc="94">
       <annotator>FrancescoM</annotator>
-      <word form="[" head="0" id="753" lemma="[" postag="u--------" relation="AuxG" />
       <word form="ὠγμός" head="755" id="754" lemma="ὠγμός" postag="n-s---mn-" presentation-after="." relation="SBJ_AP" />
       <word artificial="elliptic" form="[0]" head="0" id="755" insertion_id="0003e" presentation-after="]" relation="APOS" />
     </sentence>
@@ -1039,7 +1035,6 @@
     </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg007.perseus-grc1" id="2195395" subdoc="94">
       <annotator>FrancescoM</annotator>
-      <word form="[" head="767" id="766" lemma="[" postag="u--------" relation="AuxG" />
       <word form="μυγμὸς" head="770" id="767" lemma="μυγμός" postag="n-s---mn-" relation="ExD" />
       <word form="διπλοῦς" head="767" id="768" lemma="διπλόος" postag="a-s---mn-" relation="ATR" />
       <word form="ὀξύς" head="767" id="769" lemma="ὀξύς" postag="a-s---mn-" presentation-after="." relation="ATR" />
@@ -4245,7 +4240,7 @@
       <word form="ἔθρεψ̓" head="0" id="3229" lemma="τρέφω" postag="v3saia---" relation="PRED" />
       <word form="ἂν" head="3229" id="3230" lemma="ἄν" postag="g--------" relation="AuxY" />
       <word form="ἐντός" head="3229" id="3231" lemma="ἐντός" postag="d--------" presentation-after="," relation="AuxP" />
-      <word form="ὦ" head="3233" id="3232" lemma="ὦ" postag="i--------" relation="AuxX" />
+      <word form="ὦ" head="3233" id="3232" lemma="ὦ" postag="i--------" relation="ExD" />
       <word form="μιαιφόνε" head="3229" id="3233" lemma="μιαιφόνος" postag="a-s---mv-" presentation-after="," relation="ExD" />
       <word form="ζώνης" head="3231" id="3234" lemma="ζώνη" postag="n-s---fg-" presentation-after=";" relation="ADV" />
       </sentence>
@@ -5386,7 +5381,6 @@
       <word form="τις" head="4131" id="4129" lemma="τις" postag="p-s---mn-" relation="SBJ" />
       <word form="Ἑλλήνων" head="4129" id="4130" lemma="Ἕλλην" postag="n-p---mg-" relation="ATR" />
       <word form="ἐρεῖ" head="4128" id="4131" lemma="ἐρῶ" postag="v3sfia---" presentation-after="," relation="PRED_CO" />
-      <word form="&quot;" head="4137" id="4132" lemma="&quot;" postag="u--------" relation="AuxG" />
       <word form="Ἀργεῖος" head="4162" id="4133" lemma="Ἀργεῖος" postag="a-s---mn-" relation="PNOM" />
       <word form="ἁνὴρ" head="4162" id="4134" lemma="ἀνήρ" postag="n-s---mn-" relation="SBJ" />
       <word form="αὖθις" head="4162" id="4135" lemma="αὖθις" postag="d--------" relation="ADV" />
@@ -5405,7 +5399,6 @@
       <word form="κραίνοντος" head="4150" id="4148" lemma="κραίνω" postag="v-sppamg-" relation="ATR" />
       <word form="τρίτου" head="4150" id="4149" lemma="τρίτος" postag="a-s---mg-" relation="ATR" />
       <word form="σωτῆρος" head="4145" id="4150" lemma="σωτήρ" postag="n-s---mg-" presentation-after="," relation="ADV_CO" />
-      <word form="&quot;" head="4137" id="4151" lemma="&quot;" postag="u--------" relation="AuxG" />
       <word form="ὃς" head="4156" id="4152" lemma="ὅς" postag="p-s---mn-" relation="SBJ" />
       <word form="πατρῷον" head="4155" id="4153" lemma="πατρῷος" postag="a-s---ma-" relation="ATR" />
       <word form="αἰδεσθεὶς" head="4156" id="4154" lemma="αἰδέομαι" postag="v-sappmn-" relation="ADV" />

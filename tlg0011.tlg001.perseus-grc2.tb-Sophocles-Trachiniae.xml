@@ -9316,8 +9316,7 @@
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="ἄν" head="7327" id="7320" lemma="ἄν" postag="g--------" presentation-after="," relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="ὅστις" head="7326" id="7321" lemma="ὅστις" postag="p-s---mn-" relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="μὴ" head="7326" id="7322" lemma="μή" postag="c--------" relation="AuxZ" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="̓" head="7324" id="7323" lemma="̓" postag="u--------" relation="AuxX" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="ξ" head="7326" id="7324" lemma="ἐκ" postag="r--------" relation="AuxP" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="'ξ" head="7326" id="7324" lemma="ἐκ" postag="r--------" relation="AuxP" />
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="ἀλαστόρων" head="7324" id="7325" lemma="ἀλάστωρ" postag="n-p---mg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1235" form="νοσοῖ" head="7318" id="7326" lemma="νοσέω" postag="v3spoa---" presentation-after="," relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg001:1236" form="ἕλοιτο" head="8363" id="7327" lemma="αἱρέω" postag="v3saom---" presentation-after=";" relation="PRED_CO" />

@@ -2527,7 +2527,7 @@
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="γενετῆς" head="1879" id="1880" lemma="γενετή" postag="n-s---fg-" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="πολιάς" head="1876" id="1881" lemma="πολιάς" postag="n-s---fn-" presentation-after="," relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="τὰς" head="1885" id="1882" lemma="ὁ" postag="p-p---fa-" relation="OBJ" />
-      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="δὴ" head="1882" id="1883" lemma="δή" postag="g--------" relation="AuxX" />
+      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="δὴ" head="1882" id="1883" lemma="δή" postag="g--------" relation="ADV" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="Γραίας" head="1885" id="1884" lemma="Γραῖα" postag="n-p---fa-" relation="OCOMP" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.271" form="καλέουσιν" head="1876" id="1885" lemma="καλέω" postag="v3ppia---" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.272" form="ἀθάνατοί" head="1888" id="1886" lemma="ἀθάνατος" postag="a-p---mn-" relation="ATR" />
@@ -9295,8 +9295,7 @@
       <secondary>alexlessie</secondary>
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.1003" form="αὐτὰρ" head="7079" id="7075" lemma="ἀτάρ" postag="c--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0020.tlg001:1.1003" form="Νηρῆος" head="7077" id="7076" lemma="Νηρεύς" postag="n-s---mg-" relation="ATR" />
-      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.1003" form="κοῦραι" head="7079" id="7077" lemma="κόρη" postag="n-p---fn-" relation="SBJ" />
-      <word cite="" form=",·" head="0" id="7078" lemma="" postag="---------" relation="AuxK" />
+      <word cite="urn:cts:greekLit:tlg0020.tlg001:1.1003" form="κοῦραι" head="7079" id="7077" lemma="κόρη" postag="n-p---fn-" presentation-after="·" relation="SBJ" />
       <word artificial="elliptic" form="[0]" head="0" id="7079" insertion_id="0004e" relation="PRED" />
     </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0020.tlg001.perseus-grc1" id="2274098" subdoc="1.1003-1.1007">
