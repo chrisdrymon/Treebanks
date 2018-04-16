@@ -162,7 +162,7 @@
       <value summary="non-specific old" tag="non_spec_old" />
     </information-statuses>
   </annotation>
-  <source id="greek-nt" language="grc">
+  <source id="greek-nt" language="grc" jewish="yes">
     <title>The Greek New Testament</title>
     <citation-part>GNT</citation-part>
     <principal>Dag Trygve Truslew Haug</principal>
