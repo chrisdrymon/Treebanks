@@ -1,0 +1,614 @@
+<proiel export-time="2017-07-06T18:47:07+02:00" schema-version="2.1">
+  <annotation>
+    <relations>
+      <value primary="true" secondary="true" summary="adnominal" tag="adnom" />
+      <value primary="true" secondary="true" summary="adverbial" tag="adv" />
+      <value primary="true" secondary="true" summary="agens" tag="ag" />
+      <value primary="true" secondary="true" summary="apposition" tag="apos" />
+      <value primary="true" secondary="true" summary="argument (object or oblique)" tag="arg" />
+      <value primary="true" secondary="true" summary="attribute" tag="atr" />
+      <value primary="true" secondary="true" summary="auxiliary" tag="aux" />
+      <value primary="true" secondary="true" summary="complement" tag="comp" />
+      <value primary="true" secondary="true" summary="expletive" tag="expl" />
+      <value primary="true" secondary="true" summary="adnominal argument" tag="narg" />
+      <value primary="true" secondary="true" summary="non-subject (object, oblique or adverbial)" tag="nonsub" />
+      <value primary="true" secondary="true" summary="object" tag="obj" />
+      <value primary="true" secondary="true" summary="oblique" tag="obl" />
+      <value primary="true" secondary="true" summary="parenthetical predication" tag="parpred" />
+      <value primary="true" secondary="true" summary="partitive" tag="part" />
+      <value primary="true" secondary="true" summary="peripheral (oblique or adverbial)" tag="per" />
+      <value primary="false" secondary="true" summary="Predicate identity" tag="pid" />
+      <value primary="true" secondary="true" summary="predicate" tag="pred" />
+      <value primary="true" secondary="true" summary="apposition or attribute" tag="rel" />
+      <value primary="true" secondary="true" summary="subject" tag="sub" />
+      <value primary="true" secondary="true" summary="vocative" tag="voc" />
+      <value primary="true" secondary="true" summary="open adverbial complement" tag="xadv" />
+      <value primary="true" secondary="true" summary="open objective complement" tag="xobj" />
+      <value primary="false" secondary="true" summary="external subject" tag="xsub" />
+    </relations>
+    <parts-of-speech>
+      <value summary="adjective" tag="A-" />
+      <value summary="adverb" tag="Df" />
+      <value summary="article" tag="S-" />
+      <value summary="cardinal numeral" tag="Ma" />
+      <value summary="common noun" tag="Nb" />
+      <value summary="conjunction" tag="C-" />
+      <value summary="demonstrative pronoun" tag="Pd" />
+      <value summary="foreign word" tag="F-" />
+      <value summary="indefinite pronoun" tag="Px" />
+      <value summary="infinitive marker" tag="N-" />
+      <value summary="interjection" tag="I-" />
+      <value summary="interrogative adverb" tag="Du" />
+      <value summary="interrogative pronoun" tag="Pi" />
+      <value summary="ordinal numeral" tag="Mo" />
+      <value summary="personal pronoun" tag="Pp" />
+      <value summary="personal reflexive pronoun" tag="Pk" />
+      <value summary="possessive pronoun" tag="Ps" />
+      <value summary="possessive reflexive pronoun" tag="Pt" />
+      <value summary="preposition" tag="R-" />
+      <value summary="proper noun" tag="Ne" />
+      <value summary="quantifier" tag="Py" />
+      <value summary="reciprocal pronoun" tag="Pc" />
+      <value summary="relative adverb" tag="Dq" />
+      <value summary="relative pronoun" tag="Pr" />
+      <value summary="subjunction" tag="G-" />
+      <value summary="verb" tag="V-" />
+      <value summary="unassigned" tag="X-" />
+    </parts-of-speech>
+    <morphology>
+      <field tag="person">
+        <value summary="first person" tag="1" />
+        <value summary="second person" tag="2" />
+        <value summary="third person" tag="3" />
+        <value summary="uncertain person" tag="x" />
+      </field>
+      <field tag="number">
+        <value summary="singular" tag="s" />
+        <value summary="dual" tag="d" />
+        <value summary="plural" tag="p" />
+        <value summary="uncertain number" tag="x" />
+      </field>
+      <field tag="tense">
+        <value summary="present" tag="p" />
+        <value summary="imperfect" tag="i" />
+        <value summary="perfect" tag="r" />
+        <value summary="resultative" tag="s" />
+        <value summary="aorist" tag="a" />
+        <value summary="past" tag="u" />
+        <value summary="pluperfect" tag="l" />
+        <value summary="future" tag="f" />
+        <value summary="future perfect" tag="t" />
+        <value summary="uncertain tense" tag="x" />
+      </field>
+      <field tag="mood">
+        <value summary="indicative" tag="i" />
+        <value summary="subjunctive" tag="s" />
+        <value summary="imperative" tag="m" />
+        <value summary="optative" tag="o" />
+        <value summary="infinitive" tag="n" />
+        <value summary="participle" tag="p" />
+        <value summary="gerund" tag="d" />
+        <value summary="gerundive" tag="g" />
+        <value summary="supine" tag="u" />
+        <value summary="uncertain mood" tag="x" />
+        <value summary="finiteness unspecified" tag="y" />
+        <value summary="indicative or subjunctive" tag="e" />
+        <value summary="indicative or imperative" tag="f" />
+        <value summary="subjunctive or imperative" tag="h" />
+        <value summary="finite" tag="t" />
+      </field>
+      <field tag="voice">
+        <value summary="active" tag="a" />
+        <value summary="middle" tag="m" />
+        <value summary="passive" tag="p" />
+        <value summary="middle or passive" tag="e" />
+        <value summary="unspecified" tag="x" />
+      </field>
+      <field tag="gender">
+        <value summary="masculine" tag="m" />
+        <value summary="feminine" tag="f" />
+        <value summary="neuter" tag="n" />
+        <value summary="masculine or feminine" tag="p" />
+        <value summary="masculine or neuter" tag="o" />
+        <value summary="feminine or neuter" tag="r" />
+        <value summary="masculine, feminine or neuter" tag="q" />
+        <value summary="uncertain gender" tag="x" />
+      </field>
+      <field tag="case">
+        <value summary="nominative" tag="n" />
+        <value summary="accusative" tag="a" />
+        <value summary="oblique" tag="o" />
+        <value summary="genitive" tag="g" />
+        <value summary="genitive or dative" tag="c" />
+        <value summary="accusative or dative" tag="e" />
+        <value summary="dative" tag="d" />
+        <value summary="ablative" tag="b" />
+        <value summary="instrumental" tag="i" />
+        <value summary="locative" tag="l" />
+        <value summary="vocative" tag="v" />
+        <value summary="uncertain case" tag="x" />
+        <value summary="no case" tag="z" />
+      </field>
+      <field tag="degree">
+        <value summary="positive" tag="p" />
+        <value summary="comparative" tag="c" />
+        <value summary="superlative" tag="s" />
+        <value summary="uncertain degree" tag="x" />
+        <value summary="no degree" tag="z" />
+      </field>
+      <field tag="strength">
+        <value summary="weak" tag="w" />
+        <value summary="strong" tag="s" />
+        <value summary="weak or strong" tag="t" />
+      </field>
+      <field tag="inflection">
+        <value summary="non-inflecting" tag="n" />
+        <value summary="inflecting" tag="i" />
+      </field>
+    </morphology>
+    <information-statuses>
+      <value summary="new" tag="new" />
+      <value summary="kind" tag="kind" />
+      <value summary="acc-gen" tag="acc_gen" />
+      <value summary="acc-sit" tag="acc_sit" />
+      <value summary="acc-inf" tag="acc_inf" />
+      <value summary="old" tag="old" />
+      <value summary="old-inact" tag="old_inact" />
+      <value summary="annotatable (undecided)" tag="no_info_status" />
+      <value summary="unannotatable" tag="info_unannotatable" />
+      <value summary="quantifier restriction" tag="quant" />
+      <value summary="non-specific" tag="non_spec" />
+      <value summary="inferred from non-specific" tag="non_spec_inf" />
+      <value summary="non-specific old" tag="non_spec_old" />
+    </information-statuses>
+  </annotation>
+  <source id="greek-nt" language="grc">
+    <title>The Greek New Testament</title>
+    <citation-part>GNT</citation-part>
+    <principal>Dag Trygve Truslew Haug</principal>
+    <funder>Research Council of Norway</funder>
+    <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
+    <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
+    <date>06 July 2017</date>
+    <license>CC BY-NC-SA 3.0</license>
+    <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
+    <reference-system>Standard biblical reference system</reference-system>
+    <editor>Dag Haug</editor>
+    <annotator>Dagmar Wodtko (7570 sentences), Marek Majer (760 sentences), Bergthora Aegisdottir (696 sentences), Pål Rykkja Gilbert (643 sentences), Michael Frotscher (365 sentences), Dag Haug (346 sentences), Eirik Welo (342 sentences), Per Kristen Teigen (301 sentences), Hanne Eckhoff (222 sentences), David Sobey (217 sentences), Þorsteinn Vilhjálmsson (153 sentences), Corinna Scheungraber (120 sentences), Angelika Müth (96 sentences), Jana Beck (41 sentences), Sergej Munkvold (4 sentences), and Dag Haug (1 sentence)</annotator>
+    <reviewer>Dag Haug (4936 sentences), Marek Majer (4145 sentences), Þorsteinn Vilhjálmsson (1095 sentences), Eirik Welo (941 sentences), and Hanne Eckhoff (387 sentences)</reviewer>
+    <electronic-text-editor>Ulrik Sandborg-Petersen</electronic-text-editor>
+    <electronic-text-title>Tischendorf 8th GNT with morphology and lemmatization</electronic-text-title>
+    <electronic-text-version>2.0 (Tischendorf-2.0.zip with MD5 sum f1732e0f66d9ca9565de4dc48e5b2b2b)</electronic-text-version>
+    <electronic-text-publisher>Ulrik Sandborg-Petersen</electronic-text-publisher>
+    <electronic-text-date>19 January 2008</electronic-text-date>
+    <electronic-text-original-url>https://github.com/morphgnt/tischendorf</electronic-text-original-url>
+    <electronic-text-license>Public domain</electronic-text-license>
+    <electronic-text-license-url>http://en.wikipedia.org/wiki/Public_domain</electronic-text-license-url>
+    <printed-text-editor>Constantin von Tischendorf</printed-text-editor>
+    <printed-text-title>Novum Testamentum Graece</printed-text-title>
+    <printed-text-edition>Editio octava critica maior</printed-text-edition>
+    <printed-text-publisher>Gieseche &amp; Devrient</printed-text-publisher>
+    <printed-text-place>Leipzig</printed-text-place>
+    <printed-text-date>1869</printed-text-date>
+    <div id="279">
+      <title>Philemon 1</title>
+      <sentence id="31027" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.1" form="Παῦλος" head-id="5" id="1" lemma="Παῦλος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.1" form="δέσμιος" head-id="1" id="2" lemma="δέσμιος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="Χριστοῦ" head-id="2" id="3" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.1" form="Ἰησοῦ" head-id="3" id="4" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="καὶ" head-id="30" id="5" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.1" form="Τιμόθεος" head-id="5" id="6" lemma="Τιμόθεος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.1" form="ὁ" head-id="8" id="7" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.1" form="ἀδελφὸς" head-id="6" id="8" lemma="ἀδελφός" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="Φιλήμονι" head-id="15" id="9" lemma="Φιλήμων" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.1" form="τῷ" head-id="12" id="10" lemma="ὁ" morphology="-s---od--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.1" form="ἀγαπητῷ" head-id="12" id="11" lemma="ἀγαπητός" morphology="-s---mdp-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="καὶ" head-id="9" id="12" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="συνεργῷ" head-id="12" id="13" lemma="συνεργός" morphology="-s---mdp-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.1" form="ἡμῶν" head-id="13" id="14" lemma="ἡμεῖς" morphology="1p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.2" form="καὶ" head-id="30" id="15" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.2" form="Ἀπφίᾳ" head-id="15" id="16" lemma="Ἀπφία" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.2" form="τῇ" head-id="18" id="17" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.2" form="ἀδελφῇ" head-id="16" id="18" lemma="ἀδελφή" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.2" form="καὶ" head-id="15" id="19" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.2" form="Ἀρχίππῳ" head-id="15" id="20" lemma="Ἄρχιππος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.2" form="τῷ" head-id="22" id="21" lemma="ὁ" morphology="-s---od--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.2" form="συστρατιώτῃ" head-id="20" id="22" lemma="συστρατιώτης" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.2" form="ἡμῶν" head-id="22" id="23" lemma="ἡμεῖς" morphology="1p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.2" form="καὶ" head-id="15" id="24" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.2" form="τῇ" head-id="29" id="25" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.2" form="κατ’" head-id="29" id="26" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.2" form="οἶκόν" head-id="26" id="27" lemma="οἶκος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.2" form="σου" head-id="27" id="28" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.2" form="ἐκκλησίᾳ" head-id="15" id="29" lemma="ἐκκλησία" morphology="-s---fd--i" part-of-speech="Nb" presentation-after="·" relation="obl" />
+        <token citation-part="PHILEM 1.2" empty-token-sort="V" id="30" relation="pred" />
+      </sentence>
+      <sentence id="31028" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.3" form="χάρις" head-id="33" id="31" lemma="χάρις" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.3" form="ὑμῖν" head-id="43" id="32" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.3" form="καὶ" head-id="43" id="33" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.3" form="εἰρήνη" head-id="33" id="34" lemma="εἰρήνη" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.3" form="ἀπὸ" head-id="43" id="35" lemma="ἀπό" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.3" form="θεοῦ" head-id="39" id="36" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.3" form="πατρὸς" head-id="36" id="37" lemma="πατήρ" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.3" form="ἡμῶν" head-id="37" id="38" lemma="ἡμεῖς" morphology="1p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.3" form="καὶ" head-id="35" id="39" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.3" form="κυρίου" head-id="39" id="40" lemma="κύριος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.3" form="Ἰησοῦ" head-id="40" id="41" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.3" form="Χριστοῦ" head-id="41" id="42" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after="." relation="apos" />
+        <token citation-part="PHILEM 1.3" empty-token-sort="V" id="43" relation="pred" />
+      </sentence>
+      <sentence id="31029" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.4" form="Εὐχαριστῶ" id="44" lemma="εὐχαριστέω" morphology="1spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.4" form="τῷ" head-id="46" id="45" lemma="ὁ" morphology="-s---od--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.4" form="θεῷ" head-id="44" id="46" lemma="θεός" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.4" form="μου" head-id="46" id="47" lemma="ἐγώ" morphology="1s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.4" form="πάντοτε" head-id="44" id="48" lemma="πάντοτε" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.4" form="μνείαν" head-id="51" id="49" lemma="μνεία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.4" form="σου" head-id="49" id="50" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="narg" />
+        <token citation-part="PHILEM 1.4" form="ποιούμενος" head-id="44" id="51" lemma="ποιέω" morphology="-sppmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="465913" />
+        </token>
+        <token citation-part="PHILEM 1.4" form="ἐπὶ" head-id="51" id="52" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.4" form="τῶν" head-id="54" id="53" lemma="ὁ" morphology="-p---qg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.4" form="προσευχῶν" head-id="52" id="54" lemma="προσευχή" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.4" form="μου" head-id="54" id="55" lemma="ἐγώ" morphology="1s---mg--i" part-of-speech="Pp" presentation-after=", " relation="atr" />
+        <token citation-part="PHILEM 1.5" form="ἀκούων" head-id="44" id="56" lemma="ἀκούω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="465913" />
+        </token>
+        <token citation-part="PHILEM 1.5" form="σου" head-id="59" id="57" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.5" form="τὴν" head-id="59" id="58" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.5" form="ἀγάπην" head-id="60" id="59" lemma="ἀγάπη" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.5" form="καὶ" head-id="56" id="60" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.5" form="τὴν" head-id="62" id="61" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.5" form="πίστιν" head-id="60" id="62" lemma="πίστις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.5" form="ἣν" head-id="64" id="63" lemma="ὅς" morphology="-s---fa--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.5" form="ἔχεις" head-id="62" id="64" lemma="ἔχω" morphology="2spia----i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.5" form="πρὸς" head-id="69" id="65" lemma="πρός" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.5" form="τὸν" head-id="67" id="66" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.5" form="κύριον" head-id="65" id="67" lemma="κύριος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.5" form="Ἰησοῦν" head-id="67" id="68" lemma="Ἰησοῦς" morphology="-s---ma--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.5" form="καὶ" head-id="64" id="69" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.5" form="εἰς" head-id="69" id="70" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.5" form="πάντας" head-id="73" id="71" lemma="πᾶς" morphology="-p---ma--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.5" form="τοὺς" head-id="73" id="72" lemma="ὁ" morphology="-p---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.5" form="ἁγίους" head-id="70" id="73" lemma="ἅγιος" morphology="-p---map-i" part-of-speech="A-" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.6" form="ὅπως" head-id="44" id="74" lemma="ὅπως" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.6" form="ἡ" head-id="76" id="75" lemma="ὁ" morphology="-s---fn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.6" form="κοινωνία" head-id="81" id="76" lemma="κοινωνία" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.6" form="τῆς" head-id="78" id="77" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.6" form="πίστεώς" head-id="76" id="78" lemma="πίστις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="PHILEM 1.6" form="σου" head-id="78" id="79" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.6" form="ἐνεργὴς" head-id="81" id="80" lemma="ἐνεργής" morphology="-s---pnp-i" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="465947" />
+        </token>
+        <token citation-part="PHILEM 1.6" form="γένηται" head-id="74" id="81" lemma="γίγνομαι" morphology="3sasm----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.6" form="ἐν" head-id="81" id="82" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.6" form="ἐπιγνώσει" head-id="82" id="83" lemma="ἐπίγνωσις" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.6" form="παντὸς" head-id="85" id="84" lemma="πᾶς" morphology="-s---og--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.6" form="ἀγαθοῦ" head-id="83" id="85" lemma="ἀγαθός" morphology="-s---ngp-i" part-of-speech="A-" presentation-after=" " relation="narg" />
+        <token citation-part="PHILEM 1.6" form="τοῦ" head-id="87" id="86" lemma="ὁ" morphology="-s---og--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.6" form="ἐν" head-id="85" id="87" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.6" form="ἡμῖν" head-id="87" id="88" lemma="ἡμεῖς" morphology="1p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.6" form="εἰς" head-id="85" id="89" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.6" form="Χριστόν" head-id="89" id="90" lemma="Χριστός" morphology="-s---ma--i" part-of-speech="Ne" presentation-after="·" relation="obl" />
+      </sentence>
+      <sentence id="31030" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.7" form="χαρὰν" head-id="95" id="91" lemma="χαρά" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.7" form="γὰρ" head-id="94" id="92" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.7" form="πολλὴν" head-id="95" id="93" lemma="πολύς" morphology="-s---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.7" form="ἔσχον" id="94" lemma="ἔχω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.7" form="καὶ" head-id="94" id="95" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.7" form="παράκλησιν" head-id="95" id="96" lemma="παράκλησις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.7" form="ἐπὶ" head-id="94" id="97" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.7" form="τῇ" head-id="99" id="98" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.7" form="ἀγάπῃ" head-id="97" id="99" lemma="ἀγάπη" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.7" form="σου" head-id="99" id="100" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=", " relation="atr" />
+        <token citation-part="PHILEM 1.7" form="ὅτι" head-id="94" id="101" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.7" form="τὰ" head-id="103" id="102" lemma="ὁ" morphology="-p---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.7" form="σπλάγχνα" head-id="106" id="103" lemma="σπλάγχνον" morphology="-p---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.7" form="τῶν" head-id="105" id="104" lemma="ὁ" morphology="-p---qg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.7" form="ἁγίων" head-id="103" id="105" lemma="ἅγιος" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.7" form="ἀναπέπαυται" head-id="101" id="106" lemma="ἀναπαύω" morphology="3srip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.7" form="διὰ" head-id="106" id="107" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.7" form="σοῦ" head-id="107" id="108" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.7" form="ἀδελφέ" id="109" lemma="ἀδελφός" morphology="-s---mv--i" part-of-speech="Nb" presentation-after="." relation="voc" />
+      </sentence>
+      <sentence id="31031" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.8" form="Διό" head-id="124" id="110" lemma="διό" morphology="---------n" part-of-speech="Df" presentation-after=", " relation="adv" />
+        <token citation-part="PHILEM 1.8" form="πολλὴν" head-id="114" id="111" lemma="πολύς" morphology="-s---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.8" form="ἐν" head-id="115" id="112" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.8" form="Χριστῷ" head-id="112" id="113" lemma="Χριστός" morphology="-s---md--i" part-of-speech="Ne" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.8" form="παρρησίαν" head-id="115" id="114" lemma="παρρησία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.8" form="ἔχων" head-id="124" id="115" lemma="ἔχω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466001" />
+        </token>
+        <token citation-part="PHILEM 1.8" form="ἐπιτάσσειν" head-id="114" id="116" lemma="ἐπιτάσσω" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="narg" />
+        <token citation-part="PHILEM 1.8" form="σοι" head-id="116" id="117" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.8" form="τὸ" head-id="119" id="118" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.8" form="ἀνῆκον" head-id="116" id="119" lemma="ἀνήκω" morphology="-sppana--i" part-of-speech="V-" presentation-after=", " relation="obj" />
+        <token citation-part="PHILEM 1.9" form="διὰ" head-id="124" id="120" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.9" form="τὴν" head-id="122" id="121" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.9" form="ἀγάπην" head-id="120" id="122" lemma="ἀγάπη" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.9" form="μᾶλλον" head-id="124" id="123" lemma="μᾶλλον" morphology="-------c-i" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.9" form="παρακαλῶ" id="124" lemma="παρακαλέω" morphology="1spia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="PHILEM 1.9" form="τοιοῦτος" head-id="126" id="125" lemma="τοιοῦτος" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="466004" />
+        </token>
+        <token citation-part="PHILEM 1.9" form="ὢν" head-id="124" id="126" lemma="εἰμί#1" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466001" />
+        </token>
+        <token citation-part="PHILEM 1.9" form="ὡς" head-id="125" id="127" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.9" form="Παῦλος" head-id="127" id="128" lemma="Παῦλος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.9" form="πρεσβύτης" head-id="136" id="129" lemma="πρεσβύτης" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="apos" />
+        <token citation-part="PHILEM 1.9" form="νυνὶ" head-id="133" id="130" lemma="νυνί" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.9" form="δὲ" head-id="133" id="131" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.9" form="καὶ" head-id="133" id="132" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.9" form="δέσμιος" head-id="136" id="133" lemma="δέσμιος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.9" form="Χριστοῦ" head-id="133" id="134" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.9" form="Ἰησοῦ" head-id="134" id="135" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=", " relation="apos" />
+        <token citation-part="PHILEM 1.9" empty-token-sort="C" head-id="128" id="136" relation="apos" />
+      </sentence>
+      <sentence id="64181" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.10" form="παρακαλῶ" id="137" lemma="παρακαλέω" morphology="1spia----i" part-of-speech="V-" presentation-after=" " presentation-before=" " relation="pred" />
+        <token citation-part="PHILEM 1.10" form="σε" head-id="137" id="138" lemma="σύ" morphology="2s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.10" form="περὶ" head-id="137" id="139" lemma="περί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.10" form="τοῦ" head-id="142" id="140" lemma="ὁ" morphology="-s---og--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.10" form="ἐμοῦ" head-id="142" id="141" lemma="ἐμός" morphology="1s---og--i" part-of-speech="Ps" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.10" form="τέκνου" head-id="139" id="142" lemma="τέκνον" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.10" form="ὃν" head-id="144" id="143" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.10" form="ἐγέννησα" head-id="142" id="144" lemma="γεννάω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.10" form="ἐν" head-id="144" id="145" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.10" form="τοῖς" head-id="147" id="146" lemma="ὁ" morphology="-p---od--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.10" form="δεσμοῖς" head-id="145" id="147" lemma="δεσμός" morphology="-p---md--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.10" form="Ὀνήσιμον" head-id="143" id="148" lemma="Ὀνήσιμος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=", " relation="apos" />
+        <token citation-part="PHILEM 1.11" form="τόν" head-id="152" id="149" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.11" form="ποτέ" head-id="152" id="150" lemma="ποτε" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.11" form="σοι" head-id="152" id="151" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.11" form="ἄχρηστον" head-id="169" id="152" lemma="ἄχρηστος" morphology="-s---qap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.11" form="νυνὶ" head-id="159" id="153" lemma="νυνί" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.11" form="δὲ" head-id="159" id="154" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.11" form="καὶ" head-id="157" id="155" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.11" form="σοὶ" head-id="157" id="156" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.11" form="καὶ" head-id="159" id="157" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.11" form="ἐμοὶ" head-id="157" id="158" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.11" form="εὔχρηστον" head-id="169" id="159" lemma="εὔχρηστος" morphology="-s---qap-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="PHILEM 1.11" form="ὃν" head-id="161" id="160" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.11" form="ἀνέπεμψά" head-id="148" id="161" lemma="ἀναπέμπω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.11" form="σοι" head-id="161" id="162" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.12" form="αὐτόν" head-id="160" id="163" lemma="αὐτός" morphology="3s---ma--i" part-of-speech="Pp" presentation-after=", " relation="apos" />
+        <token citation-part="PHILEM 1.12" form="τοῦτ’" head-id="165" id="164" lemma="οὗτος" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.12" form="ἔστιν" id="165" lemma="εἰμί#1" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="parpred" />
+        <token citation-part="PHILEM 1.12" form="τὰ" head-id="168" id="166" lemma="ὁ" morphology="-p---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.12" form="ἐμὰ" head-id="168" id="167" lemma="ἐμός" morphology="1p---na--i" part-of-speech="Ps" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.12" form="σπλάγχνα" head-id="163" id="168" lemma="σπλάγχνον" morphology="-p---na--i" part-of-speech="Nb" presentation-after="." relation="apos" />
+        <token citation-part="PHILEM 1.10" empty-token-sort="C" head-id="148" id="169" relation="atr" />
+      </sentence>
+      <sentence id="31032" status="reviewed">
+        <token citation-part="PHILEM 1.13" form="ὃν" head-id="175" id="170" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.13" form="ἐγὼ" head-id="172" id="171" lemma="ἐγώ" morphology="1s---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.13" form="ἐβουλόμην" id="172" lemma="βούλομαι" morphology="1siim----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.13" form="πρὸς" head-id="175" id="173" lemma="πρός" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.13" form="ἐμαυτὸν" head-id="173" id="174" lemma="ἐμαυτοῦ" morphology="1s---ma--i" part-of-speech="Pk" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.13" form="κατέχειν" head-id="172" id="175" lemma="κατέχω" morphology="--pna----i" part-of-speech="V-" presentation-after=", " relation="xobj">
+          <slash relation="xsub" target-id="466057" />
+        </token>
+        <token citation-part="PHILEM 1.13" form="ἵνα" head-id="175" id="176" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.13" form="ὑπὲρ" head-id="180" id="177" lemma="ὑπέρ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.13" form="σοῦ" head-id="177" id="178" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.13" form="μοι" head-id="180" id="179" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.13" form="διακονῇ" head-id="176" id="180" lemma="διακονέω" morphology="3spsa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.13" form="ἐν" head-id="180" id="181" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.13" form="τοῖς" head-id="183" id="182" lemma="ὁ" morphology="-p---od--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.13" form="δεσμοῖς" head-id="181" id="183" lemma="δεσμός" morphology="-p---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.13" form="τοῦ" head-id="185" id="184" lemma="ὁ" morphology="-s---og--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.13" form="εὐαγγελίου" head-id="183" id="185" lemma="εὐαγγέλιον" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+      </sentence>
+      <sentence id="64182" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.14" form="χωρὶς" head-id="193" id="186" lemma="χωρίς" morphology="---------n" part-of-speech="R-" presentation-after=" " presentation-before=" " relation="adv" />
+        <token citation-part="PHILEM 1.14" form="δὲ" head-id="192" id="187" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.14" form="τῆς" head-id="190" id="188" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.14" form="σῆς" head-id="190" id="189" lemma="σός" morphology="2s---fg--i" part-of-speech="Ps" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.14" form="γνώμης" head-id="186" id="190" lemma="γνώμη" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.14" form="οὐδὲν" head-id="193" id="191" lemma="οὐδείς" morphology="-s---na--i" part-of-speech="Px" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.14" form="ἠθέλησα" id="192" lemma="ἐθέλω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.14" form="ποιῆσαι" head-id="192" id="193" lemma="ποιέω" morphology="--ana----i" part-of-speech="V-" presentation-after=", " relation="xobj">
+          <slash relation="xsub" target-id="466079" />
+        </token>
+        <token citation-part="PHILEM 1.14" form="ἵνα" head-id="192" id="194" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.14" form="μὴ" head-id="196" id="195" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.14" form="ὡς" head-id="203" id="196" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="xobj" />
+        <token citation-part="PHILEM 1.14" form="κατὰ" head-id="196" id="197" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.14" form="ἀνάγκην" head-id="197" id="198" lemma="ἀνάγκη" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.14" form="τὸ" head-id="200" id="199" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.14" form="ἀγαθόν" head-id="202" id="200" lemma="ἀγαθός" morphology="-s---nnp-i" part-of-speech="A-" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.14" form="σου" head-id="200" id="201" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.14" form="ᾖ" head-id="194" id="202" lemma="εἰμί#1" morphology="3spsa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.14" form="ἀλλὰ" head-id="202" id="203" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="466088" />
+        </token>
+        <token citation-part="PHILEM 1.14" form="κατὰ" head-id="203" id="204" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xobj" />
+        <token citation-part="PHILEM 1.14" form="ἑκούσιον" head-id="204" id="205" lemma="ἑκούσιος" morphology="-s---nap-i" part-of-speech="A-" presentation-after="." relation="obl" />
+      </sentence>
+      <sentence id="31033" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.15" form="τάχα" head-id="210" id="206" lemma="τάχα" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.15" form="γὰρ" head-id="210" id="207" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.15" form="διὰ" head-id="210" id="208" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.15" form="τοῦτο" head-id="208" id="209" lemma="οὗτος" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.15" form="ἐχωρίσθη" id="210" lemma="χωρίζω" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.15" form="πρὸς" head-id="210" id="211" lemma="πρός" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.15" form="ὥραν" head-id="211" id="212" lemma="ὥρα" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.15" form="ἵνα" head-id="209" id="213" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.15" form="αἰώνιον" head-id="216" id="214" lemma="αἰώνιος" morphology="-s---map-i" part-of-speech="A-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466104" />
+        </token>
+        <token citation-part="PHILEM 1.15" form="αὐτὸν" head-id="216" id="215" lemma="αὐτός" morphology="3s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.15" form="ἀπέχῃς" head-id="213" id="216" lemma="ἀπέχω" morphology="2spsa----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="PHILEM 1.16" form="οὐκ" head-id="219" id="217" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.16" form="ἔτι" head-id="219" id="218" lemma="ἔτι" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.16" form="ὡς" head-id="221" id="219" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.16" form="δοῦλον" head-id="219" id="220" lemma="δοῦλος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.16" form="ἀλλὰ" head-id="216" id="221" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466104" />
+        </token>
+        <token citation-part="PHILEM 1.16" form="ὑπὲρ" head-id="221" id="222" lemma="ὑπέρ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xadv" />
+        <token citation-part="PHILEM 1.16" form="δοῦλον" head-id="222" id="223" lemma="δοῦλος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.16" form="ἀδελφὸν" head-id="222" id="224" lemma="ἀδελφός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.16" form="ἀγαπητόν" head-id="224" id="225" lemma="ἀγαπητός" morphology="-s---oap-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="PHILEM 1.16" form="μάλιστα" head-id="227" id="226" lemma="μάλα" morphology="-------s-i" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.16" form="ἐμοί" head-id="238" id="227" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.16" form="πόσῳ" head-id="230" id="228" lemma="πόσος" morphology="-s---nd--i" part-of-speech="Pi" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.16" form="δὲ" head-id="231" id="229" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.16" form="μᾶλλον" head-id="231" id="230" lemma="μᾶλλον" morphology="-------c-i" part-of-speech="Df" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.16" form="σοὶ" head-id="238" id="231" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.16" form="καὶ" head-id="235" id="232" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.16" form="ἐν" head-id="235" id="233" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.16" form="σαρκὶ" head-id="233" id="234" lemma="σάρξ" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.16" form="καὶ" head-id="231" id="235" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.16" form="ἐν" head-id="235" id="236" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.16" form="κυρίῳ" head-id="236" id="237" lemma="κύριος" morphology="-s---md--i" part-of-speech="Nb" presentation-after="." relation="obl" />
+        <token citation-part="PHILEM 1.16" empty-token-sort="C" head-id="225" id="238" relation="obl" />
+      </sentence>
+      <sentence id="31034" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.17" form="εἰ" head-id="244" id="239" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.17" form="οὖν" head-id="244" id="240" lemma="οὖν" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.17" form="με" head-id="242" id="241" lemma="ἐγώ" morphology="1s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.17" form="ἔχεις" head-id="239" id="242" lemma="ἔχω" morphology="2spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.17" form="κοινωνόν" head-id="242" id="243" lemma="κοινωνός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=", " relation="xadv">
+          <slash relation="xsub" target-id="466134" />
+        </token>
+        <token citation-part="PHILEM 1.17" form="προσλαβοῦ" id="244" lemma="προσλαμβάνω" morphology="2samm----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.17" form="αὐτὸν" head-id="244" id="245" lemma="αὐτός" morphology="3s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.17" form="ὡς" head-id="244" id="246" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.17" form="ἐμέ" head-id="246" id="247" lemma="ἐγώ" morphology="1s---ma--i" part-of-speech="Pp" presentation-after="." relation="obj" />
+      </sentence>
+      <sentence id="31035" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.18" form="εἰ" head-id="257" id="248" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.18" form="δέ" head-id="257" id="249" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.18" form="τι" head-id="251" id="250" lemma="τὶς" morphology="-s---na--i" part-of-speech="Px" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.18" form="ἠδίκησέν" head-id="253" id="251" lemma="ἀδικέω" morphology="3saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.18" form="σε" head-id="251" id="252" lemma="σύ" morphology="2s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.18" form="ἢ" head-id="248" id="253" lemma="ἤ" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.18" form="ὀφείλει" head-id="253" id="254" lemma="ὀφείλω" morphology="3spia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="PHILEM 1.18" form="τοῦτο" head-id="257" id="255" lemma="οὗτος" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.18" form="ἐμοὶ" head-id="257" id="256" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.18" form="ἐλλόγα" id="257" lemma="ἐλλογέω" morphology="2spma----i" part-of-speech="V-" presentation-after="·" relation="pred" />
+      </sentence>
+      <sentence id="31036" status="reviewed">
+        <token citation-part="PHILEM 1.19" form="ἐγὼ" head-id="260" id="258" lemma="ἐγώ" morphology="1s---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.19" form="Παῦλος" head-id="258" id="259" lemma="Παῦλος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.19" form="ἔγραψα" id="260" lemma="γράφω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.19" form="τῇ" head-id="263" id="261" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.19" form="ἐμῇ" head-id="263" id="262" lemma="ἐμός" morphology="1s---fn--i" part-of-speech="Ps" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.19" form="χειρί" head-id="260" id="263" lemma="χείρ" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=", " relation="adv" />
+      </sentence>
+      <sentence id="64183" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.19" form="ἐγὼ" head-id="265" id="264" lemma="ἐγώ" morphology="1s---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.19" form="ἀποτίσω" id="265" lemma="ἀποτίνω" morphology="1sfia----i" part-of-speech="V-" presentation-after="·" relation="pred" />
+      </sentence>
+      <sentence id="31037" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.19" form="ἵνα" head-id="275" id="266" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.19" form="μὴ" head-id="268" id="267" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.19" form="λέγω" head-id="266" id="268" lemma="λέγω" morphology="1spsa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.19" form="σοι" head-id="268" id="269" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.19" form="ὅτι" head-id="268" id="270" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="PHILEM 1.19" form="καὶ" head-id="274" id="271" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.19" form="σεαυτόν" head-id="274" id="272" lemma="σεαυτοῦ" morphology="2s---ma--i" part-of-speech="Pk" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.19" form="μοι" head-id="274" id="273" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.19" form="προσοφείλεις" head-id="270" id="274" lemma="προσοφείλω" morphology="2spia----i" part-of-speech="V-" presentation-after="." relation="pred" />
+        <token citation-part="PHILEM 1.19" empty-token-sort="V" id="275" relation="pred" />
+      </sentence>
+      <sentence id="31038" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.20" form="ναί" id="276" lemma="ναί" morphology="---------n" part-of-speech="I-" presentation-after=", " relation="voc" />
+        <token citation-part="PHILEM 1.20" form="ἀδελφέ" id="277" lemma="ἀδελφός" morphology="-s---mv--i" part-of-speech="Nb" presentation-after=", " relation="voc" />
+        <token citation-part="PHILEM 1.20" form="ἐγώ" head-id="280" id="278" lemma="ἐγώ" morphology="1s---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.20" form="σου" head-id="280" id="279" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.20" form="ὀναίμην" id="280" lemma="ὀνίνημι" morphology="1saom----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.20" form="ἐν" head-id="280" id="281" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.20" form="κυρίῳ" head-id="281" id="282" lemma="κύριος" morphology="-s---md--i" part-of-speech="Nb" presentation-after="·" relation="obl" />
+      </sentence>
+      <sentence id="31039" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.20" form="ἀνάπαυσόν" id="283" lemma="ἀναπαύω" morphology="2sama----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.20" form="μου" head-id="286" id="284" lemma="ἐγώ" morphology="1s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.20" form="τὰ" head-id="286" id="285" lemma="ὁ" morphology="-p---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.20" form="σπλάγχνα" head-id="283" id="286" lemma="σπλάγχνον" morphology="-p---na--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.20" form="ἐν" head-id="283" id="287" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.20" form="Χριστῷ" head-id="287" id="288" lemma="Χριστός" morphology="-s---md--i" part-of-speech="Ne" presentation-after="." relation="obl" />
+      </sentence>
+      <sentence id="31040" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.21" form="Πεποιθὼς" head-id="293" id="289" lemma="πείθω" morphology="-srpamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466196" />
+        </token>
+        <token citation-part="PHILEM 1.21" form="τῇ" head-id="291" id="290" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.21" form="ὑπακοῇ" head-id="289" id="291" lemma="ὑπακοή" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.21" form="σου" head-id="291" id="292" lemma="σύ" morphology="2s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.21" form="ἔγραψά" id="293" lemma="γράφω" morphology="1saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.21" form="σοι" head-id="293" id="294" lemma="σύ" morphology="2s---md--i" part-of-speech="Pp" presentation-after=", " relation="obl" />
+        <token citation-part="PHILEM 1.21" form="εἰδὼς" head-id="293" id="295" lemma="οἶδα" morphology="-srpamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="466196" />
+        </token>
+        <token citation-part="PHILEM 1.21" form="ὅτι" head-id="295" id="296" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="PHILEM 1.21" form="καὶ" head-id="298" id="297" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.21" form="ὑπὲρ" head-id="301" id="298" lemma="ὑπέρ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.21" form="ἃ" head-id="300" id="299" lemma="ὅς" morphology="-p---na--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.21" form="λέγω" head-id="298" id="300" lemma="λέγω" morphology="1spia----i" part-of-speech="V-" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.21" form="ποιήσεις" head-id="296" id="301" lemma="ποιέω" morphology="2sfia----i" part-of-speech="V-" presentation-after="." relation="pred" />
+      </sentence>
+      <sentence id="31041" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.22" form="ἅμα" head-id="305" id="302" lemma="ἅμα" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.22" form="δὲ" head-id="305" id="303" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.22" form="καὶ" head-id="305" id="304" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.22" form="ἑτοίμαζέ" id="305" lemma="ἑτοιμάζω" morphology="2spma----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.22" form="μοι" head-id="305" id="306" lemma="ἐγώ" morphology="1s---md--i" part-of-speech="Pp" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.22" form="ξενίαν" head-id="305" id="307" lemma="ξενία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after="·" relation="obj" />
+      </sentence>
+      <sentence id="31042" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.22" form="ἐλπίζω" id="308" lemma="ἐλπίζω" morphology="1spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.22" form="γὰρ" head-id="308" id="309" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.22" form="ὅτι" head-id="308" id="310" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="PHILEM 1.22" form="διὰ" head-id="315" id="311" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.22" form="τῶν" head-id="313" id="312" lemma="ὁ" morphology="-p---qg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.22" form="προσευχῶν" head-id="311" id="313" lemma="προσευχή" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.22" form="ὑμῶν" head-id="313" id="314" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.22" form="χαρισθήσομαι" head-id="310" id="315" lemma="χαρίζομαι" morphology="1sfip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.22" form="ὑμῖν" head-id="315" id="316" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after="." relation="obl" />
+      </sentence>
+      <sentence id="31043" presentation-after=" " status="reviewed">
+        <token citation-part="PHILEM 1.23" form="Ἀσπάζεταί" id="317" lemma="ἀσπάζομαι" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="PHILEM 1.23" form="σε" head-id="317" id="318" lemma="σύ" morphology="2s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="PHILEM 1.23" form="Ἐπαφρᾶς" head-id="333" id="319" lemma="Ἐπαφρᾶς" morphology="-s---mn--i" part-of-speech="Ne" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.23" form="ὁ" head-id="321" id="320" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.23" form="συναιχμάλωτός" head-id="319" id="321" lemma="συναιχμάλωτος" morphology="-s---mnp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.23" form="μου" head-id="321" id="322" lemma="ἐγώ" morphology="1s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.23" form="ἐν" head-id="321" id="323" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="PHILEM 1.23" form="Χριστῷ" head-id="323" id="324" lemma="Χριστός" morphology="-s---md--i" part-of-speech="Ne" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.23" form="Ἰησοῦ" head-id="324" id="325" lemma="Ἰησοῦς" morphology="-s---md--i" part-of-speech="Ne" presentation-after=", " relation="apos" />
+        <token citation-part="PHILEM 1.24" form="Μάρκος" head-id="334" id="326" lemma="Μᾶρκος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="PHILEM 1.24" form="Ἀρίσταρχος" head-id="334" id="327" lemma="Ἀρίσταρχος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="PHILEM 1.24" form="Δημᾶς" head-id="334" id="328" lemma="Δημᾶς" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="PHILEM 1.24" form="Λουκᾶς" head-id="334" id="329" lemma="Λουκᾶς" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="PHILEM 1.24" form="οἱ" head-id="331" id="330" lemma="ὁ" morphology="-p---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.24" form="συνεργοί" head-id="334" id="331" lemma="συνεργός" morphology="-p---mnp-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.24" form="μου" head-id="331" id="332" lemma="ἐγώ" morphology="1s---mg--i" part-of-speech="Pp" presentation-after="." relation="atr" />
+        <token citation-part="PHILEM 1.23" empty-token-sort="C" head-id="317" id="333" relation="sub" />
+        <token citation-part="PHILEM 1.23" empty-token-sort="C" head-id="333" id="334" relation="sub" />
+      </sentence>
+      <sentence id="31044" status="reviewed">
+        <token citation-part="PHILEM 1.25" form="Ἡ" head-id="336" id="335" lemma="ὁ" morphology="-s---fn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.25" form="χάρις" head-id="345" id="336" lemma="χάρις" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="PHILEM 1.25" form="τοῦ" head-id="338" id="337" lemma="ὁ" morphology="-s---og--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.25" form="κυρίου" head-id="336" id="338" lemma="κύριος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="PHILEM 1.25" form="Ἰησοῦ" head-id="338" id="339" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.25" form="Χριστοῦ" head-id="339" id="340" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="PHILEM 1.25" form="μετὰ" head-id="345" id="341" lemma="μετά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="466247" />
+        </token>
+        <token citation-part="PHILEM 1.25" form="τοῦ" head-id="343" id="342" lemma="ὁ" morphology="-s---og--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="PHILEM 1.25" form="πνεύματος" head-id="341" id="343" lemma="πνεῦμα" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="PHILEM 1.25" form="ὑμῶν" head-id="343" id="344" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after="." relation="atr" />
+        <token citation-part="PHILEM 1.25" empty-token-sort="V" id="345" relation="pred" />
+      </sentence>
+    </div>
+  </source>
+</proiel>
