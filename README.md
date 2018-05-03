@@ -1,1 +1,1 @@
-This holds my treebanks. They are modified versions of the treebanks available from Perseus and PROIEL.
+The Perseus treebanks' word ids have been been renumbered so that every word in the entire treebank has a unique sequential id starting from 1. The head ids have been adjusted to match. Soon, I will be deleting the word elements that are simply punctuation. Instead, punctuation will be added to the previous word element as "presentation-after" attributes like they are in the PROIEL treebanks.

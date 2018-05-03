@@ -1,0 +1,1313 @@
+<proiel export-time="2017-07-06T18:47:07+02:00" schema-version="2.1">
+  <annotation>
+    <relations>
+      <value primary="true" secondary="true" summary="adnominal" tag="adnom" />
+      <value primary="true" secondary="true" summary="adverbial" tag="adv" />
+      <value primary="true" secondary="true" summary="agens" tag="ag" />
+      <value primary="true" secondary="true" summary="apposition" tag="apos" />
+      <value primary="true" secondary="true" summary="argument (object or oblique)" tag="arg" />
+      <value primary="true" secondary="true" summary="attribute" tag="atr" />
+      <value primary="true" secondary="true" summary="auxiliary" tag="aux" />
+      <value primary="true" secondary="true" summary="complement" tag="comp" />
+      <value primary="true" secondary="true" summary="expletive" tag="expl" />
+      <value primary="true" secondary="true" summary="adnominal argument" tag="narg" />
+      <value primary="true" secondary="true" summary="non-subject (object, oblique or adverbial)" tag="nonsub" />
+      <value primary="true" secondary="true" summary="object" tag="obj" />
+      <value primary="true" secondary="true" summary="oblique" tag="obl" />
+      <value primary="true" secondary="true" summary="parenthetical predication" tag="parpred" />
+      <value primary="true" secondary="true" summary="partitive" tag="part" />
+      <value primary="true" secondary="true" summary="peripheral (oblique or adverbial)" tag="per" />
+      <value primary="false" secondary="true" summary="Predicate identity" tag="pid" />
+      <value primary="true" secondary="true" summary="predicate" tag="pred" />
+      <value primary="true" secondary="true" summary="apposition or attribute" tag="rel" />
+      <value primary="true" secondary="true" summary="subject" tag="sub" />
+      <value primary="true" secondary="true" summary="vocative" tag="voc" />
+      <value primary="true" secondary="true" summary="open adverbial complement" tag="xadv" />
+      <value primary="true" secondary="true" summary="open objective complement" tag="xobj" />
+      <value primary="false" secondary="true" summary="external subject" tag="xsub" />
+    </relations>
+    <parts-of-speech>
+      <value summary="adjective" tag="A-" />
+      <value summary="adverb" tag="Df" />
+      <value summary="article" tag="S-" />
+      <value summary="cardinal numeral" tag="Ma" />
+      <value summary="common noun" tag="Nb" />
+      <value summary="conjunction" tag="C-" />
+      <value summary="demonstrative pronoun" tag="Pd" />
+      <value summary="foreign word" tag="F-" />
+      <value summary="indefinite pronoun" tag="Px" />
+      <value summary="infinitive marker" tag="N-" />
+      <value summary="interjection" tag="I-" />
+      <value summary="interrogative adverb" tag="Du" />
+      <value summary="interrogative pronoun" tag="Pi" />
+      <value summary="ordinal numeral" tag="Mo" />
+      <value summary="personal pronoun" tag="Pp" />
+      <value summary="personal reflexive pronoun" tag="Pk" />
+      <value summary="possessive pronoun" tag="Ps" />
+      <value summary="possessive reflexive pronoun" tag="Pt" />
+      <value summary="preposition" tag="R-" />
+      <value summary="proper noun" tag="Ne" />
+      <value summary="quantifier" tag="Py" />
+      <value summary="reciprocal pronoun" tag="Pc" />
+      <value summary="relative adverb" tag="Dq" />
+      <value summary="relative pronoun" tag="Pr" />
+      <value summary="subjunction" tag="G-" />
+      <value summary="verb" tag="V-" />
+      <value summary="unassigned" tag="X-" />
+    </parts-of-speech>
+    <morphology>
+      <field tag="person">
+        <value summary="first person" tag="1" />
+        <value summary="second person" tag="2" />
+        <value summary="third person" tag="3" />
+        <value summary="uncertain person" tag="x" />
+      </field>
+      <field tag="number">
+        <value summary="singular" tag="s" />
+        <value summary="dual" tag="d" />
+        <value summary="plural" tag="p" />
+        <value summary="uncertain number" tag="x" />
+      </field>
+      <field tag="tense">
+        <value summary="present" tag="p" />
+        <value summary="imperfect" tag="i" />
+        <value summary="perfect" tag="r" />
+        <value summary="resultative" tag="s" />
+        <value summary="aorist" tag="a" />
+        <value summary="past" tag="u" />
+        <value summary="pluperfect" tag="l" />
+        <value summary="future" tag="f" />
+        <value summary="future perfect" tag="t" />
+        <value summary="uncertain tense" tag="x" />
+      </field>
+      <field tag="mood">
+        <value summary="indicative" tag="i" />
+        <value summary="subjunctive" tag="s" />
+        <value summary="imperative" tag="m" />
+        <value summary="optative" tag="o" />
+        <value summary="infinitive" tag="n" />
+        <value summary="participle" tag="p" />
+        <value summary="gerund" tag="d" />
+        <value summary="gerundive" tag="g" />
+        <value summary="supine" tag="u" />
+        <value summary="uncertain mood" tag="x" />
+        <value summary="finiteness unspecified" tag="y" />
+        <value summary="indicative or subjunctive" tag="e" />
+        <value summary="indicative or imperative" tag="f" />
+        <value summary="subjunctive or imperative" tag="h" />
+        <value summary="finite" tag="t" />
+      </field>
+      <field tag="voice">
+        <value summary="active" tag="a" />
+        <value summary="middle" tag="m" />
+        <value summary="passive" tag="p" />
+        <value summary="middle or passive" tag="e" />
+        <value summary="unspecified" tag="x" />
+      </field>
+      <field tag="gender">
+        <value summary="masculine" tag="m" />
+        <value summary="feminine" tag="f" />
+        <value summary="neuter" tag="n" />
+        <value summary="masculine or feminine" tag="p" />
+        <value summary="masculine or neuter" tag="o" />
+        <value summary="feminine or neuter" tag="r" />
+        <value summary="masculine, feminine or neuter" tag="q" />
+        <value summary="uncertain gender" tag="x" />
+      </field>
+      <field tag="case">
+        <value summary="nominative" tag="n" />
+        <value summary="accusative" tag="a" />
+        <value summary="oblique" tag="o" />
+        <value summary="genitive" tag="g" />
+        <value summary="genitive or dative" tag="c" />
+        <value summary="accusative or dative" tag="e" />
+        <value summary="dative" tag="d" />
+        <value summary="ablative" tag="b" />
+        <value summary="instrumental" tag="i" />
+        <value summary="locative" tag="l" />
+        <value summary="vocative" tag="v" />
+        <value summary="uncertain case" tag="x" />
+        <value summary="no case" tag="z" />
+      </field>
+      <field tag="degree">
+        <value summary="positive" tag="p" />
+        <value summary="comparative" tag="c" />
+        <value summary="superlative" tag="s" />
+        <value summary="uncertain degree" tag="x" />
+        <value summary="no degree" tag="z" />
+      </field>
+      <field tag="strength">
+        <value summary="weak" tag="w" />
+        <value summary="strong" tag="s" />
+        <value summary="weak or strong" tag="t" />
+      </field>
+      <field tag="inflection">
+        <value summary="non-inflecting" tag="n" />
+        <value summary="inflecting" tag="i" />
+      </field>
+    </morphology>
+    <information-statuses>
+      <value summary="new" tag="new" />
+      <value summary="kind" tag="kind" />
+      <value summary="acc-gen" tag="acc_gen" />
+      <value summary="acc-sit" tag="acc_sit" />
+      <value summary="acc-inf" tag="acc_inf" />
+      <value summary="old" tag="old" />
+      <value summary="old-inact" tag="old_inact" />
+      <value summary="annotatable (undecided)" tag="no_info_status" />
+      <value summary="unannotatable" tag="info_unannotatable" />
+      <value summary="quantifier restriction" tag="quant" />
+      <value summary="non-specific" tag="non_spec" />
+      <value summary="inferred from non-specific" tag="non_spec_inf" />
+      <value summary="non-specific old" tag="non_spec_old" />
+    </information-statuses>
+  </annotation>
+  <source id="greek-nt" language="grc" jewish="yes">
+    <title>1 Peter</title>
+    <author>Peter</author>
+    <date-of-writing>60</date-of-writing>
+    <citation-part>GNT</citation-part>
+    <principal>Dag Trygve Truslew Haug</principal>
+    <funder>Research Council of Norway</funder>
+    <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
+    <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
+    <date>06 July 2017</date>
+    <license>CC BY-NC-SA 3.0</license>
+    <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
+    <reference-system>Standard biblical reference system</reference-system>
+    <editor>Dag Haug</editor>
+    <annotator>Dagmar Wodtko (7570 sentences), Marek Majer (760 sentences), Bergthora Aegisdottir (696 sentences), Pål Rykkja Gilbert (643 sentences), Michael Frotscher (365 sentences), Dag Haug (346 sentences), Eirik Welo (342 sentences), Per Kristen Teigen (301 sentences), Hanne Eckhoff (222 sentences), David Sobey (217 sentences), Þorsteinn Vilhjálmsson (153 sentences), Corinna Scheungraber (120 sentences), Angelika Müth (96 sentences), Jana Beck (41 sentences), Sergej Munkvold (4 sentences), and Dag Haug (1 sentence)</annotator>
+    <reviewer>Dag Haug (4936 sentences), Marek Majer (4145 sentences), Þorsteinn Vilhjálmsson (1095 sentences), Eirik Welo (941 sentences), and Hanne Eckhoff (387 sentences)</reviewer>
+    <electronic-text-editor>Ulrik Sandborg-Petersen</electronic-text-editor>
+    <electronic-text-title>Tischendorf 8th GNT with morphology and lemmatization</electronic-text-title>
+    <electronic-text-version>2.0 (Tischendorf-2.0.zip with MD5 sum f1732e0f66d9ca9565de4dc48e5b2b2b)</electronic-text-version>
+    <electronic-text-publisher>Ulrik Sandborg-Petersen</electronic-text-publisher>
+    <electronic-text-date>19 January 2008</electronic-text-date>
+    <electronic-text-original-url>https://github.com/morphgnt/tischendorf</electronic-text-original-url>
+    <electronic-text-license>Public domain</electronic-text-license>
+    <electronic-text-license-url>http://en.wikipedia.org/wiki/Public_domain</electronic-text-license-url>
+    <printed-text-editor>Constantin von Tischendorf</printed-text-editor>
+    <printed-text-title>Novum Testamentum Graece</printed-text-title>
+    <printed-text-edition>Editio octava critica maior</printed-text-edition>
+    <printed-text-publisher>Gieseche &amp; Devrient</printed-text-publisher>
+    <printed-text-place>Leipzig</printed-text-place>
+    <printed-text-date>1869</printed-text-date>
+    <div id="298">
+      <title>1 Peter 1</title>
+      <sentence id="32115" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.1" form="Πέτρος" head-id="28" id="1" lemma="Πέτρος" morphology="-s---mn--i" part-of-speech="Ne" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.1" form="ἀπόστολος" head-id="1" id="2" lemma="ἀπόστολος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.1" form="Ἰησοῦ" head-id="2" id="3" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.1" form="Χριστοῦ" head-id="3" id="4" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.1" form="ἐκλεκτοῖς" head-id="6" id="5" lemma="ἐκλεκτός" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.1" form="παρεπιδήμοις" head-id="28" id="6" lemma="παρεπίδημος" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.1" form="διασπορᾶς" head-id="6" id="7" lemma="διασπορά" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.1" form="Πόντου" head-id="12" id="8" lemma="Πόντος" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.1" form="Γαλατίας" head-id="12" id="9" lemma="Γαλατία" morphology="-s---fg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.1" form="Καππαδοκίας" head-id="12" id="10" lemma="Καππαδοκία" morphology="-s---fg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.1" form="Ἀσίας" head-id="12" id="11" lemma="Ἀσία" morphology="-s---fg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.1" form="καὶ" head-id="7" id="12" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.1" form="Βιθυνίας" head-id="12" id="13" lemma="Βιθυνία" morphology="-s---fg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.2" form="κατὰ" head-id="28" id="14" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.2" form="πρόγνωσιν" head-id="14" id="15" lemma="πρόγνωσις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.2" form="θεοῦ" head-id="15" id="16" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.2" form="πατρός" head-id="16" id="17" lemma="πατήρ" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 1.2" form="ἐν" head-id="28" id="18" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.2" form="ἁγιασμῷ" head-id="18" id="19" lemma="ἁγιασμός" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.2" form="πνεύματος" head-id="19" id="20" lemma="πνεῦμα" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.2" form="εἰς" head-id="28" id="21" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.2" form="ὑπακοὴν" head-id="23" id="22" lemma="ὑπακοή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.2" form="καὶ" head-id="21" id="23" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.2" form="ῥαντισμὸν" head-id="23" id="24" lemma="ῥαντισμός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.2" form="αἵματος" head-id="24" id="25" lemma="αἷμα" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.2" form="Ἰησοῦ" head-id="25" id="26" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.2" form="Χριστοῦ" head-id="26" id="27" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after="·" relation="apos" />
+        <token empty-token-sort="V" id="28" relation="pred" />
+      </sentence>
+      <sentence id="32116" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.2" form="χάρις" head-id="31" id="29" lemma="χάρις" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.2" form="ὑμῖν" head-id="33" id="30" lemma="ὑμεῖς" morphology="2p---pd--i" part-of-speech="Pp" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.2" form="καὶ" head-id="33" id="31" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.2" form="εἰρήνη" head-id="31" id="32" lemma="εἰρήνη" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.2" form="πληθυνθείη" id="33" lemma="πληθύνω" morphology="3saop----i" part-of-speech="V-" presentation-after="." relation="pred" />
+      </sentence>
+      <sentence id="32117" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.3" form="Εὐλογητὸς" head-id="87" id="34" lemma="εὐλογητός" morphology="-s---mnp-i" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480574" />
+        </token>
+        <token citation-part="1PET 1.3" form="ὁ" head-id="36" id="35" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.3" form="θεὸς" head-id="37" id="36" lemma="θεός" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.3" form="καὶ" head-id="87" id="37" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.3" form="πατὴρ" head-id="37" id="38" lemma="πατήρ" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.3" form="τοῦ" head-id="40" id="39" lemma="ὁ" morphology="-s---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.3" form="κυρίου" head-id="38" id="40" lemma="κύριος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="ἡμῶν" head-id="40" id="41" lemma="ἡμεῖς" morphology="1p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="Ἰησοῦ" head-id="40" id="42" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.3" form="Χριστοῦ" head-id="42" id="43" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 1.3" form="ὁ" head-id="50" id="44" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.3" form="κατὰ" head-id="50" id="45" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.3" form="τὸ" head-id="49" id="46" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.3" form="πολὺ" head-id="49" id="47" lemma="πολύς" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="αὐτοῦ" head-id="49" id="48" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="ἔλεος" head-id="45" id="49" lemma="ἔλεος" morphology="-s---na--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.3" form="ἀναγεννήσας" head-id="37" id="50" lemma="ἀναγεννάω" morphology="-sapamn--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.3" form="ἡμᾶς" head-id="50" id="51" lemma="ἡμεῖς" morphology="1p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.3" form="εἰς" head-id="50" id="52" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.3" form="ἐλπίδα" head-id="52" id="53" lemma="ἐλπίς" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.3" form="ζῶσαν" head-id="53" id="54" lemma="ζῶ" morphology="-sppafa--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="δι’" head-id="50" id="55" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.3" form="ἀναστάσεως" head-id="55" id="56" lemma="ἀνάστασις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.3" form="Ἰησοῦ" head-id="56" id="57" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.3" form="Χριστοῦ" head-id="57" id="58" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.3" form="ἐκ" head-id="56" id="59" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 1.3" form="νεκρῶν" head-id="59" id="60" lemma="νεκρός" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 1.4" form="εἰς" head-id="50" id="61" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.4" form="κληρονομίαν" head-id="61" id="62" lemma="κληρονομία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.4" form="ἄφθαρτον" head-id="64" id="63" lemma="ἄφθαρτος" morphology="-s---qap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.4" form="καὶ" head-id="62" id="64" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.4" form="ἀμίαντον" head-id="64" id="65" lemma="ἀμίαντος" morphology="-s---qap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.4" form="καὶ" head-id="64" id="66" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.4" form="ἀμάραντον" head-id="64" id="67" lemma="ἀμάραντος" morphology="-s---qap-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.4" form="τετηρημένην" head-id="62" id="68" lemma="τηρέω" morphology="-srppfa--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.4" form="ἐν" head-id="68" id="69" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.4" form="οὐρανοῖς" head-id="69" id="70" lemma="οὐρανός" morphology="-p---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.4" form="εἰς" head-id="68" id="71" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.4" form="ὑμᾶς" head-id="71" id="72" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.5" form="τοὺς" head-id="77" id="73" lemma="ὁ" morphology="-p---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.5" form="ἐν" head-id="77" id="74" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.5" form="δυνάμει" head-id="74" id="75" lemma="δύναμις" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.5" form="θεοῦ" head-id="75" id="76" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.5" form="φρουρουμένους" head-id="72" id="77" lemma="φρουρέω" morphology="-ppppma--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.5" form="διὰ" head-id="77" id="78" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.5" form="πίστεως" head-id="78" id="79" lemma="πίστις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.5" form="εἰς" head-id="77" id="80" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.5" form="σωτηρίαν" head-id="80" id="81" lemma="σωτηρία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.5" form="ἑτοίμην" head-id="81" id="82" lemma="ἕτοιμος" morphology="-s---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.5" form="ἀποκαλυφθῆναι" head-id="82" id="83" lemma="ἀποκαλύπτω" morphology="--anp----i" part-of-speech="V-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 1.5" form="ἐν" head-id="83" id="84" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.5" form="καιρῷ" head-id="84" id="85" lemma="καιρός" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.5" form="ἐσχάτῳ" head-id="85" id="86" lemma="ἔσχατος" morphology="-s---mds-i" part-of-speech="A-" presentation-after="." relation="atr" />
+        <token empty-token-sort="V" id="87" relation="pred" />
+      </sentence>
+      <sentence id="32118" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.6" form="ἐν" head-id="90" id="88" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.6" form="ᾧ" head-id="88" id="89" lemma="ὅς" morphology="-s---nd--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.6" form="ἀγαλλιᾶσθε" id="90" lemma="ἀγαλλιάω" morphology="2ppim----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 1.6" form="ὀλίγον" head-id="95" id="91" lemma="ὀλίγος" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.6" form="ἄρτι" head-id="95" id="92" lemma="ἄρτι" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.6" form="εἰ" head-id="95" id="93" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.6" form="δέον" head-id="124" id="94" lemma="δέον" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="2018717" />
+        </token>
+        <token citation-part="1PET 1.6" form="λυπηθέντες" head-id="90" id="95" lemma="λυπέω" morphology="-pappmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480630" />
+        </token>
+        <token citation-part="1PET 1.6" form="ἐν" head-id="95" id="96" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.6" form="ποικίλοις" head-id="98" id="97" lemma="ποικίλος" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.6" form="πειρασμοῖς" head-id="96" id="98" lemma="πειρασμός" morphology="-p---md--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 1.7" form="ἵνα" head-id="95" id="99" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.7" form="τὸ" head-id="101" id="100" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.7" form="δοκίμιον" head-id="113" id="101" lemma="δοκιμεῖον" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.7" form="ὑμῶν" head-id="104" id="102" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.7" form="τῆς" head-id="104" id="103" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.7" form="πίστεως" head-id="101" id="104" lemma="πίστις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 1.7" form="πολυτιμότερον" head-id="101" id="105" lemma="πολύτιμος" morphology="-s---nnc-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.7" form="χρυσίου" head-id="105" id="106" lemma="χρυσίον" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="τοῦ" head-id="108" id="107" lemma="ὁ" morphology="-s---ng--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.7" form="ἀπολλυμένου" head-id="125" id="108" lemma="ἀπόλλυμι" morphology="-spppng--i" part-of-speech="V-" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 1.7" form="διὰ" head-id="112" id="109" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.7" form="πυρὸς" head-id="109" id="110" lemma="πῦρ" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="δὲ" head-id="112" id="111" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.7" form="δοκιμαζομένου" head-id="125" id="112" lemma="δοκιμάζω" morphology="-spppng--i" part-of-speech="V-" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 1.7" form="εὑρεθῇ" head-id="99" id="113" lemma="εὑρίσκω" morphology="3sasp----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.7" form="εἰς" head-id="113" id="114" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.7" form="ἔπαινον" head-id="116" id="115" lemma="ἔπαινος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="καὶ" head-id="114" id="116" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="δόξαν" head-id="116" id="117" lemma="δόξα" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="καὶ" head-id="116" id="118" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.7" form="τιμὴν" head-id="116" id="119" lemma="τιμή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="ἐν" head-id="113" id="120" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.7" form="ἀποκαλύψει" head-id="120" id="121" lemma="ἀποκάλυψις" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.7" form="Ἰησοῦ" head-id="121" id="122" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.7" form="Χριστοῦ" head-id="122" id="123" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after="." relation="apos" />
+        <token empty-token-sort="V" head-id="93" id="124" relation="pred" />
+        <token empty-token-sort="C" head-id="106" id="125" relation="apos" />
+      </sentence>
+      <sentence id="32119" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.8" form="ὃν" head-id="129" id="126" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.8" form="οὐκ" head-id="128" id="127" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.8" form="ἰδόντες" head-id="129" id="128" lemma="ὁράω" morphology="-papamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480672" />
+        </token>
+        <token citation-part="1PET 1.8" form="ἀγαπᾶτε" id="129" lemma="ἀγαπάω" morphology="2ppia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159508" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.8" form="εἰς" head-id="135" id="130" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.8" form="ὃν" head-id="130" id="131" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.8" form="ἄρτι" head-id="134" id="132" lemma="ἄρτι" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.8" form="μὴ" head-id="134" id="133" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.8" form="ὁρῶντες" head-id="150" id="134" lemma="ὁράω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 1.8" form="πιστεύοντες" head-id="150" id="135" lemma="πιστεύω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 1.8" form="δὲ" head-id="150" id="136" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.8" form="ἀγαλλιᾶσθε" id="137" lemma="ἀγαλλιάω" morphology="2ppim----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.8" form="χαρᾷ" head-id="137" id="138" lemma="χαρά" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.8" form="ἀνεκλαλήτῳ" head-id="140" id="139" lemma="ἀνεκλάλητος" morphology="-s---fdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.8" form="καὶ" head-id="138" id="140" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.8" form="δεδοξασμένῃ" head-id="140" id="141" lemma="δοξάζω" morphology="-srppfd--i" part-of-speech="V-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.9" form="κομιζόμενοι" head-id="137" id="142" lemma="κομίζω" morphology="-pppmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480681" />
+        </token>
+        <token citation-part="1PET 1.9" form="τὸ" head-id="144" id="143" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.9" form="τέλος" head-id="142" id="144" lemma="τέλος" morphology="-s---na--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480693" />
+        </token>
+        <token citation-part="1PET 1.9" form="τῆς" head-id="146" id="145" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.9" form="πίστεως" head-id="144" id="146" lemma="πίστις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.9" form="ὑμῶν" head-id="146" id="147" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.9" form="σωτηρίαν" head-id="142" id="148" lemma="σωτηρία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.9" form="ψυχῶν" head-id="148" id="149" lemma="ψυχή" morphology="-p---fg--i" part-of-speech="Nb" presentation-after="." relation="narg" />
+        <token empty-token-sort="C" head-id="137" id="150" relation="xadv">
+          <slash relation="xsub" target-id="480681" />
+        </token>
+      </sentence>
+      <sentence id="32120" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.10" form="περὶ" head-id="154" id="151" lemma="περί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.10" form="ἧς" head-id="153" id="152" lemma="ὅς" morphology="-s---fg--i" part-of-speech="Pr" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.10" form="σωτηρίας" head-id="151" id="153" lemma="σωτηρία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.10" form="ἐξεζήτησαν" head-id="155" id="154" lemma="ἐκζητέω" morphology="3paia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.10" form="καὶ" id="155" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.10" form="ἐξηραύνησαν" head-id="155" id="156" lemma="ἐξερευνάω" morphology="3paia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.10" form="προφῆται" head-id="156" id="157" lemma="προφήτης" morphology="-p---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.10" form="οἱ" head-id="164" id="158" lemma="ὁ" morphology="-p---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.10" form="περὶ" head-id="164" id="159" lemma="περί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.10" form="τῆς" head-id="163" id="160" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.10" form="εἰς" head-id="163" id="161" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.10" form="ὑμᾶς" head-id="161" id="162" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.10" form="χάριτος" head-id="159" id="163" lemma="χάρις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.10" form="προφητεύσαντες" head-id="157" id="164" lemma="προφητεύω" morphology="-papamn--i" part-of-speech="V-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.11" form="ἐραυνῶντες" head-id="156" id="165" lemma="ἐρευνάω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480702" />
+        </token>
+        <token citation-part="1PET 1.11" form="εἰς" head-id="165" id="166" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.11" form="τίνα" head-id="168" id="167" lemma="τίς" morphology="-s---ma--i" part-of-speech="Pi" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.11" form="ἢ" head-id="171" id="168" lemma="ἤ" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.11" form="ποῖον" head-id="170" id="169" lemma="ποῖος" morphology="-s---ma--i" part-of-speech="Pi" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.11" form="καιρὸν" head-id="168" id="170" lemma="καιρός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.11" form="ἐδήλου" head-id="166" id="171" lemma="δηλόω" morphology="3siia----i" part-of-speech="V-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 1.11" form="τὸ" head-id="175" id="172" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.11" form="ἐν" head-id="175" id="173" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.11" form="αὐτοῖς" head-id="173" id="174" lemma="αὐτός" morphology="3p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.11" form="πνεῦμα" head-id="171" id="175" lemma="πνεῦμα" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.11" form="Χριστοῦ" head-id="175" id="176" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.11" form="προμαρτυρόμενον" head-id="171" id="177" lemma="προμαρτύρομαι" morphology="-sppmnn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480721" />
+        </token>
+        <token citation-part="1PET 1.11" form="τὰ" head-id="181" id="178" lemma="ὁ" morphology="-p---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.11" form="εἰς" head-id="181" id="179" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.11" form="Χριστὸν" head-id="179" id="180" lemma="Χριστός" morphology="-s---ma--i" part-of-speech="Ne" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.11" form="παθήματα" head-id="182" id="181" lemma="πάθημα" morphology="-p---nn--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.11" form="καὶ" head-id="177" id="182" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.11" form="τὰς" head-id="186" id="183" lemma="ὁ" morphology="-p---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.11" form="μετὰ" head-id="186" id="184" lemma="μετά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.11" form="ταῦτα" head-id="184" id="185" lemma="οὗτος" morphology="-p---na--i" part-of-speech="Pd" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.11" form="δόξας" head-id="182" id="186" lemma="δόξα" morphology="-p---fa--i" part-of-speech="Nb" presentation-after="·" relation="obj" />
+      </sentence>
+      <sentence id="32121" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.12" form="οἷς" head-id="188" id="187" lemma="ὅς" morphology="-p---md--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ἀπεκαλύφθη" id="188" lemma="ἀποκαλύπτω" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.12" form="ὅτι" head-id="188" id="189" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 1.12" form="οὐχ" head-id="191" id="190" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.12" form="ἑαυτοῖς" head-id="215" id="191" lemma="ἑαυτοῦ" morphology="3p---md--i" part-of-speech="Pk" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ὑμῖν" head-id="215" id="192" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="δὲ" head-id="192" id="193" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.12" form="διηκόνουν" head-id="189" id="194" lemma="διακονέω" morphology="3piia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.12" form="αὐτά" head-id="194" id="195" lemma="αὐτός" morphology="3p---na--i" part-of-speech="Pp" presentation-after=", " relation="obj" />
+        <token citation-part="1PET 1.12" form="ἃ" head-id="198" id="196" lemma="ὅς" morphology="-p---nn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.12" form="νῦν" head-id="198" id="197" lemma="νῦν#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.12" form="ἀνηγγέλη" head-id="195" id="198" lemma="ἀναγγέλλω" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.12" form="ὑμῖν" head-id="198" id="199" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="διὰ" head-id="198" id="200" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.12" form="τῶν" head-id="202" id="201" lemma="ὁ" morphology="-p---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.12" form="εὐαγγελισαμένων" head-id="200" id="202" lemma="εὐαγγελίζομαι" morphology="-papmmg--i" part-of-speech="V-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ὑμᾶς" head-id="202" id="203" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.12" form="ἐν" head-id="202" id="204" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.12" form="πνεύματι" head-id="204" id="205" lemma="πνεῦμα" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ἁγίῳ" head-id="205" id="206" lemma="ἅγιος" morphology="-s---ndp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.12" form="ἀποσταλέντι" head-id="205" id="207" lemma="ἀποστέλλω" morphology="-sappnd--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.12" form="ἀπ’" head-id="207" id="208" lemma="ἀπό" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="οὐρανοῦ" head-id="208" id="209" lemma="οὐρανός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 1.12" form="εἰς" head-id="214" id="210" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ἃ" head-id="210" id="211" lemma="ὅς" morphology="-p---na--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.12" form="ἐπιθυμοῦσιν" head-id="195" id="212" lemma="ἐπιθυμέω" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.12" form="ἄγγελοι" head-id="212" id="213" lemma="ἄγγελος" morphology="-p---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.12" form="παρακύψαι" head-id="212" id="214" lemma="παρακύπτω" morphology="--ana----i" part-of-speech="V-" presentation-after="." relation="xobj">
+          <slash relation="xsub" target-id="480762" />
+        </token>
+        <token empty-token-sort="C" head-id="194" id="215" relation="obl" />
+      </sentence>
+      <sentence id="32122" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.13" form="Διὸ" head-id="225" id="216" lemma="διό" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.13" form="ἀναζωσάμενοι" head-id="225" id="217" lemma="ἀναζώννυμι" morphology="-papmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480776" />
+        </token>
+        <token citation-part="1PET 1.13" form="τὰς" head-id="219" id="218" lemma="ὁ" morphology="-p---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.13" form="ὀσφύας" head-id="217" id="219" lemma="ὀσφῦς" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.13" form="τῆς" head-id="221" id="220" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.13" form="διανοίας" head-id="219" id="221" lemma="διάνοια" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.13" form="ὑμῶν" head-id="221" id="222" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.13" form="νήφοντες" head-id="225" id="223" lemma="νήφω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=", " relation="xadv">
+          <slash relation="xsub" target-id="480776" />
+        </token>
+        <token citation-part="1PET 1.13" form="τελείως" head-id="223" id="224" lemma="τελείως" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.13" form="ἐλπίσατε" id="225" lemma="ἐλπίζω" morphology="2pama----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.13" form="ἐπὶ" head-id="225" id="226" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.13" form="τὴν" head-id="230" id="227" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.13" form="φερομένην" head-id="230" id="228" lemma="φέρω" morphology="-spppfa--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.13" form="ὑμῖν" head-id="228" id="229" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.13" form="χάριν" head-id="226" id="230" lemma="χάρις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.13" form="ἐν" head-id="228" id="231" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.13" form="ἀποκαλύψει" head-id="231" id="232" lemma="ἀποκάλυψις" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.13" form="Ἰησοῦ" head-id="232" id="233" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.13" form="Χριστοῦ" head-id="233" id="234" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after="." relation="apos" />
+      </sentence>
+      <sentence id="32123" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.14" form="ὡς" head-id="259" id="235" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.14" form="τέκνα" head-id="235" id="236" lemma="τέκνον" morphology="-p---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.14" form="ὑπακοῆς" head-id="236" id="237" lemma="ὑπακοή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.14" form="μὴ" head-id="239" id="238" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.14" form="συσχηματιζόμενοι" head-id="247" id="239" lemma="συσχηματίζω" morphology="-pppmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 1.14" form="ταῖς" head-id="246" id="240" lemma="ὁ" morphology="-p---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.14" form="πρότερον" head-id="246" id="241" lemma="πρότερος" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.14" form="ἐν" head-id="246" id="242" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.14" form="τῇ" head-id="244" id="243" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.14" form="ἀγνοίᾳ" head-id="242" id="244" lemma="ἄγνοια" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.14" form="ὑμῶν" head-id="244" id="245" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.14" form="ἐπιθυμίαις" head-id="239" id="246" lemma="ἐπιθυμία" morphology="-p---fd--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 1.15" form="ἀλλὰ" head-id="259" id="247" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480808" />
+        </token>
+        <token citation-part="1PET 1.15" form="κατὰ" head-id="247" id="248" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.15" form="τὸν" head-id="250" id="249" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.15" form="καλέσαντα" head-id="248" id="250" lemma="καλέω" morphology="-sapama--i" part-of-speech="V-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.15" form="ὑμᾶς" head-id="250" id="251" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.15" form="ἅγιον" head-id="250" id="252" lemma="ἅγιος" morphology="-s---map-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.15" form="καὶ" head-id="259" id="253" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.15" form="αὐτοὶ" head-id="259" id="254" lemma="αὐτός" morphology="-p---mn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.15" form="ἅγιοι" head-id="259" id="255" lemma="ἅγιος" morphology="-p---mnp-i" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480808" />
+        </token>
+        <token citation-part="1PET 1.15" form="ἐν" head-id="259" id="256" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.15" form="πάσῃ" head-id="258" id="257" lemma="πᾶς" morphology="-s---fd--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.15" form="ἀναστροφῇ" head-id="256" id="258" lemma="ἀναστροφή" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.15" form="γενήθητε" id="259" lemma="γίγνομαι" morphology="2pasp----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 1.16" form="διότι" head-id="259" id="260" lemma="διότι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.16" form="γέγραπται" head-id="260" id="261" lemma="γράφω" morphology="3srip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+      </sentence>
+      <sentence id="159522" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.16" form="ἅγιοι" head-id="263" id="262" lemma="ἅγιος" morphology="-p---mnp-i" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480818" />
+        </token>
+        <token citation-part="1PET 1.16" form="ἔσεσθε" id="263" lemma="εἰμί#1" morphology="2pfim----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 1.16" form="διότι" head-id="263" id="264" lemma="διότι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.16" form="ἐγὼ" head-id="267" id="265" lemma="ἐγώ" morphology="1s---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.16" form="ἅγιος" head-id="267" id="266" lemma="ἅγιος" morphology="-s---mnp-i" part-of-speech="A-" presentation-after="." relation="xobj">
+          <slash relation="xsub" target-id="480821" />
+        </token>
+        <token empty-token-sort="V" head-id="264" id="267" relation="pred" />
+      </sentence>
+      <sentence id="32124" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.17" form="καὶ" head-id="286" id="268" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.17" form="εἰ" head-id="286" id="269" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.17" form="πατέρα" head-id="271" id="270" lemma="πατήρ" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480830" />
+        </token>
+        <token citation-part="1PET 1.17" form="ἐπικαλεῖσθε" head-id="269" id="271" lemma="ἐπικαλέω" morphology="2ppim----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.17" form="τὸν" head-id="274" id="272" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.17" form="ἀπροσωπολήμπτως" head-id="274" id="273" lemma="ἀπροσωπολήπτως" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.17" form="κρίνοντα" head-id="271" id="274" lemma="κρίνω" morphology="-sppama--i" part-of-speech="V-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.17" form="κατὰ" head-id="274" id="275" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.17" form="τὸ" head-id="278" id="276" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.17" form="ἑκάστου" head-id="278" id="277" lemma="ἕκαστος" morphology="-s---mgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.17" form="ἔργον" head-id="275" id="278" lemma="ἔργον" morphology="-s---na--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 1.17" form="ἐν" head-id="286" id="279" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.17" form="φόβῳ" head-id="279" id="280" lemma="φόβος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.17" form="τὸν" head-id="285" id="281" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.17" form="τῆς" head-id="283" id="282" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.17" form="παροικίας" head-id="285" id="283" lemma="παροικία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.17" form="ὑμῶν" head-id="283" id="284" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.17" form="χρόνον" head-id="286" id="285" lemma="χρόνος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.17" form="ἀναστράφητε" id="286" lemma="ἀναστρέφω" morphology="2pamp----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 1.18" form="εἰδότες" head-id="286" id="287" lemma="οἶδα" morphology="-prpamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480843" />
+        </token>
+        <token citation-part="1PET 1.18" form="ὅτι" head-id="287" id="288" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 1.18" form="οὐ" head-id="290" id="289" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.18" form="φθαρτοῖς" head-id="301" id="290" lemma="φθαρτός" morphology="-p---ndp-i" part-of-speech="A-" presentation-after=", " relation="adv" />
+        <token citation-part="1PET 1.18" form="ἀργυρίῳ" head-id="292" id="291" lemma="ἀργύριον" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.18" form="ἢ" head-id="290" id="292" lemma="ἤ" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.18" form="χρυσίῳ" head-id="292" id="293" lemma="χρυσίον" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.18" form="ἐλυτρώθητε" head-id="288" id="294" lemma="ἐλυτρόω" morphology="2paip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.18" form="ἐκ" head-id="294" id="295" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.18" form="τῆς" head-id="299" id="296" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.18" form="ματαίας" head-id="299" id="297" lemma="μάταιος" morphology="-s---fgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.18" form="ὑμῶν" head-id="299" id="298" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.18" form="ἀναστροφῆς" head-id="295" id="299" lemma="ἀναστροφή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.18" form="πατροπαραδότου" head-id="299" id="300" lemma="πατροπαράδοτος" morphology="-s---fgp-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.19" form="ἀλλὰ" head-id="294" id="301" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.19" form="τιμίῳ" head-id="303" id="302" lemma="τίμιος" morphology="-s---ndp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.19" form="αἵματι" head-id="301" id="303" lemma="αἷμα" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.19" form="ὡς" head-id="303" id="304" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.19" form="ἀμνοῦ" head-id="304" id="305" lemma="ἀμνός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.19" form="ἀμώμου" head-id="307" id="306" lemma="ἄμωμος" morphology="-s---mgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.19" form="καὶ" head-id="305" id="307" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.19" form="ἀσπίλου" head-id="307" id="308" lemma="ἄσπιλος" morphology="-s---mgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.19" form="Χριστοῦ" head-id="303" id="309" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.20" form="προεγνωσμένου" head-id="347" id="310" lemma="προγιγνώσκω" morphology="-srppmg--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.20" form="μὲν" head-id="310" id="311" lemma="μέν" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.20" form="πρὸ" head-id="310" id="312" lemma="πρό" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.20" form="καταβολῆς" head-id="312" id="313" lemma="καταβολή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.20" form="κόσμου" head-id="313" id="314" lemma="κόσμος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.20" form="φανερωθέντος" head-id="347" id="315" lemma="φανερόω" morphology="-sappmg--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.20" form="δὲ" head-id="315" id="316" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.20" form="ἐπ’" head-id="315" id="317" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.20" form="ἐσχάτου" head-id="317" id="318" lemma="ἔσχατος" morphology="-s---mgp-i" part-of-speech="A-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.20" form="τῶν" head-id="320" id="319" lemma="ὁ" morphology="-p---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.20" form="χρόνων" head-id="318" id="320" lemma="χρόνος" morphology="-p---mg--i" part-of-speech="Nb" presentation-after=" " relation="part" />
+        <token citation-part="1PET 1.20" form="δι’" head-id="315" id="321" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.20" form="ὑμᾶς" head-id="321" id="322" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="τοὺς" head-id="326" id="323" lemma="ὁ" morphology="-p---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.21" form="δι’" head-id="326" id="324" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.21" form="αὐτοῦ" head-id="324" id="325" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="πιστοὺς" head-id="322" id="326" lemma="πιστός" morphology="-p---map-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.21" form="εἰς" head-id="326" id="327" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="θεὸν" head-id="327" id="328" lemma="θεός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="τὸν" head-id="330" id="329" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.21" form="ἐγείραντα" head-id="334" id="330" lemma="ἐγείρω" morphology="-sapama--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.21" form="αὐτὸν" head-id="330" id="331" lemma="αὐτός" morphology="3s---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.21" form="ἐκ" head-id="330" id="332" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="νεκρῶν" head-id="332" id="333" lemma="νεκρός" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="καὶ" head-id="328" id="334" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 1.21" form="δόξαν" head-id="337" id="335" lemma="δόξα" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.21" form="αὐτῷ" head-id="337" id="336" lemma="αὐτός" morphology="3s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.21" form="δόντα" head-id="334" id="337" lemma="δίδωμι" morphology="-sapama--i" part-of-speech="V-" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 1.21" form="ὥστε" head-id="337" id="338" lemma="ὥστε" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.21" form="τὴν" head-id="340" id="339" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.21" form="πίστιν" head-id="342" id="340" lemma="πίστις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.21" form="ὑμῶν" head-id="342" id="341" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.21" form="καὶ" head-id="344" id="342" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.21" form="ἐλπίδα" head-id="342" id="343" lemma="ἐλπίς" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.21" form="εἶναι" head-id="338" id="344" lemma="εἰμί#1" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 1.21" form="εἰς" head-id="344" id="345" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480905" />
+        </token>
+        <token citation-part="1PET 1.21" form="θεόν" head-id="345" id="346" lemma="θεός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after="." relation="obl" />
+        <token empty-token-sort="C" head-id="309" id="347" relation="apos" />
+      </sentence>
+      <sentence id="32125" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.22" form="Τὰς" head-id="349" id="348" lemma="ὁ" morphology="-p---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.22" form="ψυχὰς" head-id="351" id="349" lemma="ψυχή" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.22" form="ὑμῶν" head-id="349" id="350" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.22" form="ἡγνικότες" head-id="363" id="351" lemma="ἁγνίζω" morphology="-prpamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480927" />
+        </token>
+        <token citation-part="1PET 1.22" form="ἐν" head-id="351" id="352" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.22" form="τῇ" head-id="354" id="353" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.22" form="ὑπακοῇ" head-id="352" id="354" lemma="ὑπακοή" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.22" form="τῆς" head-id="356" id="355" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.22" form="ἀληθείας" head-id="354" id="356" lemma="ἀλήθεια" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 1.22" form="εἰς" head-id="351" id="357" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.22" form="φιλαδελφίαν" head-id="357" id="358" lemma="φιλαδελφία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.22" form="ἀνυπόκριτον" head-id="358" id="359" lemma="ἀνυπόκριτος" morphology="-s---fap-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.22" form="ἐκ" head-id="363" id="360" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.22" form="καρδίας" head-id="360" id="361" lemma="καρδία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.22" form="ἀλλήλους" head-id="363" id="362" lemma="ἀλλήλων" morphology="-p---ma--i" part-of-speech="Pc" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 1.22" form="ἀγαπήσατε" id="363" lemma="ἀγαπάω" morphology="2pama----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.22" form="ἐκτενῶς" head-id="363" id="364" lemma="ἐκτενῶς" morphology="-------p-i" part-of-speech="Df" presentation-after=", " relation="adv" />
+        <token citation-part="1PET 1.23" form="ἀναγεγεννημένοι" head-id="363" id="365" lemma="ἀναγεννάω" morphology="-prppmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="480927" />
+        </token>
+        <token citation-part="1PET 1.23" form="οὐκ" head-id="369" id="366" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.23" form="ἐκ" head-id="365" id="367" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.23" form="σπορᾶς" head-id="367" id="368" lemma="σπορά" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.23" form="φθαρτῆς" head-id="370" id="369" lemma="φθαρτός" morphology="-s---fgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.23" form="ἀλλὰ" head-id="368" id="370" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.23" form="ἀφθάρτου" head-id="370" id="371" lemma="ἄφθαρτος" morphology="-s---fgp-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 1.23" form="διὰ" head-id="365" id="372" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.23" form="λόγου" head-id="372" id="373" lemma="λόγος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.23" form="ζῶντος" head-id="376" id="374" lemma="ζῶ" morphology="-sppamg--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.23" form="θεοῦ" head-id="373" id="375" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.23" form="καὶ" head-id="373" id="376" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.23" form="μένοντος" head-id="376" id="377" lemma="μένω" morphology="-sppamg--i" part-of-speech="V-" presentation-after="·" relation="atr" />
+      </sentence>
+      <sentence id="32126" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.24" form="διότι" head-id="390" id="378" lemma="διότι" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.24" form="πᾶσα" head-id="380" id="379" lemma="πᾶς" morphology="-s---fn--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.24" form="σὰρξ" head-id="390" id="380" lemma="σάρξ" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.24" form="ὡς" head-id="390" id="381" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480947" />
+        </token>
+        <token citation-part="1PET 1.24" form="χόρτος" head-id="381" id="382" lemma="χόρτος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="1PET 1.24" form="καὶ" id="383" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.24" form="πᾶσα" head-id="385" id="384" lemma="πᾶς" morphology="-s---fn--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.24" form="δόξα" head-id="391" id="385" lemma="δόξα" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.24" form="αὐτῆς" head-id="385" id="386" lemma="αὐτός" morphology="3s---fg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.24" form="ὡς" head-id="391" id="387" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480953" />
+        </token>
+        <token citation-part="1PET 1.24" form="ἄνθος" head-id="387" id="388" lemma="ἄνθος" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.24" form="χόρτου" head-id="388" id="389" lemma="χόρτος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after="·" relation="atr" />
+        <token empty-token-sort="V" head-id="383" id="390" relation="pred" />
+        <token empty-token-sort="V" head-id="383" id="391" relation="pred" />
+      </sentence>
+      <sentence id="32127" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.24" form="ἐξηράνθη" head-id="395" id="392" lemma="ξηραίνω" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.24" form="ὁ" head-id="394" id="393" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.24" form="χόρτος" head-id="392" id="394" lemma="χόρτος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="1PET 1.24" form="καὶ" id="395" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.24" form="τὸ" head-id="397" id="396" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.24" form="ἄνθος" head-id="398" id="397" lemma="ἄνθος" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.24" form="ἐξέπεσεν" head-id="395" id="398" lemma="ἐκπίπτω" morphology="3saia----i" part-of-speech="V-" presentation-after="·" relation="pred" />
+      </sentence>
+      <sentence id="32128" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 1.25" form="τὸ" head-id="401" id="399" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="δὲ" head-id="403" id="400" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="ῥῆμα" head-id="403" id="401" lemma="ῥῆμα" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.25" form="κυρίου" head-id="401" id="402" lemma="κύριος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.25" form="μένει" id="403" lemma="μένω" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.25" form="εἰς" head-id="403" id="404" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 1.25" form="τὸν" head-id="406" id="405" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="αἰῶνα" head-id="404" id="406" lemma="αἰών" morphology="-s---ma--i" part-of-speech="Nb" presentation-after="." relation="obl" />
+      </sentence>
+      <sentence id="32129" status="reviewed">
+        <token citation-part="1PET 1.25" form="τοῦτο" head-id="409" id="407" lemma="οὗτος" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 1.25" form="δέ" head-id="409" id="408" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="ἐστιν" id="409" lemma="εἰμί#1" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 1.25" form="τὸ" head-id="411" id="410" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="ῥῆμα" head-id="409" id="411" lemma="ῥῆμα" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="480977" />
+        </token>
+        <token citation-part="1PET 1.25" form="τὸ" head-id="413" id="412" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 1.25" form="εὐαγγελισθὲν" head-id="411" id="413" lemma="εὐαγγελίζω" morphology="-sappnn--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 1.25" form="εἰς" head-id="413" id="414" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 1.25" form="ὑμᾶς" head-id="414" id="415" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after="." relation="obl" />
+      </sentence>
+    </div>
+    <div id="299">
+      <title>1 Peter 2</title>
+      <sentence id="32130" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.1" form="Ἀποθέμενοι" head-id="437" id="416" lemma="ἀποτίθημι" morphology="-papmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481009" />
+        </token>
+        <token citation-part="1PET 2.1" form="οὖν" head-id="437" id="417" lemma="οὖν" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.1" form="πᾶσαν" head-id="419" id="418" lemma="πᾶς" morphology="-s---fa--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.1" form="κακίαν" head-id="420" id="419" lemma="κακία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.1" form="καὶ" head-id="416" id="420" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.1" form="πάντα" head-id="422" id="421" lemma="πᾶς" morphology="-s---ma--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.1" form="δόλον" head-id="420" id="422" lemma="δόλος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.1" form="καὶ" head-id="420" id="423" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.1" form="ὑποκρίσεις" head-id="420" id="424" lemma="ὑπόκρισις" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.1" form="καὶ" head-id="420" id="425" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.1" form="φθόνους" head-id="420" id="426" lemma="φθόνος" morphology="-p---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.1" form="καὶ" head-id="420" id="427" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.1" form="πάσας" head-id="429" id="428" lemma="πᾶς" morphology="-p---fa--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.1" form="καταλαλιάς" head-id="420" id="429" lemma="καταλαλιά" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=", " relation="obj" />
+        <token citation-part="1PET 2.2" form="ὡς" head-id="437" id="430" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.2" form="ἀρτιγέννητα" head-id="432" id="431" lemma="ἀρτιγέννητος" morphology="-p---nnp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.2" form="βρέφη" head-id="430" id="432" lemma="βρέφος" morphology="-p---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.2" form="τὸ" head-id="436" id="433" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.2" form="λογικὸν" head-id="436" id="434" lemma="λογικός" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.2" form="ἄδολον" head-id="436" id="435" lemma="ἄδολος" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.2" form="γάλα" head-id="437" id="436" lemma="γάλα" morphology="-s---na--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.2" form="ἐπιποθήσατε" id="437" lemma="ἐπιποθέω" morphology="2pama----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 2.2" form="ἵνα" head-id="437" id="438" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.2" form="ἐν" head-id="441" id="439" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.2" form="αὐτῷ" head-id="439" id="440" lemma="αὐτός" morphology="3s---nd--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.2" form="αὐξηθῆτε" head-id="438" id="441" lemma="αὐξάνω" morphology="2pasa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.2" form="εἰς" head-id="441" id="442" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.2" form="σωτηρίαν" head-id="442" id="443" lemma="σωτηρία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.3" form="εἰ" head-id="441" id="444" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.3" form="ἐγεύσασθε" head-id="444" id="445" lemma="γεύω" morphology="2paim----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.3" form="ὅτι" head-id="445" id="446" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 2.3" form="χρηστὸς" head-id="450" id="447" lemma="χρηστός" morphology="-s---mnp-i" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481023" />
+        </token>
+        <token citation-part="1PET 2.3" form="ὁ" head-id="449" id="448" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.3" form="κύριος" head-id="450" id="449" lemma="κύριος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after="." relation="sub" />
+        <token empty-token-sort="V" head-id="446" id="450" relation="pred" />
+      </sentence>
+      <sentence id="32131" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.4" form="πρὸς" head-id="453" id="451" lemma="πρός" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.4" form="ὃν" head-id="451" id="452" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.4" form="προσερχόμενοι" head-id="470" id="453" lemma="προσέρχομαι" morphology="-pppmmn--i" part-of-speech="V-" presentation-after=", " relation="xadv">
+          <slash relation="xsub" target-id="481043" />
+        </token>
+        <token citation-part="1PET 2.4" form="λίθον" head-id="452" id="454" lemma="λίθος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.4" form="ζῶντα" head-id="454" id="455" lemma="ζῶ" morphology="-sppama--i" part-of-speech="V-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.4" form="ὑπὸ" head-id="459" id="456" lemma="ὑπό" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="ag" />
+        <token citation-part="1PET 2.4" form="ἀνθρώπων" head-id="456" id="457" lemma="ἄνθρωπος" morphology="-p---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.4" form="μὲν" head-id="459" id="458" lemma="μέν" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.4" form="ἀποδεδοκιμασμένον" head-id="484" id="459" lemma="ἀποδοκιμάζω" morphology="-srppma--i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.4" form="παρὰ" head-id="485" id="460" lemma="παρά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.4" form="δὲ" head-id="485" id="461" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.4" form="θεῷ" head-id="460" id="462" lemma="θεός" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.4" form="ἐκλεκτὸν" head-id="485" id="463" lemma="ἐκλεκτός" morphology="-s---map-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.4" form="ἔντιμον" head-id="485" id="464" lemma="ἔντιμος" morphology="-s---map-i" part-of-speech="A-" presentation-after=", " relation="apos" />
+        <token citation-part="1PET 2.5" form="καὶ" head-id="466" id="465" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.5" form="αὐτοὶ" head-id="470" id="466" lemma="αὐτός" morphology="-p---mn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.5" form="ὡς" head-id="470" id="467" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.5" form="λίθοι" head-id="467" id="468" lemma="λίθος" morphology="-p---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.5" form="ζῶντες" head-id="468" id="469" lemma="ζῶ" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.5" form="οἰκοδομεῖσθε" id="470" lemma="οἰκοδομέω" morphology="2ppip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.5" form="οἶκος" head-id="470" id="471" lemma="οἶκος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481043" />
+        </token>
+        <token citation-part="1PET 2.5" form="πνευματικὸς" head-id="471" id="472" lemma="πνευματικός" morphology="-s---mnp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.5" form="εἰς" head-id="470" id="473" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.5" form="ἱεράτευμα" head-id="473" id="474" lemma="ἱεράτευμα" morphology="-s---na--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.5" form="ἅγιον" head-id="474" id="475" lemma="ἅγιος" morphology="-s---nap-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.5" form="ἀνενέγκαι" head-id="470" id="476" lemma="ἀναφέρω" morphology="--ana----i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481043" />
+        </token>
+        <token citation-part="1PET 2.5" form="πνευματικὰς" head-id="478" id="477" lemma="πνευματικός" morphology="-p---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.5" form="θυσίας" head-id="476" id="478" lemma="θυσία" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.5" form="εὐπροσδέκτους" head-id="478" id="479" lemma="εὐπρόσδεκτος" morphology="-p---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.5" form="θεῷ" head-id="479" id="480" lemma="θεός" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.5" form="διὰ" head-id="479" id="481" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.5" form="Ἰησοῦ" head-id="481" id="482" lemma="Ἰησοῦς" morphology="-s---mg--i" part-of-speech="Ne" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.5" form="Χριστοῦ" head-id="482" id="483" lemma="Χριστός" morphology="-s---mg--i" part-of-speech="Ne" presentation-after="." relation="apos" />
+        <token empty-token-sort="C" head-id="452" id="484" relation="apos" />
+        <token empty-token-sort="C" head-id="484" id="485" relation="apos" />
+      </sentence>
+      <sentence id="32132" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.6" form="διότι" head-id="487" id="486" lemma="διότι" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.6" form="περιέχει" id="487" lemma="περιέχω" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.6" form="ἐν" head-id="487" id="488" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.6" form="γραφῇ" head-id="488" id="489" lemma="γραφή" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+      </sentence>
+      <sentence id="159526" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.6" form="ἰδοὺ" id="490" lemma="ἰδοὺ" morphology="---------n" part-of-speech="I-" presentation-after=" " relation="voc" />
+        <token citation-part="1PET 2.6" form="τίθημι" head-id="498" id="491" lemma="τίθημι" morphology="1spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.6" form="ἐν" head-id="491" id="492" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.6" form="Σιὼν" head-id="492" id="493" lemma="Σιών" morphology="---------n" part-of-speech="Ne" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.6" form="λίθον" head-id="491" id="494" lemma="λίθος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.6" form="ἀκρογωνιαῖον" head-id="494" id="495" lemma="ἀκρογωνιαῖος" morphology="-s---map-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.6" form="ἐκλεκτὸν" head-id="494" id="496" lemma="ἐκλεκτός" morphology="-s---map-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.6" form="ἔντιμον" head-id="494" id="497" lemma="ἔντιμος" morphology="-s---map-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.6" form="καὶ" id="498" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.6" form="ὁ" head-id="500" id="499" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.6" form="πιστεύων" head-id="505" id="500" lemma="πιστεύω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.6" form="ἐπ’" head-id="500" id="501" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.6" form="αὐτῷ" head-id="501" id="502" lemma="αὐτός" morphology="3s---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.6" form="οὐ" head-id="505" id="503" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.6" form="μὴ" head-id="505" id="504" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.6" form="καταισχυνθῇ" head-id="498" id="505" lemma="καταισχύνω" morphology="3sasp----i" part-of-speech="V-" presentation-after="." relation="pred" />
+      </sentence>
+      <sentence id="32133" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.7" form="ὑμῖν" head-id="512" id="506" lemma="ὑμεῖς" morphology="2p---md--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.7" form="οὖν" head-id="512" id="507" lemma="οὖν" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="ἡ" head-id="509" id="508" lemma="ὁ" morphology="-s---fn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="τιμὴ" head-id="512" id="509" lemma="τιμή" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.7" form="τοῖς" head-id="511" id="510" lemma="ὁ" morphology="-p---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="πιστεύουσιν" head-id="506" id="511" lemma="πιστεύω" morphology="-pppamd--i" part-of-speech="V-" presentation-after="·" relation="apos" />
+        <token empty-token-sort="V" id="512" relation="pred" />
+      </sentence>
+      <sentence id="32134" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.7" form="ἀπιστοῦσιν" head-id="521" id="513" lemma="ἀπιστέω" morphology="-pppamd--i" part-of-speech="V-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.7" form="δὲ" head-id="521" id="514" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="λίθον" head-id="513" id="515" lemma="λίθος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.7" form="ὃν" head-id="517" id="516" lemma="ὅς" morphology="-s---ma--i" part-of-speech="Pr" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.7" form="ἀπεδοκίμασαν" head-id="515" id="517" lemma="ἀποδοκιμάζω" morphology="3paia----i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.7" form="οἱ" head-id="519" id="518" lemma="ὁ" morphology="-p---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="οἰκοδομοῦντες" head-id="517" id="519" lemma="οἰκοδομέω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.7" form="οὗτος" head-id="521" id="520" lemma="οὗτος" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.7" form="ἐγενήθη" id="521" lemma="γίγνομαι" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.7" form="εἰς" head-id="525" id="522" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.7" form="κεφαλὴν" head-id="524" id="523" lemma="κεφαλή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.7" form="γωνίας" head-id="522" id="524" lemma="γωνία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.7" form="καὶ" head-id="521" id="525" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481100" />
+        </token>
+        <token citation-part="1PET 2.7" form="λίθος" head-id="525" id="526" lemma="λίθος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.7" form="προσκόμματος" head-id="526" id="527" lemma="πρόσκομμα" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.7" form="καὶ" head-id="525" id="528" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.7" form="πέτρα" head-id="525" id="529" lemma="πέτρα" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.7" form="σκανδάλου" head-id="529" id="530" lemma="σκάνδαλον" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.8" form="οἳ" head-id="532" id="531" lemma="ὅς" morphology="-p---mn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.8" form="προσκόπτουσιν" head-id="513" id="532" lemma="προσκόπτω" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.8" form="τῷ" head-id="534" id="533" lemma="ὁ" morphology="-s---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.8" form="λόγῳ" head-id="532" id="534" lemma="λόγος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.8" form="ἀπειθοῦντες" head-id="532" id="535" lemma="ἀπειθέω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=", " relation="xadv">
+          <slash relation="xsub" target-id="481112" />
+        </token>
+        <token citation-part="1PET 2.8" form="εἰς" head-id="539" id="536" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.8" form="ὃ" head-id="536" id="537" lemma="ὅς" morphology="-s---na--i" part-of-speech="Pr" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.8" form="καὶ" head-id="539" id="538" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.8" form="ἐτέθησαν" head-id="532" id="539" lemma="τίθημι" morphology="3paip----i" part-of-speech="V-" presentation-after="." relation="apos" />
+      </sentence>
+      <sentence id="32135" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.9" form="ὑμεῖς" head-id="565" id="540" lemma="ὑμεῖς" morphology="2p---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.9" form="δὲ" head-id="565" id="541" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.9" form="γένος" head-id="566" id="542" lemma="γένος" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.9" form="ἐκλεκτόν" head-id="542" id="543" lemma="ἐκλεκτός" morphology="-s---nnp-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.9" form="βασίλειον" head-id="545" id="544" lemma="βασίλειος" morphology="-s---nnp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.9" form="ἱεράτευμα" head-id="566" id="545" lemma="ἱεράτευμα" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=", " relation="xobj" />
+        <token citation-part="1PET 2.9" form="ἔθνος" head-id="566" id="546" lemma="ἔθνος" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.9" form="ἅγιον" head-id="546" id="547" lemma="ἅγιος" morphology="-s---nnp-i" part-of-speech="A-" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.9" form="λαὸς" head-id="566" id="548" lemma="λαός" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj" />
+        <token citation-part="1PET 2.9" form="εἰς" head-id="548" id="549" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.9" form="περιποίησιν" head-id="549" id="550" lemma="περιποίησις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.9" form="ὅπως" head-id="565" id="551" lemma="ὅπως" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.9" form="τὰς" head-id="553" id="552" lemma="ὁ" morphology="-p---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.9" form="ἀρετὰς" head-id="554" id="553" lemma="ἀρετή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.9" form="ἐξαγγείλητε" head-id="551" id="554" lemma="ἐξαγγέλλω" morphology="2pasa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.9" form="τοῦ" head-id="559" id="555" lemma="ὁ" morphology="-s---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.9" form="ἐκ" head-id="559" id="556" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.9" form="σκότους" head-id="556" id="557" lemma="σκότος" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.9" form="ὑμᾶς" head-id="559" id="558" lemma="ὑμεῖς" morphology="2p---ma--i" part-of-speech="Pp" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.9" form="καλέσαντος" head-id="553" id="559" lemma="καλέω" morphology="-sapamg--i" part-of-speech="V-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.9" form="εἰς" head-id="559" id="560" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.9" form="τὸ" head-id="564" id="561" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.9" form="θαυμαστὸν" head-id="564" id="562" lemma="θαυμαστός" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.9" form="αὐτοῦ" head-id="564" id="563" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.9" form="φῶς" head-id="560" id="564" lemma="φῶς" morphology="-s---na--i" part-of-speech="Nb" presentation-after="·" relation="obl" />
+        <token empty-token-sort="V" id="565" relation="pred" />
+        <token empty-token-sort="C" head-id="565" id="566" relation="xobj">
+          <slash relation="xsub" target-id="481123" />
+        </token>
+      </sentence>
+      <sentence id="32136" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.10" form="οἵ" head-id="571" id="567" lemma="ὁ" morphology="3p---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.10" form="ποτε" head-id="571" id="568" lemma="ποτε" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.10" form="οὐ" head-id="571" id="569" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.10" form="λαὸς" head-id="571" id="570" lemma="λαός" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481153" />
+        </token>
+        <token empty-token-sort="V" id="571" relation="pred" />
+      </sentence>
+      <sentence id="159528" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.10" form="νῦν" head-id="576" id="572" lemma="νῦν#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.10" form="δὲ" head-id="576" id="573" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.10" form="λαὸς" head-id="576" id="574" lemma="λαός" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="2018783" />
+        </token>
+        <token citation-part="1PET 2.10" form="θεοῦ" head-id="574" id="575" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token empty-token-sort="V" id="576" relation="pred" />
+      </sentence>
+      <sentence id="159529" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.10" form="οἱ" head-id="579" id="577" lemma="ὁ" morphology="3p---mn--i" part-of-speech="Pp" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.10" form="οὐκ" head-id="579" id="578" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.10" form="ἠλεημένοι" id="579" lemma="ἐλεέω" morphology="-prppmn--i" part-of-speech="V-" presentation-after=" " relation="pred" />
+      </sentence>
+      <sentence id="159530" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.10" form="νῦν" head-id="583" id="580" lemma="νῦν#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.10" form="δὲ" head-id="583" id="581" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.10" form="ἐλεηθέντες" head-id="583" id="582" lemma="ἐλεέω" morphology="-pappmn--i" part-of-speech="V-" presentation-after="." relation="xobj">
+          <slash relation="xsub" target-id="2018785" />
+        </token>
+        <token empty-token-sort="V" id="583" relation="pred" />
+      </sentence>
+      <sentence id="32137" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.11" form="Ἀγαπητοί" id="584" lemma="ἀγαπητός" morphology="-p---mvp-i" part-of-speech="A-" presentation-after=", " relation="voc" />
+        <token citation-part="1PET 2.11" form="παρακαλῶ" id="585" lemma="παρακαλέω" morphology="1spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.11" form="ὡς" head-id="585" id="586" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.11" form="παροίκους" head-id="588" id="587" lemma="πάροικος" morphology="-p---map-i" part-of-speech="A-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.11" form="καὶ" head-id="586" id="588" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.11" form="παρεπιδήμους" head-id="588" id="589" lemma="παρεπίδημος" morphology="-p---map-i" part-of-speech="A-" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.11" form="ἀπέχεσθαι" head-id="585" id="590" lemma="ἀπέχω" morphology="--pnm----i" part-of-speech="V-" presentation-after=" " relation="comp" />
+        <token citation-part="1PET 2.11" form="τῶν" head-id="593" id="591" lemma="ὁ" morphology="-p---qg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.11" form="σαρκικῶν" head-id="593" id="592" lemma="σαρκικός" morphology="-p---fgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.11" form="ἐπιθυμιῶν" head-id="590" id="593" lemma="ἐπιθυμία" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.11" form="αἵτινες" head-id="595" id="594" lemma="ὅστις" morphology="-p---fn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.11" form="στρατεύονται" head-id="593" id="595" lemma="στρατεύω" morphology="3ppim----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.11" form="κατὰ" head-id="595" id="596" lemma="κατά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.11" form="τῆς" head-id="598" id="597" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.11" form="ψυχῆς" head-id="596" id="598" lemma="ψυχή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.12" form="τὴν" head-id="600" id="599" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.12" form="ἀναστροφὴν" head-id="605" id="600" lemma="ἀναστροφή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.12" form="ὑμῶν" head-id="600" id="601" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.12" form="ἐν" head-id="605" id="602" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.12" form="τοῖς" head-id="604" id="603" lemma="ὁ" morphology="-p---nd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.12" form="ἔθνεσιν" head-id="602" id="604" lemma="ἔθνος" morphology="-p---nd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.12" form="ἔχοντες" head-id="590" id="605" lemma="ἔχω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481176" />
+        </token>
+        <token citation-part="1PET 2.12" form="καλήν" head-id="605" id="606" lemma="καλός" morphology="-s---fap-i" part-of-speech="A-" presentation-after=", " relation="xobj">
+          <slash relation="xsub" target-id="481188" />
+        </token>
+        <token citation-part="1PET 2.12" form="ἵνα" head-id="605" id="607" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.12" form="ἐν" head-id="619" id="608" lemma="ἐν" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.12" form="ᾧ" head-id="608" id="609" lemma="ὅς" morphology="-s---nd--i" part-of-speech="Pr" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.12" form="καταλαλοῦσιν" head-id="608" id="610" lemma="καταλαλέω" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.12" form="ὑμῶν" head-id="610" id="611" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.12" form="ὡς" head-id="610" id="612" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.12" form="κακοποιῶν" head-id="612" id="613" lemma="κακοποιός" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.12" form="ἐκ" head-id="618" id="614" lemma="ἐκ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.12" form="τῶν" head-id="617" id="615" lemma="ὁ" morphology="-p---ng--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.12" form="καλῶν" head-id="617" id="616" lemma="καλός" morphology="-p---ngp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.12" form="ἔργων" head-id="614" id="617" lemma="ἔργον" morphology="-p---ng--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.12" form="ἐποπτεύοντες" head-id="619" id="618" lemma="ἐποπτεύω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481209" />
+        </token>
+        <token citation-part="1PET 2.12" form="δοξάσωσιν" head-id="607" id="619" lemma="δοξάζω" morphology="3pasa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.12" form="τὸν" head-id="621" id="620" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.12" form="θεὸν" head-id="619" id="621" lemma="θεός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.12" form="ἐν" head-id="619" id="622" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.12" form="ἡμέρᾳ" head-id="622" id="623" lemma="ἡμέρα" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.12" form="ἐπισκοπῆς" head-id="623" id="624" lemma="ἐπισκοπή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after="." relation="atr" />
+      </sentence>
+      <sentence id="32138" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.13" form="Ὑποτάγητε" id="625" lemma="ὑποτάσσω" morphology="2pamp----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.13" form="πάσῃ" head-id="628" id="626" lemma="πᾶς" morphology="-s---fd--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.13" form="ἀνθρωπίνῃ" head-id="628" id="627" lemma="ἀνθρώπινος" morphology="-s---fdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.13" form="κτίσει" head-id="625" id="628" lemma="κτίσις" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.13" form="διὰ" head-id="625" id="629" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.13" form="τὸν" head-id="631" id="630" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.13" form="κύριον" head-id="629" id="631" lemma="κύριος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.13" form="εἴτε" head-id="636" id="632" lemma="εἴτε" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.13" form="βασιλεῖ" head-id="636" id="633" lemma="βασιλεύς" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.13" form="ὡς" head-id="635" id="634" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.13" form="ὑπερέχοντι" head-id="625" id="635" lemma="ὑπερέχω" morphology="-sppamd--i" part-of-speech="V-" presentation-after=", " relation="xadv">
+          <slash relation="xsub" target-id="481225" />
+        </token>
+        <token citation-part="1PET 2.14" form="εἴτε" head-id="628" id="636" lemma="εἴτε" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.14" form="ἡγεμόσιν" head-id="636" id="637" lemma="ἡγεμών" morphology="-p---md--i" part-of-speech="Nb" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.14" form="ὡς" head-id="641" id="638" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.14" form="δι’" head-id="641" id="639" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="ag" />
+        <token citation-part="1PET 2.14" form="αὐτοῦ" head-id="639" id="640" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.14" form="πεμπομένοις" head-id="625" id="641" lemma="πέμπω" morphology="-ppppmd--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481230" />
+        </token>
+        <token citation-part="1PET 2.14" form="εἰς" head-id="641" id="642" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.14" form="ἐκδίκησιν" head-id="648" id="643" lemma="ἐκδίκησις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.14" form="κακοποιῶν" head-id="643" id="644" lemma="κακοποιός" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=", " relation="narg" />
+        <token citation-part="1PET 2.14" form="ἔπαινον" head-id="648" id="645" lemma="ἔπαινος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.14" form="δὲ" head-id="645" id="646" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.14" form="ἀγαθοποιῶν" head-id="645" id="647" lemma="ἀγαθοποιός" morphology="-p---mgp-i" part-of-speech="A-" presentation-after="·" relation="narg" />
+        <token empty-token-sort="C" head-id="642" id="648" relation="obl" />
+      </sentence>
+      <sentence id="32139" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.15" form="ὅτι" head-id="651" id="649" lemma="ὅτι#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.15" form="οὕτως" head-id="651" id="650" lemma="οὕτω(ς)" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481247" />
+        </token>
+        <token citation-part="1PET 2.15" form="ἐστὶν" id="651" lemma="εἰμί#1" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.15" form="τὸ" head-id="653" id="652" lemma="ὁ" morphology="-s---nn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.15" form="θέλημα" head-id="651" id="653" lemma="θέλημα" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.15" form="τοῦ" head-id="655" id="654" lemma="ὁ" morphology="-s---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.15" form="θεοῦ" head-id="653" id="655" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 2.15" form="ἀγαθοποιοῦντας" head-id="657" id="656" lemma="ἀγαθοποιέω" morphology="-pppama--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481252" />
+        </token>
+        <token citation-part="1PET 2.15" form="φιμοῦν" head-id="650" id="657" lemma="φιμόω" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.15" form="τὴν" head-id="662" id="658" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.15" form="τῶν" head-id="661" id="659" lemma="ὁ" morphology="-p---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.15" form="ἀφρόνων" head-id="661" id="660" lemma="ἄφρων" morphology="-p---mgp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.15" form="ἀνθρώπων" head-id="662" id="661" lemma="ἄνθρωπος" morphology="-p---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.15" form="ἀγνωσίαν" head-id="657" id="662" lemma="ἀγνωσία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after="·" relation="obj" />
+      </sentence>
+      <sentence id="159561" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.16" form="ὡς" head-id="665" id="663" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.16" form="ἐλεύθεροι" head-id="663" id="664" lemma="ἐλεύθερος" morphology="-p---mnp-i" part-of-speech="A-" presentation-after=", " relation="sub" />
+        <token citation-part="1PET 2.16" form="καὶ" head-id="674" id="665" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.16" form="μὴ" head-id="669" id="666" lemma="μή" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.16" form="ὡς" head-id="669" id="667" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.16" form="ἐπικάλυμμα" head-id="667" id="668" lemma="ἐπικάλυμμα" morphology="-s---na--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.16" form="ἔχοντες" head-id="665" id="669" lemma="ἔχω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.16" form="τῆς" head-id="671" id="670" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.16" form="κακίας" head-id="668" id="671" lemma="κακία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 2.16" form="τὴν" head-id="673" id="672" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.16" form="ἐλευθερίαν" head-id="669" id="673" lemma="ἐλευθερία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=", " relation="obj" />
+        <token citation-part="1PET 2.16" form="ἀλλ’" head-id="678" id="674" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="2019178" />
+        </token>
+        <token citation-part="1PET 2.16" form="ὡς" head-id="674" id="675" lemma="ὡς" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.16" form="θεοῦ" head-id="677" id="676" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.16" form="δοῦλοι" head-id="675" id="677" lemma="δοῦλος" morphology="-p---mn--i" part-of-speech="Nb" presentation-after="." relation="sub" />
+        <token empty-token-sort="V" id="678" relation="pred" />
+      </sentence>
+      <sentence id="32141" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.17" form="πάντας" head-id="680" id="679" lemma="πᾶς" morphology="-p---ma--i" part-of-speech="Px" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.17" form="τιμήσατε" id="680" lemma="τιμάω" morphology="2pama----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159531" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.17" form="τὴν" head-id="682" id="681" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.17" form="ἀδελφότητα" head-id="683" id="682" lemma="ἀδελφότης" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.17" form="ἀγαπᾶτε" id="683" lemma="ἀγαπάω" morphology="2ppma----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159532" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.17" form="τὸν" head-id="685" id="684" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.17" form="θεὸν" head-id="686" id="685" lemma="θεός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.17" form="φοβεῖσθε" id="686" lemma="φοβέω" morphology="2ppmm----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159533" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.17" form="τὸν" head-id="688" id="687" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.17" form="βασιλέα" head-id="689" id="688" lemma="βασιλεύς" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.17" form="τιμᾶτε" id="689" lemma="τιμάω" morphology="2ppma----i" part-of-speech="V-" presentation-after="." relation="pred" />
+      </sentence>
+      <sentence id="32142" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.18" form="Οἱ" head-id="691" id="690" lemma="ὁ" morphology="-p---mv--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="οἰκέται" id="691" lemma="οἰκέτης" morphology="-p---mv--i" part-of-speech="Nb" presentation-after=" " relation="voc" />
+        <token citation-part="1PET 2.18" form="ὑποτασσόμενοι" head-id="708" id="692" lemma="ὑποτάσσω" morphology="-ppppmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="2018794" />
+        </token>
+        <token citation-part="1PET 2.18" form="ἐν" head-id="692" id="693" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.18" form="παντὶ" head-id="695" id="694" lemma="πᾶς" morphology="-s---md--i" part-of-speech="Px" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.18" form="φόβῳ" head-id="693" id="695" lemma="φόβος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.18" form="τοῖς" head-id="697" id="696" lemma="ὁ" morphology="-p---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="δεσπόταις" head-id="692" id="697" lemma="δεσπότης" morphology="-p---md--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.18" form="οὐ" head-id="699" id="698" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="μόνον" head-id="702" id="699" lemma="μόνος" morphology="-s---nap-i" part-of-speech="A-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 2.18" form="τοῖς" head-id="701" id="700" lemma="ὁ" morphology="-p---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="ἀγαθοῖς" head-id="702" id="701" lemma="ἀγαθός" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.18" form="καὶ" head-id="704" id="702" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.18" form="ἐπιεικέσιν" head-id="702" id="703" lemma="ἐπιεικής" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.18" form="ἀλλὰ" head-id="697" id="704" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.18" form="καὶ" head-id="707" id="705" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="τοῖς" head-id="707" id="706" lemma="ὁ" morphology="-p---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.18" form="σκολιοῖς" head-id="704" id="707" lemma="σκολιός" morphology="-p---mdp-i" part-of-speech="A-" presentation-after="." relation="atr" />
+        <token empty-token-sort="V" id="708" relation="pred" />
+      </sentence>
+      <sentence id="32143" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.19" form="τοῦτο" head-id="721" id="709" lemma="οὗτος" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.19" form="γὰρ" head-id="721" id="710" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.19" form="χάρις" head-id="721" id="711" lemma="χάρις" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481312" />
+        </token>
+        <token citation-part="1PET 2.19" form="εἰ" head-id="721" id="712" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.19" form="διὰ" head-id="716" id="713" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.19" form="συνείδησιν" head-id="713" id="714" lemma="συνείδησις" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.19" form="θεοῦ" head-id="714" id="715" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 2.19" form="ὑποφέρει" head-id="712" id="716" lemma="ὑποφέρω" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.19" form="τις" head-id="716" id="717" lemma="τὶς" morphology="-s---mn--i" part-of-speech="Px" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.19" form="λύπας" head-id="716" id="718" lemma="λύπη" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.19" form="πάσχων" head-id="716" id="719" lemma="πάσχω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481320" />
+        </token>
+        <token citation-part="1PET 2.19" form="ἀδίκως" head-id="719" id="720" lemma="ἀδίκως" morphology="-------p-i" part-of-speech="Df" presentation-after="." relation="adv" />
+        <token empty-token-sort="V" id="721" relation="pred" />
+      </sentence>
+      <sentence id="32144" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.20" form="ποῖον" head-id="730" id="722" lemma="ποῖος" morphology="-s---nn--i" part-of-speech="Pi" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481327" />
+        </token>
+        <token citation-part="1PET 2.20" form="γὰρ" head-id="730" id="723" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.20" form="κλέος" head-id="730" id="724" lemma="κλέος" morphology="-s---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.20" form="εἰ" head-id="730" id="725" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.20" form="ἁμαρτάνοντες" head-id="727" id="726" lemma="ἁμαρτάνω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.20" form="καὶ" head-id="729" id="727" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481332" />
+        </token>
+        <token citation-part="1PET 2.20" form="κολαφιζόμενοι" head-id="727" id="728" lemma="κολαφίζω" morphology="-ppppmn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.20" form="ὑπομενεῖτε" head-id="725" id="729" lemma="ὑπομένω" morphology="2pfia----i" part-of-speech="V-" presentation-after=";" relation="pred" />
+        <token empty-token-sort="V" id="730" relation="pred" />
+      </sentence>
+      <sentence id="32145" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.20" form="ἀλλ’" head-id="741" id="731" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.20" form="εἰ" head-id="741" id="732" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.20" form="ἀγαθοποιοῦντες" head-id="734" id="733" lemma="ἀγαθοποιέω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.20" form="καὶ" head-id="736" id="734" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481339" />
+        </token>
+        <token citation-part="1PET 2.20" form="πάσχοντες" head-id="734" id="735" lemma="πάσχω" morphology="-pppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv" />
+        <token citation-part="1PET 2.20" form="ὑπομενεῖτε" head-id="732" id="736" lemma="ὑπομένω" morphology="2pfia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 2.20" form="τοῦτο" head-id="741" id="737" lemma="οὗτος" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.20" form="χάρις" head-id="741" id="738" lemma="χάρις" morphology="-s---fn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481341" />
+        </token>
+        <token citation-part="1PET 2.20" form="παρὰ" head-id="741" id="739" lemma="παρά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.20" form="θεῷ" head-id="739" id="740" lemma="θεός" morphology="-s---md--i" part-of-speech="Nb" presentation-after="." relation="obl" />
+        <token empty-token-sort="V" id="741" relation="pred" />
+      </sentence>
+      <sentence id="32146" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.21" form="εἰς" head-id="745" id="742" lemma="εἰς" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.21" form="τοῦτο" head-id="742" id="743" lemma="οὗτος" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.21" form="γὰρ" head-id="745" id="744" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.21" form="ἐκλήθητε" id="745" lemma="καλέω" morphology="2paip----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+        <token citation-part="1PET 2.21" form="ὅτι" head-id="745" id="746" lemma="ὅτι" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.21" form="καὶ" head-id="748" id="747" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.21" form="Χριστὸς" head-id="749" id="748" lemma="Χριστός" morphology="-s---mn--i" part-of-speech="Ne" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.21" form="ἔπαθεν" head-id="746" id="749" lemma="πάσχω" morphology="3saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.21" form="ὑπὲρ" head-id="749" id="750" lemma="ὑπέρ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.21" form="ὑμῶν" head-id="750" id="751" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.21" form="ὑμῖν" head-id="753" id="752" lemma="ὑμεῖς" morphology="2p---pd--i" part-of-speech="Pp" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.21" form="ὑπολιμπάνων" head-id="749" id="753" lemma="ὑπολιμπάνω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481353" />
+        </token>
+        <token citation-part="1PET 2.21" form="ὑπογραμμὸν" head-id="753" id="754" lemma="ὑπογραμμός" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.21" form="ἵνα" head-id="753" id="755" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.21" form="ἐπακολουθήσητε" head-id="755" id="756" lemma="ἐπακολουθέω" morphology="2pasa----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.21" form="τοῖς" head-id="758" id="757" lemma="ὁ" morphology="-p---nd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.21" form="ἴχνεσιν" head-id="756" id="758" lemma="ἴχνος" morphology="-p---nd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.21" form="αὐτοῦ" head-id="758" id="759" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after="·" relation="atr" />
+      </sentence>
+      <sentence id="159536" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.22" form="ὃς" head-id="763" id="760" lemma="ὅς" morphology="-s---mn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.22" form="ἁμαρτίαν" head-id="763" id="761" lemma="ἁμαρτία" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.22" form="οὐκ" head-id="763" id="762" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.22" form="ἐποίησεν" head-id="764" id="763" lemma="ποιέω" morphology="3saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.22" form="οὐδὲ" id="764" lemma="οὐδέ" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.22" form="εὑρέθη" head-id="764" id="765" lemma="εὑρίσκω" morphology="3saip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.22" form="δόλος" head-id="765" id="766" lemma="δόλος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.22" form="ἐν" head-id="765" id="767" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.22" form="τῷ" head-id="769" id="768" lemma="ὁ" morphology="-s---nd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.22" form="στόματι" head-id="767" id="769" lemma="στόμα" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.22" form="αὐτοῦ" head-id="769" id="770" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after="·" relation="atr" />
+      </sentence>
+      <sentence id="32148" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.23" form="ὃς" head-id="774" id="771" lemma="ὅς" morphology="-s---mn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.23" form="λοιδορούμενος" head-id="774" id="772" lemma="λοιδορέω" morphology="-spppmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481379" />
+        </token>
+        <token citation-part="1PET 2.23" form="οὐκ" head-id="774" id="773" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.23" form="ἀντελοιδόρει" id="774" lemma="ἀντιλοιδορέω" morphology="3siia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159537" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.23" form="πάσχων" head-id="777" id="775" lemma="πάσχω" morphology="-sppamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481386" />
+        </token>
+        <token citation-part="1PET 2.23" form="οὐκ" head-id="777" id="776" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.23" form="ἠπείλει" id="777" lemma="ἀπειλέω" morphology="3siia----i" part-of-speech="V-" presentation-after=", " relation="pred" />
+      </sentence>
+      <sentence id="159538" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.23" form="παρεδίδου" id="778" lemma="παραδίδωμι" morphology="3siia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.23" form="δὲ" head-id="778" id="779" lemma="δέ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.23" form="τῷ" head-id="781" id="780" lemma="ὁ" morphology="-s---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.23" form="κρίνοντι" head-id="778" id="781" lemma="κρίνω" morphology="-sppamd--i" part-of-speech="V-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.23" form="δικαίως" head-id="781" id="782" lemma="δικαίως" morphology="-------p-i" part-of-speech="Df" presentation-after="·" relation="adv" />
+      </sentence>
+      <sentence id="32149" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.24" form="ὃς" head-id="788" id="783" lemma="ὅς" morphology="-s---mn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.24" form="τὰς" head-id="785" id="784" lemma="ὁ" morphology="-p---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="ἁμαρτίας" head-id="788" id="785" lemma="ἁμαρτία" morphology="-p---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 2.24" form="ἡμῶν" head-id="785" id="786" lemma="ἡμεῖς" morphology="1p---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.24" form="αὐτὸς" head-id="783" id="787" lemma="αὐτός" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.24" form="ἀνήνεγκεν" id="788" lemma="ἀναφέρω" morphology="3saia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.24" form="ἐν" head-id="788" id="789" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.24" form="τῷ" head-id="791" id="790" lemma="ὁ" morphology="-s---nd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="σώματι" head-id="789" id="791" lemma="σῶμα" morphology="-s---nd--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.24" form="αὐτοῦ" head-id="791" id="792" lemma="αὐτός" morphology="3s---mg--i" part-of-speech="Pp" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.24" form="ἐπὶ" head-id="788" id="793" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.24" form="τὸ" head-id="795" id="794" lemma="ὁ" morphology="-s---na--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="ξύλον" head-id="793" id="795" lemma="ξύλον" morphology="-s---na--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 2.24" form="ἵνα" head-id="788" id="796" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.24" form="ταῖς" head-id="798" id="797" lemma="ὁ" morphology="-p---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="ἁμαρτίαις" head-id="799" id="798" lemma="ἁμαρτία" morphology="-p---fd--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.24" form="ἀπογενόμενοι" head-id="802" id="799" lemma="ἀπογίγνομαι" morphology="-papmmn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481414" />
+        </token>
+        <token citation-part="1PET 2.24" form="τῇ" head-id="801" id="800" lemma="ὁ" morphology="-s---fd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="δικαιοσύνῃ" head-id="802" id="801" lemma="δικαιοσύνη" morphology="-s---fd--i" part-of-speech="Nb" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.24" form="ζήσωμεν" head-id="796" id="802" lemma="ζῶ" morphology="1pasa----i" part-of-speech="V-" presentation-after="·" relation="pred" />
+      </sentence>
+      <sentence id="32150" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 2.24" form="οὗ" head-id="805" id="803" lemma="ὅς" morphology="-s---mg--i" part-of-speech="Pr" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.24" form="τῷ" head-id="805" id="804" lemma="ὁ" morphology="-s---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.24" form="μώλωπι" head-id="806" id="805" lemma="μώλωψ" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="ag" />
+        <token citation-part="1PET 2.24" form="ἰάθητε" id="806" lemma="ἰάομαι" morphology="2paip----i" part-of-speech="V-" presentation-after="." relation="pred" />
+      </sentence>
+      <sentence id="32151" status="reviewed">
+        <token citation-part="1PET 2.25" form="ἦτε" head-id="812" id="807" lemma="εἰμί#1" morphology="2piia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.25" form="γὰρ" head-id="807" id="808" lemma="γάρ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.25" form="ὡς" head-id="807" id="809" lemma="ὡς" morphology="---------n" part-of-speech="Dq" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.25" form="πρόβατα" head-id="809" id="810" lemma="πρόβατον" morphology="-p---nn--i" part-of-speech="Nb" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 2.25" form="πλανώμενοι" head-id="807" id="811" lemma="πλανάω" morphology="-ppppmn--i" part-of-speech="V-" presentation-after=", " relation="xobj">
+          <slash relation="xsub" target-id="481421" />
+        </token>
+        <token citation-part="1PET 2.25" form="ἀλλ’" id="812" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.25" form="ἐπεστράφητε" head-id="812" id="813" lemma="ἐπιστρέφω" morphology="2paip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 2.25" form="νῦν" head-id="813" id="814" lemma="νῦν#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 2.25" form="ἐπὶ" head-id="813" id="815" lemma="ἐπί" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.25" form="τὸν" head-id="817" id="816" lemma="ὁ" morphology="-s---ma--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.25" form="ποιμένα" head-id="818" id="817" lemma="ποιμήν" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.25" form="καὶ" head-id="815" id="818" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.25" form="ἐπίσκοπον" head-id="818" id="819" lemma="ἐπίσκοπος" morphology="-s---ma--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 2.25" form="τῶν" head-id="821" id="820" lemma="ὁ" morphology="-p---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 2.25" form="ψυχῶν" head-id="819" id="821" lemma="ψυχή" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 2.25" form="ὑμῶν" head-id="821" id="822" lemma="ὑμεῖς" morphology="2p---mg--i" part-of-speech="Pp" presentation-after="." relation="atr" />
+      </sentence>
+    </div>
+    <div id="300">
+      <title>1 Peter 3</title>
+      <sentence id="32152" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 3.1" form="Ὁμοίως" head-id="825" id="823" lemma="ὁμοίως" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.1" form="γυναῖκες" id="824" lemma="γυνή" morphology="-p---fv--i" part-of-speech="Nb" presentation-after=" " relation="voc" />
+        <token citation-part="1PET 3.1" form="ὑποτασσόμεναι" head-id="851" id="825" lemma="ὑποτάσσω" morphology="-ppppfn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="2018799" />
+        </token>
+        <token citation-part="1PET 3.1" form="τοῖς" head-id="828" id="826" lemma="ὁ" morphology="-p---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.1" form="ἰδίοις" head-id="828" id="827" lemma="ἴδιος" morphology="-p---mdp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.1" form="ἀνδράσιν" head-id="825" id="828" lemma="ἀνήρ" morphology="-p---md--i" part-of-speech="Nb" presentation-after=", " relation="obl" />
+        <token citation-part="1PET 3.1" form="ἵνα" head-id="825" id="829" lemma="ἵνα" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.1" form="καὶ" head-id="843" id="830" lemma="καί#1" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.1" form="εἴ" head-id="843" id="831" lemma="εἰ" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.1" form="τινες" head-id="833" id="832" lemma="τὶς" morphology="-p---mn--i" part-of-speech="Px" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 3.1" form="ἀπειθοῦσιν" head-id="831" id="833" lemma="ἀπειθέω" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 3.1" form="τῷ" head-id="835" id="834" lemma="ὁ" morphology="-s---md--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.1" form="λόγῳ" head-id="833" id="835" lemma="λόγος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.1" form="διὰ" head-id="843" id="836" lemma="διά" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.1" form="τῆς" head-id="840" id="837" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.1" form="τῶν" head-id="839" id="838" lemma="ὁ" morphology="-p---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.1" form="γυναικῶν" head-id="840" id="839" lemma="γυνή" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.1" form="ἀναστροφῆς" head-id="836" id="840" lemma="ἀναστροφή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.1" form="ἄνευ" head-id="843" id="841" lemma="ἄνευ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.1" form="λόγου" head-id="841" id="842" lemma="λόγος" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.1" form="κερδηθήσονται" head-id="829" id="843" lemma="κερδαίνω" morphology="3pfip----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 3.2" form="ἐποπτεύσαντες" head-id="843" id="844" lemma="ἐποπτεύω" morphology="-papamn--i" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="481460" />
+        </token>
+        <token citation-part="1PET 3.2" form="τὴν" head-id="849" id="845" lemma="ὁ" morphology="-s---fa--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.2" form="ἐν" head-id="844" id="846" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.2" form="φόβῳ" head-id="846" id="847" lemma="φόβος" morphology="-s---md--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.2" form="ἁγνὴν" head-id="849" id="848" lemma="ἁγνός" morphology="-s---fap-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.2" form="ἀναστροφὴν" head-id="844" id="849" lemma="ἀναστροφή" morphology="-s---fa--i" part-of-speech="Nb" presentation-after=" " relation="obj" />
+        <token citation-part="1PET 3.2" form="ὑμῶν" head-id="849" id="850" lemma="ὑμεῖς" morphology="2p---fg--i" part-of-speech="Pp" presentation-after="." relation="atr" />
+        <token empty-token-sort="V" id="851" relation="pred" />
+      </sentence>
+      <sentence id="32153" presentation-after=" " status="reviewed">
+        <token citation-part="1PET 3.3" form="ὧν" head-id="865" id="852" lemma="ὅς" morphology="-p---fg--i" part-of-speech="Pr" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="ἔστω" head-id="866" id="853" lemma="εἰμί#1" morphology="3spma----i" part-of-speech="V-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 3.3" form="οὐχ" head-id="853" id="854" lemma="οὐ" morphology="---------n" part-of-speech="Df" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.3" form="ὁ" head-id="856" id="855" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.3" form="ἔξωθεν" head-id="853" id="856" lemma="ἔξωθεν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="481482" />
+        </token>
+        <token citation-part="1PET 3.3" form="ἐμπλοκῆς" head-id="859" id="857" lemma="ἐμπλοκή" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="τριχῶν" head-id="857" id="858" lemma="θρίξ" morphology="-p---fg--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 3.3" form="καὶ" head-id="862" id="859" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="περιθέσεως" head-id="859" id="860" lemma="περίθεσις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="χρυσίων" head-id="860" id="861" lemma="χρύσεος" morphology="-p---fgp-i" part-of-speech="A-" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 3.3" form="ἢ" head-id="856" id="862" lemma="ἤ" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="ἐνδύσεως" head-id="862" id="863" lemma="ἔνδυσις" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.3" form="ἱματίων" head-id="863" id="864" lemma="ἱμάτιον" morphology="-p---ng--i" part-of-speech="Nb" presentation-after=" " relation="narg" />
+        <token citation-part="1PET 3.3" form="κόσμος" head-id="853" id="865" lemma="κόσμος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=", " relation="sub" />
+        <token citation-part="1PET 3.4" form="ἀλλ’" id="866" lemma="ἀλλά" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred" />
+        <token citation-part="1PET 3.4" form="ὁ" head-id="871" id="867" lemma="ὁ" morphology="-s---mn--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.4" form="κρυπτὸς" head-id="871" id="868" lemma="κρυπτός" morphology="-s---mnp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.4" form="τῆς" head-id="870" id="869" lemma="ὁ" morphology="-s---fg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.4" form="καρδίας" head-id="871" id="870" lemma="καρδία" morphology="-s---fg--i" part-of-speech="Nb" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.4" form="ἄνθρωπος" head-id="886" id="871" lemma="ἄνθρωπος" morphology="-s---mn--i" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="2018802" />
+        </token>
+        <token citation-part="1PET 3.4" form="ἐν" head-id="886" id="872" lemma="ἐν" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.4" form="τῷ" head-id="874" id="873" lemma="ὁ" morphology="-s---nd--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.4" form="ἀφθάρτῳ" head-id="872" id="874" lemma="ἄφθαρτος" morphology="-s---ndp-i" part-of-speech="A-" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.4" form="τοῦ" head-id="879" id="875" lemma="ὁ" morphology="-s---ng--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.4" form="πραέως" head-id="877" id="876" lemma="πρᾶος" morphology="-s---ngp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.4" form="καὶ" head-id="879" id="877" lemma="καί" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.4" form="ἡσυχίου" head-id="877" id="878" lemma="ἡσύχιος" morphology="-s---ngp-i" part-of-speech="A-" presentation-after=" " relation="atr" />
+        <token citation-part="1PET 3.4" form="πνεύματος" head-id="874" id="879" lemma="πνεῦμα" morphology="-s---ng--i" part-of-speech="Nb" presentation-after=", " relation="atr" />
+        <token citation-part="1PET 3.4" form="ὅ" head-id="881" id="880" lemma="ὅς" morphology="-s---nn--i" part-of-speech="Pr" presentation-after=" " relation="sub" />
+        <token citation-part="1PET 3.4" form="ἐστιν" head-id="879" id="881" lemma="εἰμί#1" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="apos" />
+        <token citation-part="1PET 3.4" form="ἐνώπιον" head-id="881" id="882" lemma="ἐνώπιον" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv" />
+        <token citation-part="1PET 3.4" form="τοῦ" head-id="884" id="883" lemma="ὁ" morphology="-s---mg--i" part-of-speech="S-" presentation-after=" " relation="aux" />
+        <token citation-part="1PET 3.4" form="θεοῦ" head-id="882" id="884" lemma="θεός" morphology="-s---mg--i" part-of-speech="Nb" presentation-after=" " relation="obl" />
+        <token citation-part="1PET 3.4" form="πολυτελές" head-id="881" id="885" lemma="πολυτελής" morphology="-s---nnp-i" part-of-speech="A-" presentation-after="." relation="xobj">
+          <slash relation="xsub" target-id="481499" />
+        </token>
+        <token empty-token-sort="V" head-id="866" id="886" relation="pred">
+          <slash relation="pid" target-id="481470" />
+        </token>
+      </sentence>
+    </div>
+  </source>
+</proiel>
