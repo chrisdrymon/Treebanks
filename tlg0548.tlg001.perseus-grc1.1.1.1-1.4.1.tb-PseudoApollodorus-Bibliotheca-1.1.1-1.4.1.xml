@@ -35,11 +35,11 @@
       </editionStmt>
       <biblStruct>
         <monogr>
-          <title>Apollodorus, The Library, with an English Translation by Sir James George Frazer, F.B.A., F.R.S. in 2 Volumes.</title>
-          <author>Apollodorus</author>
+          <title>Bibliotheca</title>
+          <author>Pseudo-Apollodorus</author>
           <imprint>
             <publisher>Cambridge, MA, Harvard University Press; London, William Heinemann Ltd.</publisher>
-            <date>1921</date>
+            <date>100</date>
           </imprint>
           <biblScope>1.1.1-1.4.1</biblScope>
         </monogr>

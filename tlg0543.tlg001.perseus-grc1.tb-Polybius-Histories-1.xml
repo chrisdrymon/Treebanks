@@ -47,7 +47,7 @@
           <imprint>
             <pubPlace>Leipzig</pubPlace>
             <publisher>Teubner</publisher>
-            <date>1893-</date>
+            <date>-130</date>
           </imprint>
           <biblScope>Book I</biblScope>
         </monogr>
@@ -20236,7 +20236,7 @@
       <word form="οὔτε" head="0" id="18856" lemma="οὔτε" postag="c--------" relation="COORD" />
       <word form="τοῖς" head="18858" id="18857" lemma="ὁ" postag="l-p---md-" relation="ATR" />
       <word form="ἀκούουσιν" head="18860" id="18858" lemma="ἀκούω" postag="v-pppamd-" relation="OBJ" />
-      <word form="ἀργῶς" head="18860" id="18859" lemma="ἀργός" postag="d---" relation="ADV" />
+      <word form="ἀργῶς" head="18860" id="18859" lemma="ἀργός" postag="d--------" relation="ADV" />
       <word form="προσεκτέον" head="18856" id="18860" lemma="προσεκτέος" postag="a-s---nn-" presentation-after="." relation="PRED_CO" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1" id="727" subdoc="1.64">
@@ -20627,7 +20627,7 @@
       <word form="δὲ" head="19233" id="19229" lemma="δέ" postag="d--------" relation="AuxY" />
       <word form="τὸ" head="19231" id="19230" lemma="ὁ" postag="l-s---na-" relation="ATR" />
       <word form="μέλλον" head="19228" id="19231" lemma="μέλλω" postag="v-sppana-" relation="OBJ" />
-      <word form="ἐμφρόνως" head="19233" id="19232" lemma="ἔμφρων" postag="d---" relation="ADV" />
+      <word form="ἐμφρόνως" head="19233" id="19232" lemma="ἔμφρων" postag="d--------" relation="ADV" />
       <word form="ἐνεβίβαζε" head="0" id="19233" lemma="ἐμβιβάζω" postag="v3siia---" relation="PRED" />
       <word form="κατὰ" head="19233" id="19234" lemma="κατά" postag="r--------" relation="AuxP" />
       <word form="μέρη" head="19234" id="19235" lemma="μέρος" postag="n-p---na-" relation="ADV" />

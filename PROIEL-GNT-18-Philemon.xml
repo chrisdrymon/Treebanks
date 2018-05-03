@@ -163,11 +163,13 @@
     </information-statuses>
   </annotation>
   <source id="greek-nt" language="grc" jewish="yes">
-    <title>The Greek New Testament</title>
+    <title>Philemon</title>
+    <author>Paul</author>
+    <date-of-writing>60</date-of-writing>
     <citation-part>GNT</citation-part>
     <principal>Dag Trygve Truslew Haug</principal>
     <funder>Research Council of Norway</funder>
-    <distributor>Department of Philosophy, Classics, History of Arts and Ideas</distributor>
+    <distributor>Department of Philosophy, Classics, History of 2 timothyArts and Ideas</distributor>
     <distributor-address>PO Box 1020 Blindern, N-0315 Oslo</distributor-address>
     <date>06 July 2017</date>
     <license>CC BY-NC-SA 3.0</license>

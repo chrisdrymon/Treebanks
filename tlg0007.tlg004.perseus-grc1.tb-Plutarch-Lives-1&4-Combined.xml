@@ -60,7 +60,7 @@
       <biblStruct>
         <monogr>
           <author>Plutarch</author>
-          <title>Plutarch's Lives</title>
+          <title>Lives</title>
           <respStmt>
             <resp>with an English Translation by</resp>
             <name>Bernadotte Perrin</name>
@@ -70,10 +70,10 @@
             <publisher>Harvard University Press</publisher>
             <pubPlace>London</pubPlace>
             <publisher>William Heinemann Ltd.</publisher>
-            <date>1914</date>
+            <date>100</date>
           </imprint>
           <biblScope type="volume">1</biblScope>
-          <biblScope>Lycurgus</biblScope>
+          <biblScope>Lycurgus and Alcibiades</biblScope>
         </monogr>
       </biblStruct>
     </fileDesc>

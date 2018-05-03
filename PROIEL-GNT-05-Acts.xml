@@ -163,7 +163,9 @@
     </information-statuses>
   </annotation>
   <source id="greek-nt" language="grc" jewish="yes">
-    <title>The Greek New Testament</title>
+    <title>Acts</title>
+    <author>Luke</author>
+    <date-of-writing>75</date-of-writing>
     <citation-part>GNT</citation-part>
     <principal>Dag Trygve Truslew Haug</principal>
     <funder>Research Council of Norway</funder>

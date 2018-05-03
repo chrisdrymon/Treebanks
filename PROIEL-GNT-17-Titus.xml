@@ -163,7 +163,9 @@
     </information-statuses>
   </annotation>
   <source id="greek-nt" language="grc" jewish="yes">
-    <title>The Greek New Testament</title>
+    <title>Titus</title>
+    <author>Paul</author>
+    <date-of-writing>65</date-of-writing>
     <citation-part>GNT</citation-part>
     <principal>Dag Trygve Truslew Haug</principal>
     <funder>Research Council of Norway</funder>
