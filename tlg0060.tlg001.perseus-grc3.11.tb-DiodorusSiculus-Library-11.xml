@@ -14089,7 +14089,7 @@
       <word form="οὐδεὶς" head="13009" id="13008" lemma="οὐδείς" postag="p-s---mn-" relation="SBJ" />
       <word form="ἤλπισεν" head="0" id="13009" lemma="ἐλπίζω" postag="v3saia---" relation="PRED" />
       <word form="οὐδένα" head="13011" id="13010" lemma="οὐδείς" postag="p-s---ma-" relation="SBJ" />
-      <word form="τολμήσειν" head="13009" id="13011" lemma="τολμάω" postag="v--fna--" relation="OBJ" />
+      <word form="τολμήσειν" head="13009" id="13011" lemma="τολμάω" postag="v--fna---" relation="OBJ" />
       <word form="συμβουλεῦσαι" head="13011" id="13012" lemma="συμβουλεύω" postag="v--ana---" relation="OBJ" />
       <word form="ἕτερόν" head="13014" id="13013" lemma="ἕτερος" postag="a-s---na-" relation="ATR" />
       <word form="τι" head="13012" id="13014" lemma="τις" postag="p-s---na-" presentation-after="." relation="OBJ" />

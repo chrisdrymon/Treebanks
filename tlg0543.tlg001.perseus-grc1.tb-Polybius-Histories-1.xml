@@ -22874,7 +22874,7 @@
       <word form="Ἰτυκαίους" head="21337" id="21336" lemma="Ἰτυκαῖος" postag="n-p---ma-" relation="OBJ_CO" />
       <word form="καὶ" head="21334" id="21337" lemma="καί" postag="c--------" relation="COORD" />
       <word form="τοὺς" head="21339" id="21338" lemma="ὁ" postag="l-p---ma-" relation="ATR" />
-      <word form="Ἱππακρίτας" head="21337" id="21339" lemma="" postag="--------" presentation-after="," relation="OBJ_CO" />
+      <word form="Ἱππακρίτας" head="21337" id="21339" lemma="" postag="---------" presentation-after="," relation="OBJ_CO" />
       <word form="βεβαίως" head="21347" id="21340" lemma="βέβαιος" postag="d--------" relation="ADV" />
       <word form="δὲ" head="21349" id="21341" lemma="δέ" postag="d--------" relation="AuxY" />
       <word form="τὴν" head="21346" id="21342" lemma="ὁ" postag="l-s---fa-" relation="ATR" />
@@ -24059,7 +24059,7 @@
       <word form="ἐπὶ" head="22454" id="22449" lemma="ἐπί" postag="r--------" relation="AuxP" />
       <word form="τῆς" head="22453" id="22450" lemma="ὁ" postag="l-s---fg-" relation="ATR" />
       <word form="τῶν" head="22452" id="22451" lemma="ὁ" postag="l-p---mg-" relation="ATR" />
-      <word form="Ἱππακριτῶν" head="22453" id="22452" lemma="" postag="--------" relation="ATR" />
+      <word form="Ἱππακριτῶν" head="22453" id="22452" lemma="" postag="---------" relation="ATR" />
       <word form="πολιορκίας" head="22449" id="22453" lemma="πολιορκία" postag="n-s---fg-" relation="OBJ" />
       <word form="ἐπέμενεν" head="22456" id="22454" lemma="ἐπιμένω" postag="v3siia---" presentation-after="," relation="PRED_CO" />
       <word form="τοῖς" head="22469" id="22455" lemma="ὁ" postag="l-p---md-" relation="OBJ" />
