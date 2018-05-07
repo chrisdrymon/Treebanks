@@ -22381,7 +22381,7 @@
       <word form="οἱ" head="20891" id="20876" lemma="ὁ" postag="l-p---mn-" relation="SBJ" />
       <word form="δὲ" head="0" id="20877" lemma="δέ" postag="c--------" relation="COORD" />
       <word form="τοὺς" head="20879" id="20878" lemma="ὁ" postag="l-p---ma-" relation="ATR" />
-      <word form="Ἱππακρίτας" head="20891" id="20879" lemma="" postag="--------" presentation-after="," relation="OBJ" />
+      <word form="Ἱππακρίτας" head="20891" id="20879" lemma="" postag="---------" presentation-after="," relation="OBJ" />
       <word form="διὰ" head="20877" id="20880" lemma="διά" postag="r--------" relation="AuxP" />
       <word form="τὸ" head="20886" id="20881" lemma="ὁ" postag="l-s---na-" relation="ATR" />
       <word form="ταύτας" head="20884" id="20882" lemma="οὗτος" postag="a-p---fa-" relation="ATR" />
