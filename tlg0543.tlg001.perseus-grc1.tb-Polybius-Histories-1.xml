@@ -1238,7 +1238,7 @@
       <word form="ἐκείνοις" head="1112" id="1115" lemma="ἐκεῖνος" postag="p-p---md-" presentation-after="," relation="OBJ" />
       <word form="ταχέως" head="1121" id="1116" lemma="ταχύς" postag="d--------" relation="ADV" />
       <word form="ἂν" head="1121" id="1117" lemma="ἄν" postag="d--------" relation="AuxY" />
-      <word form="οἶμαι" head="0" id="1118" lemma="οἴομαι" postag="v1ppid---" relation="PRED" />
+      <word form="οἶμαι" head="0" id="1118" lemma="οἴομαι" postag="v1ppie---" relation="PRED" />
       <word form="πάντας" head="1120" id="1119" lemma="πᾶς" postag="a-p---ma-" relation="ATR" />
       <word form="αὐτοὺς" head="1121" id="1120" lemma="αὐτός" postag="p-p---ma-" relation="SBJ" />
       <word form="ὁμολογήσειν" head="1118" id="1121" lemma="ὁμολογέω" postag="v--fna---" relation="OBJ" />
@@ -2191,7 +2191,7 @@
       <word form="συνορούσης" head="2001" id="2003" lemma="συνοράω" postag="v-sppafg-" relation="ADV" />
       <word form="οὐχ" head="2007" id="2004" lemma="οὐ" postag="d--------" relation="AuxZ" />
       <word form="ὡς" head="2007" id="2005" lemma="ὡς" postag="c--------" relation="AuxC" />
-      <word form="ἔτυχε" head="2005" id="2006" lemma="τυγχάνω" postag="v3said---" relation="ADV" />
+      <word form="ἔτυχε" head="2005" id="2006" lemma="τυγχάνω" postag="v3saia---" relation="ADV" />
       <word form="παρηνώχλουν" head="2014" id="2007" lemma="παρά,ἀνά-ὀχλέω" postag="v3piia---" relation="PRED_CO" />
       <word form="τοῖς" head="2010" id="2008" lemma="ὁ" postag="l-p---md-" relation="ATR" />
       <word form="τε" head="2011" id="2009" lemma="τε" postag="d--------" relation="AuxY" />
@@ -2411,7 +2411,7 @@
       <word form="ὅτ̓" head="2202" id="2214" lemma="ὅτι" postag="c--------" relation="AuxC" />
       <word form="αὐτὸν" head="2216" id="2215" lemma="αὐτός" postag="p-s---ma-" relation="SBJ" />
       <word form="ἐξιέναι" head="2217" id="2216" lemma="ἐξίημι" postag="v--pna---" relation="OBJ" />
-      <word form="δέοι" head="2214" id="2217" lemma="δέω" postag="v3spod---" relation="ADV" />
+      <word form="δέοι" head="2214" id="2217" lemma="δέω" postag="v3spoa---" relation="ADV" />
       <word form="μετὰ" head="2216" id="2218" lemma="μετά" postag="r--------" relation="AuxP" />
       <word form="τῶν" head="2220" id="2219" lemma="ὁ" postag="l-p---fg-" relation="ATR" />
       <word form="δυνάμεων" head="2218" id="2220" lemma="δύναμις" postag="n-p---fg-" relation="ADV" />
