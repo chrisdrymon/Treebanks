@@ -2692,7 +2692,7 @@
       <word form="βοηθεῖν" head="2479" id="2478" lemma="βοηθέω" postag="v--pna---" relation="OBJ" />
       <word form="ζητεῖν" head="2495" id="2479" lemma="ζητέω" postag="v--pna---" relation="SBJ" />
       <word form="τοῖς" head="2477" id="2480" lemma="ὁ" postag="l-p---md-" relation="ATR" />
-      <word form="τὰ" head="2482" id="2481" lemma="ὁ" postag="l-p---nb-" relation="ATR" />
+      <word form="τὰ" head="2482" id="2481" lemma="ὁ" postag="l-p---na-" relation="ATR" />
       <word form="παραπλήσια" head="2483" id="2482" lemma="παραπλήσιος" postag="a-p---na-" relation="OBJ" />
       <word form="πεποιηκόσιν" head="2477" id="2483" lemma="ποιέω" postag="v-prpamd-" relation="ATR" />
       <word form="οὐ" head="2485" id="2484" lemma="οὐ" postag="d--------" relation="AuxZ" />
