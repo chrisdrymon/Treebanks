@@ -7371,7 +7371,7 @@
       <word form="καὶ" head="6763" id="6748" lemma="καί" postag="c--------" relation="COORD" />
       <word form="τῶν" head="6750" id="6749" lemma="ὁ" postag="l-p---mg-" relation="ATR" />
       <word form="πολεμίων" head="6751" id="6750" lemma="πολέμιος" postag="a-p---mg-" relation="SBJ" />
-      <word form="παρόντων" head="6748" id="6751" lemma="πάρειμι" postag="v-ppgamg-" presentation-after="," relation="ATR_CO" />
+      <word form="παρόντων" head="6748" id="6751" lemma="πάρειμι" postag="v-pppamg-" presentation-after="," relation="ATR_CO" />
       <word form="ὁ" head="6753" id="6752" lemma="ὁ" postag="l-s---mn-" relation="ATR" />
       <word form="βασιλεὺς" head="6763" id="6753" lemma="βασιλεύς" postag="n-s---mn-" relation="SBJ" />
       <word form="ἅμα" head="6763" id="6754" lemma="ἅμα" postag="d--------" relation="AuxZ" />
