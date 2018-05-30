@@ -5077,10 +5077,8 @@
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg001.perseus-grc2" id="2898343" subdoc="828-829">
       <annotator>FrancescoM</annotator>
-      <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="ἰόφ" head="0" id="3949" lemma="" postag="---------" relation="UNDEFINED" />
-      <word cite="" form=".." head="0" id="3950" lemma="" postag="---------" relation="UNDEFINED" />
-      <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="ὀμ" head="0" id="3951" lemma="" postag="---------" relation="UNDEFINED" />
-      <word cite="" form=".." head="0" id="3952" lemma="" postag="---------" relation="UNDEFINED" />
+      <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="ἰόφ" head="0" id="3949" lemma="" postag="---------" relation="UNDEFINED" presentation-after=".." />
+      <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="ὀμ" head="0" id="3951" lemma="" postag="---------" relation="UNDEFINED" presentation-after=".."/>
       <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="αὖθι" head="0" id="3953" lemma="" postag="---------" relation="UNDEFINED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="κάκκας" head="0" id="3954" lemma="" postag="---------" relation="UNDEFINED" />
       <word cite="urn:cts:greekLit:tlg0085.tlg001:828" form="νυ" head="0" id="3955" lemma="" postag="---------" relation="UNDEFINED" />

@@ -20408,8 +20408,7 @@
       <word form="ἐκπεσόντος" head="19165" id="19166" lemma="ἐκπίτνω" postag="v-sapamg-" relation="ADV" />
       <word form="αὐτοῦ" head="19166" id="19167" lemma="αὐτός" postag="p-s---mg-" relation="SBJ" />
       <word form="ῥᾷον" head="19178" id="19168" lemma="ῥᾴδιος" postag="a-s---nac" relation="PNOM" />
-      <word form="&lt;" head="19170" id="19169" lemma="&lt;" postag="u--------" relation="AuxG" />
-      <word form="ἂν" head="19173" id="19170" lemma="ἄν" postag="d--------" relation="AuxY" />
+      <word form="ἂν" head="19173" id="19170" lemma="ἄν" postag="d--------" presentation-before="<" presentation-after=">" relation="AuxY" />
       <word form="&gt;" head="19170" id="19171" lemma="&gt;" postag="u--------" relation="AuxG" />
       <word form="σφίσι" head="19168" id="19172" lemma="σφεῖς" postag="p-p---md-" relation="ADV" />
       <word form="προχωρεῖν" head="19178" id="19173" lemma="προχωρέω" postag="v--pna---" relation="SBJ" />

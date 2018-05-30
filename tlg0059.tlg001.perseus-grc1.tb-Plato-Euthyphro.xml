@@ -4574,8 +4574,7 @@
       <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="αἰδώς" head="3835" id="3829" lemma="αἰδώς" postag="n-s---fn-" presentation-after="." relation="SBJ" />
       <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="στασινυς" head="0" id="3830" lemma="" postag="---------" relation="UNDEFINED" />
       <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="ξψπρια" head="0" id="3831" lemma="" postag="---------" relation="UNDEFINED" />
-      <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="φρ" head="0" id="3832" lemma="" postag="---------" presentation-after="." relation="UNDEFINED" />
-      <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="20" head="0" id="3833" lemma="" postag="---------" relation="UNDEFINED" />
+      <word cite="urn:cts:greekLit:tlg0059.tlg001:1" form="φρ 20" head="0" id="3832" lemma="" postag="---------" presentation-after="." relation="UNDEFINED" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0059.tlg001.perseus-grc1" id="2858239" subdoc="1">
       <annotator>celano</annotator>

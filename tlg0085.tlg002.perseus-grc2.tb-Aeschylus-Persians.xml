@@ -4217,8 +4217,7 @@
       <word cite="urn:cts:greekLit:tlg0085.tlg002:676" form="σᾷ" head="3428" id="3430" lemma="σός" postag="a-s---fd-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:676" form="δίδυμα" head="3434" id="3431" lemma="δίδυμος" postag="a-p---nn-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0085.tlg002:676" form="διαγόεν" head="0" id="3433" lemma="" postag="---------" presentation-after="]" relation="UNDEFINED" />
-      <word cite="urn:cts:greekLit:tlg0085.tlg002:676" form="ἁμάρτια" head="3436" id="3434" lemma="ἁμάρτιον" postag="n-p---nn-" relation="SBJ" />
-      <word cite="" form=";?" head="0" id="3435" lemma="πυνξτ" postag="---------" relation="UNDEFINED" />
+      <word cite="urn:cts:greekLit:tlg0085.tlg002:676" form="ἁμάρτια" head="3436" id="3434" lemma="ἁμάρτιον" postag="n-p---nn-" presentation-after="†" relation="SBJ" />
       </sentence>
     <sentence document_id="urn:cts:greekLit:tlg0085.tlg002.perseus-grc2" id="2901033" subdoc="677-680">
       <annotator>FrancescoM</annotator>
