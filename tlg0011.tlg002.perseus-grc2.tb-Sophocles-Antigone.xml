@@ -3128,7 +3128,7 @@
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="τάς" head="2526" id="2522" lemma="ὁ" postag="p-p---fa-" relation="OBJ_CO" />
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="τε" head="2526" id="2523" lemma="τε" postag="g--------" relation="AuxY" />
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="πρόσθεν" head="2522" id="2524" lemma="πρόσθεν" postag="d--------" relation="ATR" />
-      <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="τάς" head="2529" id="2525" lemma="ὁ" postag="--p---fa-" relation="ATR" />
+      <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="τάς" head="2529" id="2525" lemma="ὁ" postag="l-p---fa-" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="τε" head="2528" id="2526" lemma="τε" postag="g--------" relation="COORD" />
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="νῦν" head="2529" id="2527" lemma="νῦν" postag="d--------" relation="ATR" />
       <word cite="urn:cts:greekLit:tlg0011.tlg002:434" form="ἠλέγχομεν" head="2521" id="2528" lemma="ἐλέγχω" postag="v1piia---" relation="PRED_CO" />
